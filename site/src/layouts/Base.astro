@@ -1,0 +1,51 @@
+---
+import "../styles/global.css";
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = "Automatically-updated video game console sales, with sources." } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title} — console-tally</title>
+    <meta name="description" content={description} />
+    <meta property="og:title" content={`${title} — console-tally`} />
+    <meta property="og:description" content={description} />
+    <link rel="icon" type="image/svg+xml" href={`${base}/favicon.svg`} />
+  </head>
+  <body>
+    <header class="site">
+      <div class="container">
+        <h1><a href={`${base}/`}>console-tally</a></h1>
+        <nav>
+          <a href={`${base}/`}>Global</a>
+          <a href={`${base}/region/japan`}>Japan</a>
+          <a href={`${base}/region/americas`}>Americas</a>
+          <a href={`${base}/region/emea`}>EMEA</a>
+          <a href={`${base}/sources`}>Sources</a>
+          <a href={`${base}/about`}>About</a>
+        </nav>
+      </div>
+    </header>
+    <main>
+      <div class="container">
+        <slot />
+      </div>
+    </main>
+    <footer class="site">
+      <div class="container">
+        Open data: <a href={`${base}/data/consoles.json`}>consoles.json</a> ·
+        <a href={`${base}/data/regions.json`}>regions.json</a> ·
+        <a href={`${base}/data/consoles.sqlite`}>consoles.sqlite</a> ·
+        <a href="https://github.com/Perefin/console-tally">source on GitHub</a>
+      </div>
+    </footer>
+  </body>
+</html>

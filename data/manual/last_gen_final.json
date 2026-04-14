@@ -1,0 +1,43 @@
+{
+  "_doc": "Final lifetime totals for discontinued platforms. These figures are stable; the only updates needed are if Nintendo/Sony issue a corrected historical number. Source URLs point at the first-party IR disclosures.",
+  "source": {
+    "key": "manual_last_gen_final",
+    "description": "Final lifetime unit figures for discontinued consoles, from first-party IR.",
+    "last_reviewed": "2026-04-14"
+  },
+  "facts": [
+    {
+      "variant": "3ds",
+      "region": "global",
+      "units_cumulative": 75940000,
+      "period_end": "2022-12-31",
+      "source_key": "nintendo_ir_hard_soft",
+      "source_url": "https://www.nintendo.co.jp/ir/en/finance/hard_soft/index.html",
+      "fetched_at": "2025-05-01T00:00:00Z",
+      "confidence": "official",
+      "note": "Final Nintendo IR figure for the 3DS family. Nintendo no longer updates this line."
+    },
+    {
+      "variant": "wii-u",
+      "region": "global",
+      "units_cumulative": 13560000,
+      "period_end": "2022-12-31",
+      "source_key": "nintendo_ir_hard_soft",
+      "source_url": "https://www.nintendo.co.jp/ir/en/finance/hard_soft/index.html",
+      "fetched_at": "2025-05-01T00:00:00Z",
+      "confidence": "official",
+      "note": "Final Nintendo IR figure for Wii U."
+    },
+    {
+      "variant": "ps4",
+      "region": "global",
+      "units_cumulative": 117200000,
+      "period_end": "2022-03-31",
+      "source_key": "sony_ir_final_ps4",
+      "source_url": "https://www.sony.com/en/SonyInfo/IR/library/presen/er/archive.html",
+      "fetched_at": "2025-05-01T00:00:00Z",
+      "confidence": "official",
+      "note": "Last PS4 lifetime figure Sony broke out separately before rolling PS4 into 'PlayStation platforms' reporting."
+    }
+  ]
+}

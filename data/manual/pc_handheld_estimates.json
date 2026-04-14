@@ -1,0 +1,21 @@
+{
+  "_doc": "ASUS, Lenovo, MSI, AYANEO, GPD, and One-Netbook do not break out handheld unit sales. Figures here come from IDC / Circana / DFC reports cited by trade press. Most entries are placeholders until credible public numbers land.",
+  "source": {
+    "key": "manual_pc_handheld_estimates",
+    "description": "Best-effort analyst estimates for non-Valve PC handhelds.",
+    "last_reviewed": "2026-04-14"
+  },
+  "facts": [
+    {
+      "variant": "rog-ally",
+      "region": "global",
+      "units_cumulative": 1000000,
+      "period_end": "2024-12-31",
+      "source_key": "circana_rog_ally_2024",
+      "source_url": "https://en.wikipedia.org/wiki/ASUS_ROG_Ally#Reception",
+      "fetched_at": "2025-05-01T00:00:00Z",
+      "confidence": "analyst_estimate",
+      "note": "~1M is the most commonly cited 2024 estimate for original ROG Ally. ASUS has not confirmed."
+    }
+  ]
+}

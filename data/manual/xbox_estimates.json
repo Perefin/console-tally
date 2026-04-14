@@ -1,0 +1,32 @@
+{
+  "_doc": "Microsoft stopped reporting Xbox unit sales in 2015. Every figure here is an analyst estimate or press-cited leak. Update via PR when a new credible figure is published. See CONTRIBUTING.md.",
+  "source": {
+    "key": "manual_xbox_estimates",
+    "description": "Analyst estimates for Xbox unit sales (Microsoft no longer reports).",
+    "last_reviewed": "2026-04-14"
+  },
+  "facts": [
+    {
+      "variant": "xbox-one",
+      "region": "global",
+      "units_cumulative": 58000000,
+      "period_end": "2022-12-31",
+      "source_key": "ampere_xbox_one_lifetime",
+      "source_url": "https://en.wikipedia.org/wiki/Xbox_One#Sales",
+      "fetched_at": "2025-05-01T00:00:00Z",
+      "confidence": "analyst_estimate",
+      "note": "Widely-cited Ampere/Niko Partners estimate for Xbox One lifetime. Microsoft never disclosed a final number."
+    },
+    {
+      "variant": "xbox-series",
+      "region": "global",
+      "units_cumulative": 29000000,
+      "period_end": "2024-12-31",
+      "source_key": "omdia_xbox_series_2025_q1",
+      "source_url": "https://en.wikipedia.org/wiki/Xbox_Series_X_and_Series_S#Sales",
+      "fetched_at": "2025-05-01T00:00:00Z",
+      "confidence": "analyst_estimate",
+      "note": "Aggregate analyst estimate from Omdia/Ampere/GamesIndustry.biz coverage. Update when a newer figure is published."
+    }
+  ]
+}

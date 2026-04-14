@@ -1,0 +1,59 @@
+---
+import Base from "../../layouts/Base.astro";
+import ConfidenceBadge from "../../components/ConfidenceBadge.astro";
+import { loadRegions, formatUnits, formatDate } from "../../lib/data";
+
+export function getStaticPaths() {
+  const regions = loadRegions();
+  return regions.map((r) => ({ params: { slug: r.slug }, props: { region: r } }));
+}
+
+const { region } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+const total = region.leaderboard.reduce((s, r) => s + r.units_cumulative, 0);
+---
+<Base title={`${region.display_name} console sales`} description={region.description}>
+  <p><a href={`${base}/`}>&larr; back to global</a></p>
+  <h2 style="margin-top:0;">{region.display_name}</h2>
+  <p class="lede">{region.description}</p>
+  <div class="pills">
+    <span class="pill"><strong>{formatUnits(total)}</strong>&nbsp;tracked in {region.display_name}</span>
+    <span class="pill"><strong>{region.leaderboard.length}</strong>&nbsp;consoles with data</span>
+  </div>
+
+  {region.leaderboard.length === 0 ? (
+    <div class="warning-block">
+      No region-specific facts recorded for {region.display_name} yet. Most manufacturers only report
+      global totals. Japan coverage improves when Famitsu weekly scraping stabilises; Americas/EMEA
+      depend on Circana/Ampere press releases.
+    </div>
+  ) : (
+    <table class="leaderboard">
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Console</th>
+          <th>Manufacturer</th>
+          <th style="text-align:right;">Units</th>
+          <th>as of</th>
+          <th>Source</th>
+        </tr>
+      </thead>
+      <tbody>
+        {region.leaderboard.map((row, i) => (
+          <tr>
+            <td>{i + 1}</td>
+            <td><a href={`${base}/console/${row.console_slug}`}>{row.display_name}</a></td>
+            <td>{row.manufacturer}</td>
+            <td class="num">{formatUnits(row.units_cumulative)}</td>
+            <td>{formatDate(row.period_end)}</td>
+            <td>
+              <ConfidenceBadge confidence={row.confidence} />
+              <a href={row.source_url} rel="noopener noreferrer">{row.source_key}</a>
+            </td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  )}
+</Base>

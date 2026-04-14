@@ -1,0 +1,65 @@
+{
+  "_doc": "Pre-cutoff baseline for actively-reporting first-party consoles. These are overwritten on the next successful Nintendo/Sony IR scraper run. They exist so the site displays something meaningful before the first cron fires.",
+  "source": {
+    "key": "manual_baseline_first_party",
+    "description": "Last-known first-party figures before automated scrapers run for the first time.",
+    "last_reviewed": "2026-04-14"
+  },
+  "facts": [
+    {
+      "variant": "switch",
+      "region": "global",
+      "units_cumulative": 103540000,
+      "period_end": "2024-12-31",
+      "source_key": "nintendo_ir_q3_fy2025_baseline",
+      "source_url": "https://www.nintendo.co.jp/ir/en/finance/hard_soft/index.html",
+      "fetched_at": "2025-02-04T00:00:00Z",
+      "confidence": "official",
+      "note": "Original Switch baseline from Nintendo Q3 FY3/2025 report. Will be superseded by the next scraper run."
+    },
+    {
+      "variant": "switch-lite",
+      "region": "global",
+      "units_cumulative": 22870000,
+      "period_end": "2024-12-31",
+      "source_key": "nintendo_ir_q3_fy2025_baseline",
+      "source_url": "https://www.nintendo.co.jp/ir/en/finance/hard_soft/index.html",
+      "fetched_at": "2025-02-04T00:00:00Z",
+      "confidence": "official",
+      "note": "Switch Lite baseline from Nintendo Q3 FY3/2025 report."
+    },
+    {
+      "variant": "switch-oled",
+      "region": "global",
+      "units_cumulative": 24450000,
+      "period_end": "2024-12-31",
+      "source_key": "nintendo_ir_q3_fy2025_baseline",
+      "source_url": "https://www.nintendo.co.jp/ir/en/finance/hard_soft/index.html",
+      "fetched_at": "2025-02-04T00:00:00Z",
+      "confidence": "official",
+      "note": "Switch OLED baseline from Nintendo Q3 FY3/2025 report."
+    },
+    {
+      "variant": "ps5",
+      "region": "global",
+      "units_cumulative": 75000000,
+      "period_end": "2024-12-31",
+      "source_key": "sony_ir_q3_fy2024_baseline",
+      "source_url": "https://www.sony.com/en/SonyInfo/IR/library/presen/er/archive.html",
+      "fetched_at": "2025-02-13T00:00:00Z",
+      "confidence": "official",
+      "note": "PS5 family baseline from Sony Q3 FY2024 supplementary data. Will be superseded by the next scraper run."
+    },
+    {
+      "variant": "ps-vita",
+      "region": "global",
+      "units_cumulative": 15000000,
+      "period_end": "2019-12-31",
+      "source_key": "ps_vita_analyst_estimate",
+      "source_url": "https://en.wikipedia.org/wiki/PlayStation_Vita#Sales",
+      "fetched_at": "2025-05-01T00:00:00Z",
+      "confidence": "analyst_estimate",
+      "note": "Sony never disclosed a final lifetime total. ~15M is the widely-cited analyst estimate."
+    }
+  ]
+}

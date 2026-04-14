@@ -1,0 +1,152 @@
+---
+import Base from "../layouts/Base.astro";
+import { loadMeta, formatDate } from "../lib/data";
+const meta = loadMeta();
+const sourceInfo: Record<string, { url: string; cadence: string; method: string; notes: string }> = {
+  nintendo_ir_hard_soft: {
+    url: "https://www.nintendo.co.jp/ir/en/finance/hard_soft/",
+    cadence: "Quarterly",
+    method: "HTML table scrape (daily check, new data only after earnings)",
+    notes: "Authoritative for Switch family, Switch 2, 3DS, Wii U. Column layout has shifted a few times historically — the scraper asserts column headings and fails loudly if they change.",
+  },
+  nintendo_ir_q3_fy2025_baseline: {
+    url: "https://www.nintendo.co.jp/ir/en/finance/hard_soft/",
+    cadence: "Manual baseline",
+    method: "Hand-entered baseline from the last pre-automation IR report",
+    notes: "Seed values used before the automated scraper first runs. Overwritten by the next successful Nintendo IR scrape.",
+  },
+  sony_ir_supplement: {
+    url: "https://www.sony.com/en/SonyInfo/IR/library/presen/er/archive.html",
+    cadence: "Quarterly",
+    method: "Latest supplementary-data PDF (pdfplumber text extraction)",
+    notes: "Authoritative for PS5. Sony rolled PS4-specific reporting into a broader 'PlayStation platforms' line in 2022 — last PS4-specific number lives in manual seed.",
+  },
+  sony_ir_final_ps4: {
+    url: "https://www.sony.com/en/SonyInfo/IR/library/presen/er/archive.html",
+    cadence: "Frozen",
+    method: "Manual capture of the last PS4-specific disclosure",
+    notes: "Sony no longer reports PS4 separately.",
+  },
+  sony_ir_q3_fy2024_baseline: {
+    url: "https://www.sony.com/en/SonyInfo/IR/library/presen/er/archive.html",
+    cadence: "Manual baseline",
+    method: "Hand-entered baseline from Sony Q3 FY2024",
+    notes: "Superseded by the next successful Sony IR scrape.",
+  },
+  sec_edgar_microsoft: {
+    url: "https://www.sec.gov/edgar/sec-api-documentation",
+    cadence: "Quarterly",
+    method: "Official SEC EDGAR XBRL companyfacts JSON API",
+    notes: "Microsoft stopped reporting Xbox unit sales in 2015. We pull quarterly total revenue for context only — Xbox-specific unit figures live in xbox_estimates.json.",
+  },
+  wikipedia_en: {
+    url: "https://en.wikipedia.org/api/rest_v1/",
+    cadence: "On every scraper run",
+    method: "Wikipedia REST API (summary + parse)",
+    notes: "Provides description text and cross-checks lifetime totals cited in article ledes. Licensed CC BY-SA 4.0; we preserve article URLs as citation chains.",
+  },
+  famitsu_ranking: {
+    url: "https://www.famitsu.com/ranking/",
+    cadence: "Weekly",
+    method: "Best-effort HTML scrape; unit extraction not attempted",
+    notes: "Captures article links for manual review. Famitsu's layout drifts often and foreign-IP access is unreliable. Japan weekly data is still the richest public source when we can parse it.",
+  },
+  rss_watchers: {
+    url: "https://github.com/Perefin/console-tally",
+    cadence: "Daily",
+    method: "feedparser over GamesIndustry.biz and Nintendo Life news feeds",
+    notes: "Flags press items mentioning units / sales / lifetime totals. Surfaces likely sources of new estimates for maintainers to triage.",
+  },
+  ampere_xbox_one_lifetime: {
+    url: "https://en.wikipedia.org/wiki/Xbox_One#Sales",
+    cadence: "Frozen",
+    method: "Hand-curated analyst estimate",
+    notes: "Widely-cited Xbox One lifetime figure. Update via PR when a newer credible estimate is published.",
+  },
+  omdia_xbox_series_2025_q1: {
+    url: "https://en.wikipedia.org/wiki/Xbox_Series_X_and_Series_S#Sales",
+    cadence: "Irregular",
+    method: "Hand-curated analyst estimate",
+    notes: "Xbox Series X|S estimate from analyst coverage. Microsoft does not disclose units.",
+  },
+  idc_steam_deck_2024: {
+    url: "https://en.wikipedia.org/wiki/Steam_Deck#Sales",
+    cadence: "Irregular",
+    method: "Hand-curated press/analyst estimate",
+    notes: "Valve does not publicly report Steam Deck unit sales.",
+  },
+  circana_rog_ally_2024: {
+    url: "https://en.wikipedia.org/wiki/ASUS_ROG_Ally#Reception",
+    cadence: "Irregular",
+    method: "Hand-curated press/analyst estimate",
+    notes: "ASUS does not break out Ally unit sales.",
+  },
+  ps_vita_analyst_estimate: {
+    url: "https://en.wikipedia.org/wiki/PlayStation_Vita#Sales",
+    cadence: "Frozen",
+    method: "Hand-curated analyst estimate",
+    notes: "Sony never disclosed a lifetime total for PS Vita.",
+  },
+};
+---
+<Base title="Sources & methodology">
+  <h2 style="margin-top:0;">Sources &amp; methodology</h2>
+  <p class="lede">
+    Every figure on this site is attributed to a specific source. The table below lists each source,
+    its cadence, and how we pull from it. Each datapoint on console pages links back to the original
+    publication.
+  </p>
+
+  <h3>Confidence tiers</h3>
+  <p>
+    <span class="badge official">Official</span> Published by the manufacturer.&nbsp;
+    <span class="badge press_leak">Press leak</span> A specific figure disclosed in press coverage.&nbsp;
+    <span class="badge analyst_estimate">Analyst estimate</span> Published by a market-research firm.&nbsp;
+    <span class="badge derived">Derived</span> Computed from other facts (e.g. summing variants).
+  </p>
+
+  <h3>Active sources</h3>
+  <table class="leaderboard">
+    <thead>
+      <tr>
+        <th>Source</th>
+        <th>Cadence</th>
+        <th>Method</th>
+        <th>Last seen</th>
+      </tr>
+    </thead>
+    <tbody>
+      {meta.sources.map((s) => {
+        const info = sourceInfo[s.source_key];
+        return (
+          <tr>
+            <td>
+              {info ? <a href={info.url} rel="noopener noreferrer">{s.source_key}</a> : s.source_key}
+              {info?.notes && <div class="when">{info.notes}</div>}
+            </td>
+            <td>{info?.cadence || "—"}</td>
+            <td>{info?.method || "—"}</td>
+            <td>{formatDate(s.last_fetched_at)}</td>
+          </tr>
+        );
+      })}
+      {meta.sources.length === 0 && (
+        <tr><td colspan="4">No sources recorded yet. Run the scrapers.</td></tr>
+      )}
+    </tbody>
+  </table>
+
+  <h3>Known gaps</h3>
+  <ul>
+    <li><strong>Xbox units:</strong> Microsoft stopped reporting Xbox unit sales in 2015. All Xbox unit totals on this site are analyst estimates.</li>
+    <li><strong>Steam Deck:</strong> Valve has never publicly disclosed unit sales. Figures are press-cited analyst estimates.</li>
+    <li><strong>PC handhelds (ROG Ally, Legion Go, MSI Claw, AYANEO, GPD, OneXPlayer):</strong> None of these vendors break out handheld units. Figures are estimates where available, often several quarters stale.</li>
+    <li><strong>Region breakdowns:</strong> Japan has the strongest public data (Famitsu). Americas/EMEA depend on Circana (NPD) / Ampere press releases. APAC-ex-Japan is sparse.</li>
+  </ul>
+
+  <h3>Contributing a corrected figure</h3>
+  <p>
+    Open a PR editing <code>data/manual/*.json</code> with a public source URL. See
+    <a href="https://github.com/Perefin/console-tally/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a>.
+  </p>
+</Base>

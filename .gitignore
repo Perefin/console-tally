@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.python-version
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Node / Astro
+node_modules/
+site/dist/
+site/.astro/
+.DS_Store
+
+# Env / local
+.env
+.env.local
+*.log
+
+# Editor
+.vscode/
+.idea/
+*.swp

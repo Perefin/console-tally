@@ -1,0 +1,51 @@
+---
+import Base from "../layouts/Base.astro";
+---
+<Base title="About">
+  <h2 style="margin-top:0;">About console-tally</h2>
+  <p class="lede">
+    A public, automatically-updated dataset and dashboard of video game console unit sales. Built
+    because no free equivalent exists, and because sales-figure reporting is scattered across
+    quarterly PDFs, SEC filings, Japanese-language charts, and second-hand analyst quotes.
+  </p>
+
+  <h3>How it updates</h3>
+  <ul>
+    <li>GitHub Actions runs daily at 08:00 UTC, checking Famitsu and a few RSS feeds for new mentions.</li>
+    <li>A separate weekly workflow (Monday 09:00 UTC) re-pulls Nintendo IR, Sony IR, SEC EDGAR, and Wikipedia.</li>
+    <li>When new data lands, the workflow commits it to this repository and rebuilds the site.</li>
+    <li>A third weekly canary job runs plausibility checks (monotonic cumulative units, recency) and opens a GitHub Issue if anything looks off.</li>
+  </ul>
+
+  <h3>Honest maintenance expectations</h3>
+  <p>
+    This claims to be "low-maintenance", not zero. Realistically a scraper will break when a source
+    site is redesigned — roughly once or twice a year per source. Dependabot handles routine version
+    bumps. The canary surfaces data-quality regressions via an auto-filed issue. Budget about an
+    hour a month.
+  </p>
+
+  <h3>What's estimated vs. reported</h3>
+  <p>
+    <strong>Officially reported:</strong> Nintendo Switch family, Nintendo 3DS, Wii U, PlayStation 5, PlayStation 4 (historical only).<br />
+    <strong>Analyst estimate:</strong> Xbox One, Xbox Series X|S, Steam Deck, ROG Ally, Legion Go, MSI Claw, AYANEO, GPD Win, OneXPlayer, PS Vita (lifetime).<br />
+    <strong>Not yet tracked in this region:</strong> Americas, EMEA, and APAC-ex-Japan breakdowns are sparse. Japan has the most public weekly data.
+  </p>
+
+  <h3>Using the data</h3>
+  <p>
+    All data files live in <code>data/</code> of the GitHub repo and are served alongside this site:
+  </p>
+  <ul>
+    <li><code>consoles.json</code> — every console with its full fact history</li>
+    <li><code>regions.json</code> — per-region leaderboards</li>
+    <li><code>meta.json</code> — source inventory + last-seen timestamps</li>
+    <li><code>consoles.sqlite</code> — the same data as an ad-hoc-queryable SQLite database (Datasette-compatible)</li>
+  </ul>
+
+  <h3>Licence</h3>
+  <p>
+    Code: MIT. Underlying figures: attributed inline to their original sources. Wikipedia-derived
+    text is under CC BY-SA 4.0.
+  </p>
+</Base>

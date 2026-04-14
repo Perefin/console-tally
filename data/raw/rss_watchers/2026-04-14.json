@@ -1,0 +1,38 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-04-14T23:23:47Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/uk-government-begins-rollout-of-30m-games-growth-package",
+      "published": "Tue, 14 Apr 2026 13:45:55 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/jeshoots-com-eCktzGjC-iU-unsplash_yuaW031.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>The UK government has launched the latest phase of its <a href=\"https://www.gamesindustry.biz/uk-launches-new-405m-fund-to-support-british-game-development\"> Games Growth Package</a>, allocating &pound;28.5 million <a href=\"https://www.gov.uk/government/n",
+      "title": "UK government begins rollout of £30m Games Growth Package"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/it-takes-two-split-fiction-studio-tops-50-million-sales-news-in-brief",
+      "published": "Wed, 08 Apr 2026 16:31:16 +0000",
+      "summary": "",
+      "title": "It Takes Two, Split Fiction studio tops 50 million sales | News-in-brief"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/04/unsurprisingly-the-mario-galaxy-movie-is-already-2026s-biggest-box-office-hit",
+      "published": "Mon, 13 Apr 2026 12:30:00 GMT",
+      "summary": "<p><strong>McClouded vision.</strong></p><p>After the $1 billion+ box office success of the first movie, we all knew that <strong>The Super Mario Galaxy Movie</strong> was going to put up big numbers. Well, those crystal balls didn't let us down, because after just a few weeks in cinemas, the sequel is already the highest-grossing release of 2026.</p><p>The weekend's updated box office figures (th",
+      "title": "Unsurprisingly, The Mario Galaxy Movie Is Already 2026's Biggest Box Office Hit"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}

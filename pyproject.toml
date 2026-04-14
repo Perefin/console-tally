@@ -1,0 +1,42 @@
+[project]
+name = "console-tally-scrapers"
+version = "0.1.0"
+description = "Scrapers and normalizers for the console-tally public dataset."
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "Perefin" }]
+
+dependencies = [
+    "requests>=2.32",
+    "beautifulsoup4>=4.12",
+    "pdfplumber>=0.11",
+    "feedparser>=6.0",
+    "jsonschema>=4.23",
+    "python-dateutil>=2.9",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.3",
+    "ruff>=0.8",
+]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["scrapers"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "W", "UP", "B", "SIM"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+addopts = "-q"

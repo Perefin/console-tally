@@ -1,0 +1,26 @@
+---
+import { formatDate, formatUnits, type Fact } from "../lib/data";
+import ConfidenceBadge from "./ConfidenceBadge.astro";
+
+interface Props { facts: Fact[]; }
+const { facts } = Astro.props;
+---
+<ul class="source-list">
+  {facts.map((f) => (
+    <li>
+      <ConfidenceBadge confidence={f.confidence} />
+      <strong>
+        {f.units_cumulative != null ? `${formatUnits(f.units_cumulative)} cumulative` : null}
+        {f.units_period != null ? ` / ${formatUnits(f.units_period)} this period` : null}
+      </strong>
+      &nbsp;·&nbsp; {f.variant} &nbsp;·&nbsp; {f.region}
+      <span class="when">as of {formatDate(f.period_end)}</span>
+      <div>
+        <a href={f.source_url} rel="noopener noreferrer">{f.source_key}</a>
+        <span class="when">fetched {formatDate(f.fetched_at)}</span>
+      </div>
+      {f.note && <div class="when">{f.note}</div>}
+    </li>
+  ))}
+  {facts.length === 0 && <li class="when">No facts recorded yet.</li>}
+</ul>

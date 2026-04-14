@@ -1,0 +1,392 @@
+{
+  "schema_version": "1",
+  "generated_at": "2026-04-14T23:23:47Z",
+  "consoles": [
+    {
+      "slug": "ps5",
+      "display_name": "PlayStation 5",
+      "manufacturer": "Sony",
+      "generation": "current",
+      "form_factor": "home",
+      "launch_date": "2020-11-12",
+      "variants": [
+        "ps5",
+        "ps5-digital",
+        "ps5-slim",
+        "ps5-pro"
+      ],
+      "notes": "",
+      "wikipedia_article": "PlayStation_5",
+      "facts": [
+        {
+          "variant": "ps5",
+          "region": "global",
+          "units_cumulative": 75000000,
+          "period_end": "2024-12-31",
+          "source_key": "sony_ir_q3_fy2024_baseline",
+          "source_url": "https://www.sony.com/en/SonyInfo/IR/library/presen/er/archive.html",
+          "fetched_at": "2025-02-13T00:00:00Z",
+          "confidence": "official",
+          "note": "PS5 family baseline from Sony Q3 FY2024 supplementary data. Will be superseded by the next scraper run."
+        }
+      ]
+    },
+    {
+      "slug": "xbox-series",
+      "display_name": "Xbox Series X|S",
+      "manufacturer": "Microsoft",
+      "generation": "current",
+      "form_factor": "home",
+      "launch_date": "2020-11-10",
+      "variants": [
+        "xbox-series",
+        "xbox-series-x",
+        "xbox-series-s"
+      ],
+      "notes": "Microsoft stopped reporting unit sales in 2015. Unit totals are analyst estimates; most coverage does not split Series X vs. Series S so we track a 'xbox-series' rollup variant alongside the individual SKUs.",
+      "wikipedia_article": "Xbox_Series_X_and_Series_S",
+      "facts": [
+        {
+          "variant": "xbox-series",
+          "region": "global",
+          "units_cumulative": 29000000,
+          "period_end": "2024-12-31",
+          "source_key": "omdia_xbox_series_2025_q1",
+          "source_url": "https://en.wikipedia.org/wiki/Xbox_Series_X_and_Series_S#Sales",
+          "fetched_at": "2025-05-01T00:00:00Z",
+          "confidence": "analyst_estimate",
+          "note": "Aggregate analyst estimate from Omdia/Ampere/GamesIndustry.biz coverage. Update when a newer figure is published."
+        }
+      ]
+    },
+    {
+      "slug": "switch-2",
+      "display_name": "Nintendo Switch 2",
+      "manufacturer": "Nintendo",
+      "generation": "current",
+      "form_factor": "hybrid",
+      "launch_date": "2025-06-05",
+      "variants": [
+        "switch-2"
+      ],
+      "notes": "",
+      "wikipedia_article": "Nintendo_Switch_2",
+      "facts": []
+    },
+    {
+      "slug": "switch",
+      "display_name": "Nintendo Switch",
+      "manufacturer": "Nintendo",
+      "generation": "last",
+      "form_factor": "hybrid",
+      "launch_date": "2017-03-03",
+      "variants": [
+        "switch",
+        "switch-oled",
+        "switch-lite"
+      ],
+      "notes": "Mid-gen variants (OLED, Lite) are tracked as part of the Switch family.",
+      "wikipedia_article": "Nintendo_Switch",
+      "facts": [
+        {
+          "variant": "switch",
+          "region": "global",
+          "units_cumulative": 103540000,
+          "period_end": "2024-12-31",
+          "source_key": "nintendo_ir_q3_fy2025_baseline",
+          "source_url": "https://www.nintendo.co.jp/ir/en/finance/hard_soft/index.html",
+          "fetched_at": "2025-02-04T00:00:00Z",
+          "confidence": "official",
+          "note": "Original Switch baseline from Nintendo Q3 FY3/2025 report. Will be superseded by the next scraper run."
+        },
+        {
+          "variant": "switch-lite",
+          "region": "global",
+          "units_cumulative": 22870000,
+          "period_end": "2024-12-31",
+          "source_key": "nintendo_ir_q3_fy2025_baseline",
+          "source_url": "https://www.nintendo.co.jp/ir/en/finance/hard_soft/index.html",
+          "fetched_at": "2025-02-04T00:00:00Z",
+          "confidence": "official",
+          "note": "Switch Lite baseline from Nintendo Q3 FY3/2025 report."
+        },
+        {
+          "variant": "switch-oled",
+          "region": "global",
+          "units_cumulative": 24450000,
+          "period_end": "2024-12-31",
+          "source_key": "nintendo_ir_q3_fy2025_baseline",
+          "source_url": "https://www.nintendo.co.jp/ir/en/finance/hard_soft/index.html",
+          "fetched_at": "2025-02-04T00:00:00Z",
+          "confidence": "official",
+          "note": "Switch OLED baseline from Nintendo Q3 FY3/2025 report."
+        }
+      ]
+    },
+    {
+      "slug": "ps4",
+      "display_name": "PlayStation 4",
+      "manufacturer": "Sony",
+      "generation": "last",
+      "form_factor": "home",
+      "launch_date": "2013-11-15",
+      "variants": [
+        "ps4",
+        "ps4-slim",
+        "ps4-pro"
+      ],
+      "notes": "",
+      "wikipedia_article": "PlayStation_4",
+      "facts": [
+        {
+          "variant": "ps4",
+          "region": "global",
+          "units_cumulative": 117200000,
+          "period_end": "2022-03-31",
+          "source_key": "sony_ir_final_ps4",
+          "source_url": "https://www.sony.com/en/SonyInfo/IR/library/presen/er/archive.html",
+          "fetched_at": "2025-05-01T00:00:00Z",
+          "confidence": "official",
+          "note": "Last PS4 lifetime figure Sony broke out separately before rolling PS4 into 'PlayStation platforms' reporting."
+        }
+      ]
+    },
+    {
+      "slug": "xbox-one",
+      "display_name": "Xbox One",
+      "manufacturer": "Microsoft",
+      "generation": "last",
+      "form_factor": "home",
+      "launch_date": "2013-11-22",
+      "variants": [
+        "xbox-one",
+        "xbox-one-s",
+        "xbox-one-x"
+      ],
+      "notes": "Last official Xbox One sales figure disclosed by Microsoft: ~2015. Later figures are estimates.",
+      "wikipedia_article": "Xbox_One",
+      "facts": [
+        {
+          "variant": "xbox-one",
+          "region": "global",
+          "units_cumulative": 58000000,
+          "period_end": "2022-12-31",
+          "source_key": "ampere_xbox_one_lifetime",
+          "source_url": "https://en.wikipedia.org/wiki/Xbox_One#Sales",
+          "fetched_at": "2025-05-01T00:00:00Z",
+          "confidence": "analyst_estimate",
+          "note": "Widely-cited Ampere/Niko Partners estimate for Xbox One lifetime. Microsoft never disclosed a final number."
+        }
+      ]
+    },
+    {
+      "slug": "3ds",
+      "display_name": "Nintendo 3DS family",
+      "manufacturer": "Nintendo",
+      "generation": "pre_last",
+      "form_factor": "handheld",
+      "launch_date": "2011-02-26",
+      "variants": [
+        "3ds",
+        "3ds-xl",
+        "2ds",
+        "new-3ds",
+        "new-3ds-xl",
+        "new-2ds-xl"
+      ],
+      "notes": "",
+      "wikipedia_article": "Nintendo_3DS",
+      "facts": [
+        {
+          "variant": "3ds",
+          "region": "global",
+          "units_cumulative": 75940000,
+          "period_end": "2022-12-31",
+          "source_key": "nintendo_ir_hard_soft",
+          "source_url": "https://www.nintendo.co.jp/ir/en/finance/hard_soft/index.html",
+          "fetched_at": "2025-05-01T00:00:00Z",
+          "confidence": "official",
+          "note": "Final Nintendo IR figure for the 3DS family. Nintendo no longer updates this line."
+        }
+      ]
+    },
+    {
+      "slug": "wii-u",
+      "display_name": "Wii U",
+      "manufacturer": "Nintendo",
+      "generation": "pre_last",
+      "form_factor": "home",
+      "launch_date": "2012-11-18",
+      "variants": [
+        "wii-u"
+      ],
+      "notes": "",
+      "wikipedia_article": "Wii_U",
+      "facts": [
+        {
+          "variant": "wii-u",
+          "region": "global",
+          "units_cumulative": 13560000,
+          "period_end": "2022-12-31",
+          "source_key": "nintendo_ir_hard_soft",
+          "source_url": "https://www.nintendo.co.jp/ir/en/finance/hard_soft/index.html",
+          "fetched_at": "2025-05-01T00:00:00Z",
+          "confidence": "official",
+          "note": "Final Nintendo IR figure for Wii U."
+        }
+      ]
+    },
+    {
+      "slug": "ps-vita",
+      "display_name": "PlayStation Vita",
+      "manufacturer": "Sony",
+      "generation": "pre_last",
+      "form_factor": "handheld",
+      "launch_date": "2011-12-17",
+      "variants": [
+        "ps-vita"
+      ],
+      "notes": "Sony never disclosed a final lifetime figure. ~15M is the widely-cited analyst estimate.",
+      "wikipedia_article": "PlayStation_Vita",
+      "facts": [
+        {
+          "variant": "ps-vita",
+          "region": "global",
+          "units_cumulative": 15000000,
+          "period_end": "2019-12-31",
+          "source_key": "ps_vita_analyst_estimate",
+          "source_url": "https://en.wikipedia.org/wiki/PlayStation_Vita#Sales",
+          "fetched_at": "2025-05-01T00:00:00Z",
+          "confidence": "analyst_estimate",
+          "note": "Sony never disclosed a final lifetime total. ~15M is the widely-cited analyst estimate."
+        }
+      ]
+    },
+    {
+      "slug": "steam-deck",
+      "display_name": "Steam Deck",
+      "manufacturer": "Valve",
+      "generation": "current",
+      "form_factor": "pc_handheld",
+      "launch_date": "2022-02-25",
+      "variants": [
+        "steam-deck-lcd",
+        "steam-deck-oled"
+      ],
+      "notes": "Valve does not publicly disclose unit sales. Figures come from press leaks and analyst estimates.",
+      "wikipedia_article": "Steam_Deck",
+      "facts": [
+        {
+          "variant": "steam-deck-lcd",
+          "region": "global",
+          "units_cumulative": 4000000,
+          "period_end": "2024-12-31",
+          "source_key": "idc_steam_deck_2024",
+          "source_url": "https://en.wikipedia.org/wiki/Steam_Deck#Sales",
+          "fetched_at": "2025-05-01T00:00:00Z",
+          "confidence": "analyst_estimate",
+          "note": "Widely-cited ~4M estimate for Steam Deck lifetime as of late 2024 (combined LCD + OLED). IDC / Niko Partners estimates."
+        }
+      ]
+    },
+    {
+      "slug": "rog-ally",
+      "display_name": "ASUS ROG Ally",
+      "manufacturer": "ASUS",
+      "generation": "current",
+      "form_factor": "pc_handheld",
+      "launch_date": "2023-06-13",
+      "variants": [
+        "rog-ally",
+        "rog-ally-x"
+      ],
+      "notes": "ASUS does not break out Ally unit sales. Estimates only.",
+      "wikipedia_article": "ASUS_ROG_Ally",
+      "facts": [
+        {
+          "variant": "rog-ally",
+          "region": "global",
+          "units_cumulative": 1000000,
+          "period_end": "2024-12-31",
+          "source_key": "circana_rog_ally_2024",
+          "source_url": "https://en.wikipedia.org/wiki/ASUS_ROG_Ally#Reception",
+          "fetched_at": "2025-05-01T00:00:00Z",
+          "confidence": "analyst_estimate",
+          "note": "~1M is the most commonly cited 2024 estimate for original ROG Ally. ASUS has not confirmed."
+        }
+      ]
+    },
+    {
+      "slug": "legion-go",
+      "display_name": "Lenovo Legion Go",
+      "manufacturer": "Lenovo",
+      "generation": "current",
+      "form_factor": "pc_handheld",
+      "launch_date": "2023-10-31",
+      "variants": [
+        "legion-go",
+        "legion-go-s"
+      ],
+      "notes": "Lenovo does not break out Legion Go unit sales. Estimates only.",
+      "wikipedia_article": "Lenovo_Legion_Go",
+      "facts": []
+    },
+    {
+      "slug": "msi-claw",
+      "display_name": "MSI Claw",
+      "manufacturer": "MSI",
+      "generation": "current",
+      "form_factor": "pc_handheld",
+      "launch_date": "2024-03-05",
+      "variants": [
+        "msi-claw-a1m",
+        "msi-claw-8-ai"
+      ],
+      "notes": "MSI does not break out Claw unit sales. Estimates only.",
+      "wikipedia_article": "MSI_Claw",
+      "facts": []
+    },
+    {
+      "slug": "ayaneo",
+      "display_name": "AYANEO family",
+      "manufacturer": "AYANEO",
+      "generation": "current",
+      "form_factor": "pc_handheld",
+      "launch_date": "2021-03-26",
+      "variants": [
+        "ayaneo"
+      ],
+      "notes": "Private company; no disclosed sales figures. Estimates only.",
+      "wikipedia_article": "",
+      "facts": []
+    },
+    {
+      "slug": "gpd-win",
+      "display_name": "GPD Win family",
+      "manufacturer": "GPD",
+      "generation": "current",
+      "form_factor": "pc_handheld",
+      "launch_date": "2016-10-20",
+      "variants": [
+        "gpd-win"
+      ],
+      "notes": "Private company; no disclosed sales figures. Estimates only.",
+      "wikipedia_article": "GPD_Win",
+      "facts": []
+    },
+    {
+      "slug": "onexplayer",
+      "display_name": "OneXPlayer family",
+      "manufacturer": "One-Netbook",
+      "generation": "current",
+      "form_factor": "pc_handheld",
+      "launch_date": "2021-07-01",
+      "variants": [
+        "onexplayer"
+      ],
+      "notes": "Private company; no disclosed sales figures. Estimates only.",
+      "wikipedia_article": "",
+      "facts": []
+    }
+  ]
+}

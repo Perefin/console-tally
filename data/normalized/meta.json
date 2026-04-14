@@ -1,0 +1,44 @@
+{
+  "schema_version": "1",
+  "generated_at": "2026-04-14T23:23:47Z",
+  "total_consoles": 16,
+  "total_facts": 12,
+  "sources": [
+    {
+      "source_key": "ampere_xbox_one_lifetime",
+      "last_fetched_at": "2025-05-01T00:00:00Z"
+    },
+    {
+      "source_key": "circana_rog_ally_2024",
+      "last_fetched_at": "2025-05-01T00:00:00Z"
+    },
+    {
+      "source_key": "idc_steam_deck_2024",
+      "last_fetched_at": "2025-05-01T00:00:00Z"
+    },
+    {
+      "source_key": "nintendo_ir_hard_soft",
+      "last_fetched_at": "2025-05-01T00:00:00Z"
+    },
+    {
+      "source_key": "nintendo_ir_q3_fy2025_baseline",
+      "last_fetched_at": "2025-02-04T00:00:00Z"
+    },
+    {
+      "source_key": "omdia_xbox_series_2025_q1",
+      "last_fetched_at": "2025-05-01T00:00:00Z"
+    },
+    {
+      "source_key": "ps_vita_analyst_estimate",
+      "last_fetched_at": "2025-05-01T00:00:00Z"
+    },
+    {
+      "source_key": "sony_ir_final_ps4",
+      "last_fetched_at": "2025-05-01T00:00:00Z"
+    },
+    {
+      "source_key": "sony_ir_q3_fy2024_baseline",
+      "last_fetched_at": "2025-02-13T00:00:00Z"
+    }
+  ]
+}

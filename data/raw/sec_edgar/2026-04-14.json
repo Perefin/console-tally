@@ -1,0 +1,8 @@
+{
+  "error": "Unexpected status 403 from https://data.sec.gov/api/xbrl/companyfacts/CIK0000789019.json",
+  "fetched_at": "2026-04-14T23:23:45Z",
+  "quarterly_revenues": [],
+  "source_key": "sec_edgar_microsoft",
+  "source_url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000789019.json",
+  "status": "fetch_failed"
+}

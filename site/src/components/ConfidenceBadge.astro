@@ -1,0 +1,8 @@
+---
+import { confidenceLabel, type Confidence } from "../lib/data";
+interface Props { confidence: Confidence; }
+const { confidence } = Astro.props;
+---
+<span class={`badge ${confidence}`} title={confidenceLabel(confidence)}>
+  {confidenceLabel(confidence)}
+</span>

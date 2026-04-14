@@ -1,0 +1,119 @@
+---
+import Base from "../../layouts/Base.astro";
+import ConfidenceBadge from "../../components/ConfidenceBadge.astro";
+import SourceList from "../../components/SourceList.astro";
+import { loadConsoles, formatUnits, formatDate, latestGlobalFact } from "../../lib/data";
+
+export function getStaticPaths() {
+  const consoles = loadConsoles();
+  return consoles.map((c) => ({ params: { slug: c.slug }, props: { console: c } }));
+}
+
+const { console } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+const latest = latestGlobalFact(console);
+
+const timeline = [...console.facts]
+  .filter((f) => f.region === "global" && f.units_cumulative != null)
+  .sort((a, b) => a.period_end.localeCompare(b.period_end))
+  .map((f) => ({
+    x: f.period_end,
+    y: (f.units_cumulative ?? 0) / 1_000_000,
+    variant: f.variant,
+    confidence: f.confidence,
+  }));
+
+const regionBreakdown: Record<string, number> = {};
+for (const f of console.facts) {
+  if (f.units_cumulative == null) continue;
+  if (f.region === "global") continue;
+  regionBreakdown[f.region] = (regionBreakdown[f.region] || 0) + f.units_cumulative;
+}
+const regionRows = Object.entries(regionBreakdown);
+---
+<Base title={console.display_name} description={`${console.display_name} unit sales with sources.`}>
+  <p><a href={`${base}/`}>&larr; back to global</a></p>
+  <h2 style="margin-top:0;">{console.display_name}</h2>
+  <p class="lede">
+    {console.manufacturer} · {console.generation.replace("_", " ")} gen · {console.form_factor.replace("_", " ")} ·
+    launched {formatDate(console.launch_date)}
+  </p>
+  {console.notes && <div class="warning-block">{console.notes}</div>}
+
+  {latest && (
+    <div class="pills">
+      <span class="pill">
+        <strong>{formatUnits(latest.units_cumulative!)}</strong>&nbsp;units (global, cumulative)
+      </span>
+      <span class="pill">as of {formatDate(latest.period_end)}</span>
+      <span class="pill"><ConfidenceBadge confidence={latest.confidence} /></span>
+      <span class="pill"><a href={latest.source_url} rel="noopener noreferrer">{latest.source_key}</a></span>
+    </div>
+  )}
+
+  {timeline.length > 1 && (
+    <div class="chart-wrap">
+      <canvas id="timeline"></canvas>
+    </div>
+  )}
+
+  {regionRows.length > 0 && (
+    <>
+      <h2>Regional breakdown</h2>
+      <table class="leaderboard">
+        <thead><tr><th>Region</th><th style="text-align:right;">Units</th></tr></thead>
+        <tbody>
+          {regionRows.map(([region, total]) => (
+            <tr>
+              <td><a href={`${base}/region/${region}`}>{region.replace("_", " ")}</a></td>
+              <td class="num">{formatUnits(total)}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </>
+  )}
+
+  <h2>All sources</h2>
+  <SourceList facts={console.facts} />
+
+  {timeline.length > 1 && (
+    <>
+      <script is:inline src="https://cdn.jsdelivr.net/npm/chart.js@4.4.6/dist/chart.umd.min.js"></script>
+      <script is:inline define:vars={{ timeline }}>
+        window.addEventListener("DOMContentLoaded", () => {
+          const ctx = document.getElementById("timeline");
+          if (!ctx || !window.Chart) return;
+          const byVariant = {};
+          for (const p of timeline) {
+            (byVariant[p.variant] ||= []).push({ x: p.x, y: p.y });
+          }
+          const palette = ["#4fc3ff", "#a78bfa", "#22c55e", "#f59e0b", "#f472b6", "#34d399"];
+          const datasets = Object.entries(byVariant).map(([variant, points], i) => ({
+            label: variant,
+            data: points,
+            borderColor: palette[i % palette.length],
+            backgroundColor: palette[i % palette.length] + "33",
+            tension: 0.15,
+            fill: false,
+          }));
+          new window.Chart(ctx, {
+            type: "line",
+            data: { datasets },
+            options: {
+              responsive: true,
+              maintainAspectRatio: false,
+              parsing: false,
+              scales: {
+                x: { type: "time", time: { unit: "year" }, ticks: { color: "#9aa6b2" }, grid: { color: "#1c2531" } },
+                y: { ticks: { color: "#9aa6b2", callback: (v) => v + " M" }, grid: { color: "#1c2531" } },
+              },
+              plugins: { legend: { labels: { color: "#e6edf3" } } },
+            },
+          });
+        });
+      </script>
+      <script is:inline src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+    </>
+  )}
+</Base>

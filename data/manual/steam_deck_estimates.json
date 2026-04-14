@@ -1,0 +1,21 @@
+{
+  "_doc": "Valve does not publicly disclose Steam Deck unit sales. Every figure here comes from press leaks, analyst estimates, or interviews with Valve executives.",
+  "source": {
+    "key": "manual_steam_deck_estimates",
+    "description": "Press / analyst estimates for Steam Deck lifetime sales.",
+    "last_reviewed": "2026-04-14"
+  },
+  "facts": [
+    {
+      "variant": "steam-deck-lcd",
+      "region": "global",
+      "units_cumulative": 4000000,
+      "period_end": "2024-12-31",
+      "source_key": "idc_steam_deck_2024",
+      "source_url": "https://en.wikipedia.org/wiki/Steam_Deck#Sales",
+      "fetched_at": "2025-05-01T00:00:00Z",
+      "confidence": "analyst_estimate",
+      "note": "Widely-cited ~4M estimate for Steam Deck lifetime as of late 2024 (combined LCD + OLED). IDC / Niko Partners estimates."
+    }
+  ]
+}
