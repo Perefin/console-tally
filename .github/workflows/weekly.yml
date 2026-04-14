@@ -56,5 +56,9 @@ jobs:
             echo "No data changes."
           else
             git commit -m "chore(data): weekly refresh $(date -u +%Y-%m-%d)"
-            git push
+            for attempt in 1 2 3; do
+              git pull --rebase origin main && git push && break
+              echo "push attempt $attempt failed; retrying"
+              sleep 3
+            done
           fi
