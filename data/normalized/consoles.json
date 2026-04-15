@@ -1,6 +1,6 @@
 {
   "schema_version": "1",
-  "generated_at": "2026-04-14T23:31:09Z",
+  "generated_at": "2026-04-15T00:07:02Z",
   "consoles": [
     {
       "slug": "ps5",
@@ -12,24 +12,37 @@
       "variants": [
         "ps5",
         "ps5-digital",
-        "ps5-slim",
-        "ps5-pro"
+        "ps5-slim"
       ],
-      "notes": "",
+      "notes": "Sony reports the PS5 family as a single combined total (standard, Digital Edition, Slim, Pro). See the separate PS5 Pro page for launch-specific context.",
       "wikipedia_article": "PlayStation_5",
       "facts": [
         {
           "variant": "ps5",
           "region": "global",
-          "units_cumulative": 75000000,
-          "period_end": "2024-12-31",
-          "source_key": "sony_ir_q3_fy2024_baseline",
+          "units_cumulative": 92100000,
+          "period_end": "2025-12-31",
+          "source_key": "sony_ir_q3_fy2025",
           "source_url": "https://www.sony.com/en/SonyInfo/IR/library/presen/er/archive.html",
-          "fetched_at": "2025-02-13T00:00:00Z",
+          "fetched_at": "2026-02-06T00:00:00Z",
           "confidence": "official",
-          "note": "PS5 family baseline from Sony Q3 FY2024 supplementary data. Will be superseded by the next scraper run."
+          "note": "PS5 family total (standard, Digital, Slim, Pro combined) from Sony Q3 FY2025 supplementary data, as reported via the PlayStation 5 Wikipedia infobox citation chain."
         }
       ]
+    },
+    {
+      "slug": "ps5-pro",
+      "display_name": "PlayStation 5 Pro",
+      "manufacturer": "Sony",
+      "generation": "current",
+      "form_factor": "home",
+      "launch_date": "2024-11-07",
+      "variants": [
+        "ps5-pro"
+      ],
+      "notes": "Sony does not break out PS5 Pro unit sales separately; they are included in the PlayStation 5 family total. This page exists for launch-date and model context.",
+      "wikipedia_article": "PlayStation_5_Pro",
+      "facts": []
     },
     {
       "slug": "xbox-series",
@@ -71,7 +84,19 @@
       ],
       "notes": "",
       "wikipedia_article": "Nintendo_Switch_2",
-      "facts": []
+      "facts": [
+        {
+          "variant": "switch-2",
+          "region": "global",
+          "units_cumulative": 17370000,
+          "period_end": "2025-12-31",
+          "source_key": "nintendo_ir_q3_fy2026",
+          "source_url": "https://www.nintendo.co.jp/ir/en/finance/hard_soft/index.html",
+          "fetched_at": "2026-02-04T00:00:00Z",
+          "confidence": "official",
+          "note": "Switch 2 lifetime from Nintendo Q3 FY3/2026 hardware sales, as reported via the Nintendo Switch 2 Wikipedia infobox citation chain."
+        }
+      ]
     },
     {
       "slug": "switch",

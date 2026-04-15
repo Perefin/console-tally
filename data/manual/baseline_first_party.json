@@ -42,13 +42,24 @@
     {
       "variant": "ps5",
       "region": "global",
-      "units_cumulative": 75000000,
-      "period_end": "2024-12-31",
-      "source_key": "sony_ir_q3_fy2024_baseline",
+      "units_cumulative": 92100000,
+      "period_end": "2025-12-31",
+      "source_key": "sony_ir_q3_fy2025",
       "source_url": "https://www.sony.com/en/SonyInfo/IR/library/presen/er/archive.html",
-      "fetched_at": "2025-02-13T00:00:00Z",
+      "fetched_at": "2026-02-06T00:00:00Z",
       "confidence": "official",
-      "note": "PS5 family baseline from Sony Q3 FY2024 supplementary data. Will be superseded by the next scraper run."
+      "note": "PS5 family total (standard, Digital, Slim, Pro combined) from Sony Q3 FY2025 supplementary data, as reported via the PlayStation 5 Wikipedia infobox citation chain."
+    },
+    {
+      "variant": "switch-2",
+      "region": "global",
+      "units_cumulative": 17370000,
+      "period_end": "2025-12-31",
+      "source_key": "nintendo_ir_q3_fy2026",
+      "source_url": "https://www.nintendo.co.jp/ir/en/finance/hard_soft/index.html",
+      "fetched_at": "2026-02-04T00:00:00Z",
+      "confidence": "official",
+      "note": "Switch 2 lifetime from Nintendo Q3 FY3/2026 hardware sales, as reported via the Nintendo Switch 2 Wikipedia infobox citation chain."
     },
     {
       "variant": "ps-vita",

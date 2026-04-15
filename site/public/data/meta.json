@@ -1,8 +1,8 @@
 {
   "schema_version": "1",
-  "generated_at": "2026-04-14T23:31:09Z",
-  "total_consoles": 16,
-  "total_facts": 12,
+  "generated_at": "2026-04-15T00:07:02Z",
+  "total_consoles": 17,
+  "total_facts": 13,
   "sources": [
     {
       "source_key": "ampere_xbox_one_lifetime",
@@ -25,6 +25,10 @@
       "last_fetched_at": "2025-02-04T00:00:00Z"
     },
     {
+      "source_key": "nintendo_ir_q3_fy2026",
+      "last_fetched_at": "2026-02-04T00:00:00Z"
+    },
+    {
       "source_key": "omdia_xbox_series_2025_q1",
       "last_fetched_at": "2025-05-01T00:00:00Z"
     },
@@ -37,8 +41,8 @@
       "last_fetched_at": "2025-05-01T00:00:00Z"
     },
     {
-      "source_key": "sony_ir_q3_fy2024_baseline",
-      "last_fetched_at": "2025-02-13T00:00:00Z"
+      "source_key": "sony_ir_q3_fy2025",
+      "last_fetched_at": "2026-02-06T00:00:00Z"
     }
   ]
 }

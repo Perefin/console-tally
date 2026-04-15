@@ -1,6 +1,6 @@
 {
   "schema_version": "1",
-  "generated_at": "2026-04-14T23:31:09Z",
+  "generated_at": "2026-04-15T00:07:02Z",
   "regions": [
     {
       "slug": "global",
@@ -28,6 +28,16 @@
           "confidence": "official"
         },
         {
+          "console_slug": "ps5",
+          "display_name": "PlayStation 5",
+          "manufacturer": "Sony",
+          "units_cumulative": 92100000,
+          "period_end": "2025-12-31",
+          "source_key": "sony_ir_q3_fy2025",
+          "source_url": "https://www.sony.com/en/SonyInfo/IR/library/presen/er/archive.html",
+          "confidence": "official"
+        },
+        {
           "console_slug": "3ds",
           "display_name": "Nintendo 3DS family",
           "manufacturer": "Nintendo",
@@ -35,16 +45,6 @@
           "period_end": "2022-12-31",
           "source_key": "nintendo_ir_hard_soft",
           "source_url": "https://www.nintendo.co.jp/ir/en/finance/hard_soft/index.html",
-          "confidence": "official"
-        },
-        {
-          "console_slug": "ps5",
-          "display_name": "PlayStation 5",
-          "manufacturer": "Sony",
-          "units_cumulative": 75000000,
-          "period_end": "2024-12-31",
-          "source_key": "sony_ir_q3_fy2024_baseline",
-          "source_url": "https://www.sony.com/en/SonyInfo/IR/library/presen/er/archive.html",
           "confidence": "official"
         },
         {
@@ -66,6 +66,16 @@
           "source_key": "omdia_xbox_series_2025_q1",
           "source_url": "https://en.wikipedia.org/wiki/Xbox_Series_X_and_Series_S#Sales",
           "confidence": "analyst_estimate"
+        },
+        {
+          "console_slug": "switch-2",
+          "display_name": "Nintendo Switch 2",
+          "manufacturer": "Nintendo",
+          "units_cumulative": 17370000,
+          "period_end": "2025-12-31",
+          "source_key": "nintendo_ir_q3_fy2026",
+          "source_url": "https://www.nintendo.co.jp/ir/en/finance/hard_soft/index.html",
+          "confidence": "official"
         },
         {
           "console_slug": "ps-vita",

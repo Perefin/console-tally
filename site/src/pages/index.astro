@@ -1,14 +1,18 @@
 ---
 import Base from "../layouts/Base.astro";
 import ConfidenceBadge from "../components/ConfidenceBadge.astro";
-import { loadRegions, loadMeta, formatUnits, formatDate } from "../lib/data";
+import { loadRegions, loadConsoles, loadMeta, formatUnits, formatDate } from "../lib/data";
 
 const regions = loadRegions();
+const allConsoles = loadConsoles();
 const meta = loadMeta();
 const global = regions.find((r) => r.slug === "global")!;
 const top10 = global.leaderboard.slice(0, 10);
 const totalUnits = global.leaderboard.reduce((s, r) => s + r.units_cumulative, 0);
 const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+
+const leaderboardSlugs = new Set(global.leaderboard.map((r) => r.console_slug));
+const noFigure = allConsoles.filter((c) => !leaderboardSlugs.has(c.slug));
 const chartData = top10.map((r) => ({
   label: r.display_name,
   value: r.units_cumulative,
@@ -61,6 +65,33 @@ const chartData = top10.map((r) => ({
       ))}
     </tbody>
   </table>
+
+  {noFigure.length > 0 && (
+    <>
+      <h2>Tracked, no separate sales disclosure</h2>
+      <p class="lede">
+        These consoles are tracked but their manufacturers don't break out unit sales separately —
+        either because sales are bundled into a family total (e.g. PS5 Pro rolled into the PS5 family)
+        or because the vendor simply doesn't publish handheld unit numbers. Click through for launch
+        info and context.
+      </p>
+      <table class="leaderboard">
+        <thead>
+          <tr><th>Console</th><th>Manufacturer</th><th>Launched</th><th>Why unlisted</th></tr>
+        </thead>
+        <tbody>
+          {noFigure.map((c) => (
+            <tr>
+              <td><a href={`${base}/console/${c.slug}`}>{c.display_name}</a></td>
+              <td>{c.manufacturer}</td>
+              <td>{formatDate(c.launch_date)}</td>
+              <td style="color:var(--text-dim);font-size:0.88rem;">{c.notes || "No public figure."}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </>
+  )}
 
   <p class="lede" style="margin-top:2rem;">
     Drill into a region:

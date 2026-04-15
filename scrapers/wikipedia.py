@@ -76,28 +76,32 @@ def _fetch_wikitext(title: str) -> str | None:
     return wikitext or None
 
 
-def _extract_lifetime_millions(wikitext: str) -> int | None:
-    """Best-effort scan for a "sold X million" style figure near the top of the article.
+_LIFETIME_PATTERNS = (
+    # "|units_sold = 92.1 million (As of December 31, 2025)" infobox line
+    r"\|\s*units[\s_]*sold\s*=\s*(?P<value>\d{1,3}(?:[,\.]\d{3})*(?:\.\d+)?)\s*million",
+    # "Sold over 75 million", "shipped 150 million"
+    r"(?:sold|ship(?:ped)?|sales of|total sales)[^\.\n]{0,80}?(?P<value>\d{1,3}(?:[,\.]\d{3})*(?:\.\d+)?)\s*million",
+    # "As of December 31, 2025, 92.1 million"
+    r"as of [A-Z][a-z]+ \d{1,2},? \d{4}[^\.\n]{0,40}?(?P<value>\d{1,3}(?:[,\.]\d{3})*(?:\.\d+)?)\s*million",
+)
 
-    This is intentionally conservative — we only accept the first match in the
-    opening section (before the first `==` heading). Anything more aggressive
-    risks pulling per-country or historical numbers.
+
+def _extract_lifetime_millions(wikitext: str) -> int | None:
+    """Best-effort scan for a lifetime sales figure near the top of the article.
+
+    Conservative: first match in opening section (before first ``==`` heading) wins.
     """
     head = wikitext.split("\n==", 1)[0]
-    # Match phrases like "sold over 75 million", "ship 150 million"
-    m = re.search(
-        r"(?:sold|ship(?:ped)?|sales of|total sales)[^\.]{0,80}?"
-        r"(\d{1,3}(?:[,\.]\d{3})*(?:\.\d+)?)\s*million",
-        head,
-        flags=re.IGNORECASE,
-    )
-    if not m:
-        return None
-    raw = m.group(1).replace(",", "").replace(".", ".")
-    try:
-        return int(float(raw) * 1_000_000)
-    except ValueError:
-        return None
+    for pattern in _LIFETIME_PATTERNS:
+        m = re.search(pattern, head, flags=re.IGNORECASE)
+        if not m:
+            continue
+        raw = m.group("value").replace(",", "")
+        try:
+            return int(round(float(raw) * 1_000_000))
+        except ValueError:
+            continue
+    return None
 
 
 def main() -> int:
