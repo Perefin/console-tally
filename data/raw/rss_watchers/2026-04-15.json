@@ -1,0 +1,31 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-04-15T09:19:26Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/uk-government-begins-rollout-of-30m-games-growth-package",
+      "published": "Tue, 14 Apr 2026 13:45:55 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/jeshoots-com-eCktzGjC-iU-unsplash_yuaW031.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>The UK government has launched the latest phase of its <a href=\"https://www.gamesindustry.biz/uk-launches-new-405m-fund-to-support-british-game-development\"> Games Growth Package</a>, allocating &pound;28.5 million <a href=\"https://www.gov.uk/government/n",
+      "title": "UK government begins rollout of £30m Games Growth Package"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/it-takes-two-split-fiction-studio-tops-50-million-sales-news-in-brief",
+      "published": "Wed, 08 Apr 2026 16:31:16 +0000",
+      "summary": "",
+      "title": "It Takes Two, Split Fiction studio tops 50 million sales | News-in-brief"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
