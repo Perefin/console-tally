@@ -1,0 +1,52 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-04-19T08:54:25Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/roblox-to-pay-over-12m-to-state-of-nevada-in-child-safety-settlement",
+      "published": "Thu, 16 Apr 2026 13:18:16 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/roblox_tXvZOEK.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Roblox has agreed to pay more than $12 million to the state of Nevada as part of a settlement that includes additional protections for child safety.</p> <p><a href=\"https://www.gamesindustry.biz/roblox-to-pay-over-12m-to-state-of-nevada-in-child-safety-settlement\">Read more</a></p>",
+      "title": "Roblox to pay over $12m to state of Nevada in child safety settlement"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/starfield-estimated-to-have-sold-140k-copies-on-ps5-in-debut-week-news-in-brief",
+      "published": "Wed, 15 Apr 2026 19:51:18 +0000",
+      "summary": "",
+      "title": "Starfield estimated to have sold 140K copies on PS5 in debut week | News-in-brief"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/pc-rental-company-accused-of-scamming-customers-settles-class-action-lawsuit-for-34m",
+      "published": "Wed, 15 Apr 2026 19:16:57 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/1722442439-1920x1080_nzxt-flex_enen.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Pre-built PCs and rental company NZXT has settled a class-action lawsuit for $3.45 million.</p> <p><a href=\"https://www.gamesindustry.biz/pc-rental-company-accused-of-scamming-customers-settles-class-action-lawsuit-for-34m\">Read more</a></p>",
+      "title": "PC rental company accused of \"scamming\" customers settles class-action lawsuit for $3.4m"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/ps5-sales-spike-as-players-raced-to-beat-global-price-rises",
+      "published": "Wed, 15 Apr 2026 18:04:52 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/PS5-Pro---Tokyo-Game-Show.JPG?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>US weekly unit and dollar sales of PlayStation 5 hardware spiked last week, even as <a href=\"https://www.gamesindustry.biz/sony-announces-global-price-rises-for-ps5-consoles-from-april-2-2026\">Sony announced global price rises for its PlayStation 5 consoles</a> due to \"c",
+      "title": "PS5 sales spike as players raced to beat global price rises"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/uk-government-begins-rollout-of-30m-games-growth-package",
+      "published": "Tue, 14 Apr 2026 13:45:55 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/jeshoots-com-eCktzGjC-iU-unsplash_yuaW031.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>The UK government has launched the latest phase of its <a href=\"https://www.gamesindustry.biz/uk-launches-new-405m-fund-to-support-british-game-development\"> Games Growth Package</a>, allocating &pound;28.5 million <a href=\"https://www.gov.uk/government/n",
+      "title": "UK government begins rollout of £30m Games Growth Package"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
