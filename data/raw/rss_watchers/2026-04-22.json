@@ -1,0 +1,66 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-04-22T09:20:46Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/firstpoint-vc-launches-with-50m-fund-to-invest-in-ai-driven-games-and-entertainment-startups",
+      "published": "Wed, 22 Apr 2026 07:54:52 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/1-Firstpoint-VC_GP-Team.jpeg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>New venture capital firm Firstpoint VC has launched with a &euro;50 million fund to invest in AI-driven gaming and entertainment startups.</p> <p><a href=\"https://www.gamesindustry.biz/firstpoint-vc-launches-with-50m-fund-to-invest-in-ai-driven-games-and-entertainment-sta",
+      "title": "Firstpoint VC launches with €50m fund to invest in AI-driven games and entertainment startups"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/forza-horizon-6-has-reportedly-pre-sold-500000-copies-on-steam-a-month-before-launch-news-in-brief",
+      "published": "Mon, 20 Apr 2026 19:50:03 +0000",
+      "summary": "",
+      "title": "Forza Horizon 6 has reportedly pre-sold 500,000 copies on Steam a month before launch | News-in-brief"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/pirate-adventure-windrose-tops-1-million-copies-sold-in-6-days-news-in-brief",
+      "published": "Mon, 20 Apr 2026 16:54:28 +0000",
+      "summary": "",
+      "title": "Pirate adventure Windrose tops 1 million copies sold in 6 days | News-in-brief"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/roblox-to-pay-over-12m-to-state-of-nevada-in-child-safety-settlement",
+      "published": "Thu, 16 Apr 2026 13:18:16 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/roblox_tXvZOEK.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Roblox has agreed to pay more than $12 million to the state of Nevada as part of a settlement that includes additional protections for child safety.</p> <p><a href=\"https://www.gamesindustry.biz/roblox-to-pay-over-12m-to-state-of-nevada-in-child-safety-settlement\">Read more</a></p>",
+      "title": "Roblox to pay over $12m to state of Nevada in child safety settlement"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/starfield-estimated-to-have-sold-140k-copies-on-ps5-in-debut-week-news-in-brief",
+      "published": "Wed, 15 Apr 2026 19:51:18 +0000",
+      "summary": "",
+      "title": "Starfield estimated to have sold 140K copies on PS5 in debut week | News-in-brief"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/pc-rental-company-accused-of-scamming-customers-settles-class-action-lawsuit-for-34m",
+      "published": "Wed, 15 Apr 2026 19:16:57 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/1722442439-1920x1080_nzxt-flex_enen.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Pre-built PCs and rental company NZXT has settled a class-action lawsuit for $3.45 million.</p> <p><a href=\"https://www.gamesindustry.biz/pc-rental-company-accused-of-scamming-customers-settles-class-action-lawsuit-for-34m\">Read more</a></p>",
+      "title": "PC rental company accused of \"scamming\" customers settles class-action lawsuit for $3.4m"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/ps5-sales-spike-as-players-raced-to-beat-global-price-rises",
+      "published": "Wed, 15 Apr 2026 18:04:52 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/PS5-Pro---Tokyo-Game-Show.JPG?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>US weekly unit and dollar sales of PlayStation 5 hardware spiked last week, even as <a href=\"https://www.gamesindustry.biz/sony-announces-global-price-rises-for-ps5-consoles-from-april-2-2026\">Sony announced global price rises for its PlayStation 5 consoles</a> due to \"c",
+      "title": "PS5 sales spike as players raced to beat global price rises"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
