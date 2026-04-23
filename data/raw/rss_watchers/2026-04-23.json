@@ -1,0 +1,59 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-04-23T09:28:27Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/super-mario-galaxy-movie-surpasses-755m-globally-becomes-highest-grossing-film-of-2026",
+      "published": "Thu, 23 Apr 2026 07:01:18 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/supermario_FTzjh1g.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>The Super Mario Galaxy Movie has surpassed $755 million globally, making it the top film of 2026.</p> <p><a href=\"https://www.gamesindustry.biz/super-mario-galaxy-movie-surpasses-755m-globally-becomes-highest-grossing-film-of-2026\">Read more</a></p>",
+      "title": "Super Mario Galaxy Movie surpasses $755m globally, becomes highest-grossing film of 2026"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/us-hardware-sales-rose-69-in-march-2026-following-strong-switch-2-performance-us-monthly-charts",
+      "published": "Wed, 22 Apr 2026 14:09:22 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/switch2_QBzY3Fc.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Total US consumer spending on video games jumped 12% to $5.3 billion in March 2026, while first quarter spending rose by 5% year-on-year to $14.6 billion.</p> <p><a href=\"https://www.gamesindustry.biz/us-hardware-sales-rose-69-in-march-2026-following-strong-switch-2-performance-us",
+      "title": "US hardware sales rose 69% in March 2026 following strong Switch 2 performance | US Monthly Charts"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/firstpoint-vc-launches-with-50m-fund-to-invest-in-ai-driven-games-and-entertainment-startups",
+      "published": "Wed, 22 Apr 2026 07:54:52 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/1-Firstpoint-VC_GP-Team.jpeg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>New venture capital firm Firstpoint VC has launched with a &euro;50 million fund to invest in AI-driven gaming and entertainment startups.</p> <p><a href=\"https://www.gamesindustry.biz/firstpoint-vc-launches-with-50m-fund-to-invest-in-ai-driven-games-and-entertainment-sta",
+      "title": "Firstpoint VC launches with €50m fund to invest in AI-driven games and entertainment startups"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/forza-horizon-6-has-reportedly-pre-sold-500000-copies-on-steam-a-month-before-launch-news-in-brief",
+      "published": "Mon, 20 Apr 2026 19:50:03 +0000",
+      "summary": "",
+      "title": "Forza Horizon 6 has reportedly pre-sold 500,000 copies on Steam a month before launch | News-in-brief"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/pirate-adventure-windrose-tops-1-million-copies-sold-in-6-days-news-in-brief",
+      "published": "Mon, 20 Apr 2026 16:54:28 +0000",
+      "summary": "",
+      "title": "Pirate adventure Windrose tops 1 million copies sold in 6 days | News-in-brief"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/04/tomodachi-life-living-the-dream-is-reportedly-the-best-physical-launch-of-2026-in-france",
+      "published": "Wed, 22 Apr 2026 16:00:00 GMT",
+      "summary": "<p><strong>Beating out Resident Evil Requiem.</strong></p><p>If your social media feed has been overrun with <a href=\"https://www.nintendolife.com/games/nintendo-switch/tomodachi_life_living_the_dream\">Tomodachi Life: Living the Dream</a> content, well, same! Nintendo's latest Switch 1 title seems to be a hit, perhaps nowhere more so than France, where the game is apparently the best physical laun",
+      "title": "Tomodachi Life: Living The Dream Is Reportedly The Best Physical Launch Of 2026 In France"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
