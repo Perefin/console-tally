@@ -1,0 +1,52 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-04-27T10:14:53Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/super-mario-galaxy-movie-surpasses-755m-globally-becomes-highest-grossing-film-of-2026",
+      "published": "Thu, 23 Apr 2026 07:01:18 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/supermario_FTzjh1g.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>The Super Mario Galaxy Movie has surpassed $755 million globally, making it the top film of 2026.</p> <p><a href=\"https://www.gamesindustry.biz/super-mario-galaxy-movie-surpasses-755m-globally-becomes-highest-grossing-film-of-2026\">Read more</a></p>",
+      "title": "Super Mario Galaxy Movie surpasses $755m globally, becomes highest-grossing film of 2026"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/us-hardware-sales-rose-69-in-march-2026-following-strong-switch-2-performance-us-monthly-charts",
+      "published": "Wed, 22 Apr 2026 14:09:22 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/switch2_QBzY3Fc.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Total US consumer spending on video games jumped 12% to $5.3 billion in March 2026, while first quarter spending rose by 5% year-on-year to $14.6 billion.</p> <p><a href=\"https://www.gamesindustry.biz/us-hardware-sales-rose-69-in-march-2026-following-strong-switch-2-performance-us",
+      "title": "US hardware sales rose 69% in March 2026 following strong Switch 2 performance | US Monthly Charts"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/firstpoint-vc-launches-with-50m-fund-to-invest-in-ai-driven-games-and-entertainment-startups",
+      "published": "Wed, 22 Apr 2026 07:54:52 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/1-Firstpoint-VC_GP-Team.jpeg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>New venture capital firm Firstpoint VC has launched with a &euro;50 million fund to invest in AI-driven gaming and entertainment startups.</p> <p><a href=\"https://www.gamesindustry.biz/firstpoint-vc-launches-with-50m-fund-to-invest-in-ai-driven-games-and-entertainment-sta",
+      "title": "Firstpoint VC launches with €50m fund to invest in AI-driven games and entertainment startups"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/04/uk-charts-pragmata-shoves-tomodachi-life-off-the-top-spot",
+      "published": "Mon, 27 Apr 2026 09:00:00 GMT",
+      "summary": "<p><strong>'Scuse me.</strong></p><p>The latest UK Charts data is in, and after <a href=\"https://www.nintendolife.com/games/nintendo-switch/tomodachi_life_living_the_dream\">Tomodachi Life: Living the Dream</a> debuted at number one last week, <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/pragmata\">Pragmata</a> has now stepped in to take the crown, pushing the former down to number ",
+      "title": "UK Charts: Pragmata Shoves Tomodachi Life Off The Top Spot"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/04/resident-evil-requiem-keeps-on-selling-and-no-one-can-stop-it",
+      "published": "Fri, 24 Apr 2026 16:30:00 GMT",
+      "summary": "<p><strong>7 million strong.</strong></p><p><a href=\"https://www.nintendolife.com/games/nintendo-switch-2/resident-evil-requiem\">Resident Evil Requiem</a>, the latest mainline entry in Capcom's iconic survival horror franchise, is an absolute juggernaut.</p><p>Released on 27th February 2026, the game has now gone on to sell more than <em>7 million copies</em>. It's comfortably the fastest-selling ",
+      "title": "Resident Evil Requiem Keeps On Selling And No One Can Stop It"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
