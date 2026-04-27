@@ -1,0 +1,188 @@
+{
+  "consoles": [
+    {
+      "article_url": "https://en.wikipedia.org/wiki/PlayStation_5",
+      "description": "Home video game console by Sony",
+      "extracted_figures": [
+        {
+          "note": "Parsed from Wikipedia article lede.",
+          "units_cumulative": 92100000
+        }
+      ],
+      "slug": "ps5",
+      "summary": "The PlayStation 5 (PS5) is the home video game console developed by Sony Interactive Entertainment for the fifth iteration of their PlayStation brand. It was announced as the successor to the PlayStation 4 in April 2019, was launched on November 12, 2020, in Australia, Japan, New Zealand, North America, and South Korea, and was released worldwide a week later. The PS5 is part of the ninth generation of video game consoles, along with Microsoft's Xbox Series X/S consoles, which were released in the same month.",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Black_and_white_Playstation_5_base_edition_with_controller.png/330px-Black_and_white_Playstation_5_base_edition_with_controller.png",
+      "title": "PlayStation_5"
+    },
+    {
+      "article_url": "https://en.wikipedia.org/wiki/PlayStation_5",
+      "description": "Home video game console by Sony",
+      "extracted_figures": [
+        {
+          "note": "Parsed from Wikipedia article lede.",
+          "units_cumulative": 92100000
+        }
+      ],
+      "slug": "ps5-pro",
+      "summary": "The PlayStation 5 (PS5) is the home video game console developed by Sony Interactive Entertainment for the fifth iteration of their PlayStation brand. It was announced as the successor to the PlayStation 4 in April 2019, was launched on November 12, 2020, in Australia, Japan, New Zealand, North America, and South Korea, and was released worldwide a week later. The PS5 is part of the ninth generation of video game consoles, along with Microsoft's Xbox Series X/S consoles, which were released in the same month.",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Black_and_white_Playstation_5_base_edition_with_controller.png/330px-Black_and_white_Playstation_5_base_edition_with_controller.png",
+      "title": "PlayStation_5_Pro"
+    },
+    {
+      "article_url": "https://en.wikipedia.org/wiki/Xbox_Series_X_and_Series_S",
+      "description": "Home video game consoles",
+      "extracted_figures": [
+        {
+          "note": "Parsed from Wikipedia article lede.",
+          "units_cumulative": 28300000
+        }
+      ],
+      "slug": "xbox-series",
+      "summary": "The Xbox Series X and Xbox Series S are the fourth generation of consoles in Microsoft's Xbox series, succeeding the previous generation's Xbox One. Released on November 10, 2020, the higher-end Series X and lower-end Series S are part of the ninth generation of video game consoles, which also includes Sony's PlayStation 5, released the same month.",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Xbox_Series_X_S_color.svg/330px-Xbox_Series_X_S_color.svg.png",
+      "title": "Xbox_Series_X_and_Series_S"
+    },
+    {
+      "article_url": "https://en.wikipedia.org/wiki/Nintendo_Switch_2",
+      "description": "Hybrid video game console",
+      "extracted_figures": [
+        {
+          "note": "Parsed from Wikipedia article lede.",
+          "units_cumulative": 17370000
+        }
+      ],
+      "slug": "switch-2",
+      "summary": "The Nintendo Switch 2 is a hybrid video game console developed by Nintendo and released in most regions on June 5, 2025. Like the original Nintendo Switch, it can be used as a handheld, as a tablet, or connected via the dock to an external display. The Joy-Con 2 controllers can be used while magnetically attached or detached from the console. Compared to the original Switch, the Switch 2 has a larger liquid-crystal display (LCD), more internal storage, and updated graphics, controllers, and social features. It supports 1080p resolution and a 120 Hz refresh rate in handheld or tabletop mode, and 4K resolution with a 60 Hz refresh rate when docked, as well as HDR support on both the tablet and compatible external displays.",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Nintendo_Switch_2_logo.svg/330px-Nintendo_Switch_2_logo.svg.png",
+      "title": "Nintendo_Switch_2"
+    },
+    {
+      "article_url": "https://en.wikipedia.org/wiki/Nintendo_Switch",
+      "description": "Hybrid video game console",
+      "extracted_figures": [
+        {
+          "note": "Parsed from Wikipedia article lede.",
+          "units_cumulative": 155370000
+        }
+      ],
+      "slug": "switch",
+      "summary": "The Nintendo Switch is a video game console developed by Nintendo and released worldwide in most regions on March 3, 2017. Released in the middle of the eighth generation of home consoles, the Switch succeeded the Wii U and competed with Sony's PlayStation 4 and Microsoft's Xbox One; it also competes with the ninth-generation consoles, the PlayStation 5 and Xbox Series X/S.",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Nintendo_Switch_logo.svg/330px-Nintendo_Switch_logo.svg.png",
+      "title": "Nintendo_Switch"
+    },
+    {
+      "article_url": "https://en.wikipedia.org/wiki/PlayStation_4",
+      "description": "Sony's fourth home video game console",
+      "extracted_figures": [
+        {
+          "note": "Parsed from Wikipedia article lede.",
+          "units_cumulative": 117000000
+        }
+      ],
+      "slug": "ps4",
+      "summary": "The PlayStation 4 (PS4) is a home video game console developed by Sony Interactive Entertainment. Announced as the successor to the PlayStation 3 in February 2013, it was launched on November 15, 2013, in North America, November 29, 2013, in Europe, South America, and Australia, and on February 22, 2014, in Japan. A console of the eighth generation, it competed with Microsoft's Xbox One and Nintendo's Wii U and Switch.",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/PS4-Console-wDS4.jpg/330px-PS4-Console-wDS4.jpg",
+      "title": "PlayStation_4"
+    },
+    {
+      "article_url": "https://en.wikipedia.org/wiki/Xbox_One",
+      "description": "Home video game console",
+      "extracted_figures": [
+        {
+          "note": "Parsed from Wikipedia article lede.",
+          "units_cumulative": 3000000
+        }
+      ],
+      "slug": "xbox-one",
+      "summary": "The Xbox One is a home video game console developed by Microsoft. Announced in May 2013, it is the successor to Xbox 360 and the third console in the Xbox series. It was first released in North America, parts of Europe, Australia, and South America in November 2013 and in Japan, China, and other European countries in September 2014. It is the first Xbox game console to be released in China, specifically in the Shanghai Free-Trade Zone. Microsoft marketed the device as an \"all-in-one entertainment system\", hence the name \"Xbox One\". An eighth-generation console, it mainly competed against Sony's PlayStation 4 and Nintendo's Wii U and later the Nintendo Switch.",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Xbox_One_consoles_montage.png/330px-Xbox_One_consoles_montage.png",
+      "title": "Xbox_One"
+    },
+    {
+      "article_url": "https://en.wikipedia.org/wiki/Nintendo_3DS",
+      "description": "Handheld game console",
+      "extracted_figures": [
+        {
+          "note": "Parsed from Wikipedia article lede.",
+          "units_cumulative": 75940000
+        }
+      ],
+      "slug": "3ds",
+      "summary": "The Nintendo 3DS is a foldable dual-screen handheld game console developed by Nintendo. Announced in March 2010 and released beginning in early 2011, it succeeds the Nintendo DS and DSi. Building on the basic design of the DS, the 3DS retains the clamshell form factor and backward compatibility with Nintendo DS software, while introducing autostereoscopic 3D visuals that do not require special glasses. As an eighth-generation console, its primary competitor was Sony's PlayStation Vita.",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Nintendo-3DS-AquaOpen.png/330px-Nintendo-3DS-AquaOpen.png",
+      "title": "Nintendo_3DS"
+    },
+    {
+      "article_url": "https://en.wikipedia.org/wiki/Wii_U",
+      "description": "Home video game console by Nintendo",
+      "extracted_figures": [],
+      "slug": "wii-u",
+      "summary": "The Wii U is a home video game console developed by Nintendo as the successor to the Wii. Released in late 2012, it was the first eighth-generation video game console and competed with Microsoft's Xbox One and Sony's PlayStation 4.",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Wii_U_Console_and_Gamepad.png/330px-Wii_U_Console_and_Gamepad.png",
+      "title": "Wii_U"
+    },
+    {
+      "article_url": "https://en.wikipedia.org/wiki/PlayStation_Vita",
+      "description": "Handheld game console by Sony",
+      "extracted_figures": [
+        {
+          "note": "Parsed from Wikipedia article lede.",
+          "units_cumulative": 14100000
+        }
+      ],
+      "slug": "ps-vita",
+      "summary": "The PlayStation Vita is a handheld game console developed and marketed by Sony Computer Entertainment. It was first released in Japan on December 17, 2011, then in other international territories on February 22, 2012, and was produced until discontinuation on March 1, 2019. The console is the successor to the PlayStation Portable (PSP), and a part of the PlayStation brand of gaming devices; as part of the eighth generation of video game consoles, it primarily competed with the Nintendo 3DS.",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/PlayStation-Vita-1101-FL.jpg/330px-PlayStation-Vita-1101-FL.jpg",
+      "title": "PlayStation_Vita"
+    },
+    {
+      "article_url": "https://en.wikipedia.org/wiki/Steam_Deck",
+      "description": "Handheld gaming computer by Valve",
+      "extracted_figures": [],
+      "slug": "steam-deck",
+      "summary": "The Steam Deck is a handheld gaming computer produced by Valve Corporation, designed to run games available on its Steam storefront. Built upon the experiences gained from Valve's earlier ventures with Steam Machine and the Steam Controller, the Steam Deck integrates a custom AMD APU and SteamOS, a Linux-based operating system. The Steam Deck represents Valve's pivot towards a fully in-house hardware development approach, following the challenges faced with Steam Machines' reliance on OEMs and the requirement for native Linux game support.",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Steam_Deck_%28front%29.png/330px-Steam_Deck_%28front%29.png",
+      "title": "Steam_Deck"
+    },
+    {
+      "article_url": "https://en.wikipedia.org/wiki/Asus_ROG_Ally",
+      "description": "Handheld gaming computer by Asus",
+      "extracted_figures": [],
+      "slug": "rog-ally",
+      "summary": "The Asus ROG Ally is a handheld gaming computer developed and manufactured by Asus as part of their Republic of Gamers (ROG) brand. Released on June 13, 2023, the device competes with Valve's Steam Deck. The ROG Ally runs the Windows 11 operating system and uses an AMD Zen 4 processor called the AMD Ryzen Z1 and Z1 Extreme. In addition to handheld use, the ROG Ally can be connected to a TV or monitor through a docking station or a dongle and be used like a desktop computer or home video game console.",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ROG_ALLY_-_11.jpg/330px-ROG_ALLY_-_11.jpg",
+      "title": "ASUS_ROG_Ally"
+    },
+    {
+      "article_url": "https://en.wikipedia.org/wiki/Lenovo_Legion_Go",
+      "description": "Handheld gaming computer by Lenovo",
+      "extracted_figures": [],
+      "slug": "legion-go",
+      "summary": "The Lenovo Legion Go is a handheld gaming computer developed by Lenovo and released in October 2023, as part of their Lenovo Legion line. The device ships with Windows 11 and with the Legion Space game launcher.",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Lenovo_Legion_Go.jpg/330px-Lenovo_Legion_Go.jpg",
+      "title": "Lenovo_Legion_Go"
+    },
+    {
+      "article_url": "https://en.wikipedia.org/wiki/MSI_Claw_A1M",
+      "description": "Handheld gaming computer by MSI",
+      "extracted_figures": [],
+      "slug": "msi-claw",
+      "summary": "The MSI Claw A1M is a handheld gaming computer developed by Micro-Star International (MSI), released in March 2024.",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MSI_Claw_Takes_On_Asus_Rog_Ally%3B_Intel_Vs_AMD_Showdown_%282160p_60fps_AV1-128kbit_AAC%29-00.03.03.626.png/330px-MSI_Claw_Takes_On_Asus_Rog_Ally%3B_Intel_Vs_AMD_Showdown_%282160p_60fps_AV1-128kbit_AAC%29-00.03.03.626.png",
+      "title": "MSI_Claw"
+    },
+    {
+      "article_url": "https://en.wikipedia.org/wiki/GPD_Win",
+      "description": "2016 Chinese handheld computer running Windows",
+      "extracted_figures": [],
+      "slug": "gpd-win",
+      "summary": "GPD Win is a Windows-based palmtop computer equipped with a keyboard and video game controls, designed by GamePad Digital (GPD) of China. It is an x86-based computer that runs Windows 10 and so is able to run x86 applications within the confines of the computer's hardware. First announced in October 2015, it was crowdfunded via Indiegogo and two other crowdfunding sites in Japan and China. The GPD Win was released in October 2016.",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GPD_Win_logo.svg/330px-GPD_Win_logo.svg.png",
+      "title": "GPD_Win"
+    }
+  ],
+  "fetched_at": "2026-04-27T10:59:54Z",
+  "license": "CC BY-SA 4.0",
+  "source_key": "wikipedia_en",
+  "source_url": "https://en.wikipedia.org/api/rest_v1/"
+}
