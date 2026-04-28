@@ -1,0 +1,38 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-04-28T10:13:28Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/super-mario-galaxy-movie-surpasses-755m-globally-becomes-highest-grossing-film-of-2026",
+      "published": "Thu, 23 Apr 2026 07:01:18 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/supermario_FTzjh1g.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>The Super Mario Galaxy Movie has surpassed $755 million globally, making it the top film of 2026.</p> <p><a href=\"https://www.gamesindustry.biz/super-mario-galaxy-movie-surpasses-755m-globally-becomes-highest-grossing-film-of-2026\">Read more</a></p>",
+      "title": "Super Mario Galaxy Movie surpasses $755m globally, becomes highest-grossing film of 2026"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/us-hardware-sales-rose-69-in-march-2026-following-strong-switch-2-performance-us-monthly-charts",
+      "published": "Wed, 22 Apr 2026 14:09:22 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/switch2_QBzY3Fc.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Total US consumer spending on video games jumped 12% to $5.3 billion in March 2026, while first quarter spending rose by 5% year-on-year to $14.6 billion.</p> <p><a href=\"https://www.gamesindustry.biz/us-hardware-sales-rose-69-in-march-2026-following-strong-switch-2-performance-us",
+      "title": "US hardware sales rose 69% in March 2026 following strong Switch 2 performance | US Monthly Charts"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/04/uk-charts-pragmata-shoves-tomodachi-life-off-the-top-spot",
+      "published": "Mon, 27 Apr 2026 09:00:00 GMT",
+      "summary": "<p><strong>'Scuse me.</strong></p><p>The latest UK Charts data is in, and after <a href=\"https://www.nintendolife.com/games/nintendo-switch/tomodachi_life_living_the_dream\">Tomodachi Life: Living the Dream</a> debuted at number one last week, <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/pragmata\">Pragmata</a> has now stepped in to take the crown, pushing the former down to number ",
+      "title": "UK Charts: Pragmata Shoves Tomodachi Life Off The Top Spot"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
