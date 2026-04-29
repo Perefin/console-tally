@@ -1,0 +1,31 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-04-29T10:05:45Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/super-mario-galaxy-movie-surpasses-755m-globally-becomes-highest-grossing-film-of-2026",
+      "published": "Thu, 23 Apr 2026 07:01:18 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/supermario_FTzjh1g.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>The Super Mario Galaxy Movie has surpassed $755 million globally, making it the top film of 2026.</p> <p><a href=\"https://www.gamesindustry.biz/super-mario-galaxy-movie-surpasses-755m-globally-becomes-highest-grossing-film-of-2026\">Read more</a></p>",
+      "title": "Super Mario Galaxy Movie surpasses $755m globally, becomes highest-grossing film of 2026"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/us-hardware-sales-rose-69-in-march-2026-following-strong-switch-2-performance-us-monthly-charts",
+      "published": "Wed, 22 Apr 2026 14:09:22 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/switch2_QBzY3Fc.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Total US consumer spending on video games jumped 12% to $5.3 billion in March 2026, while first quarter spending rose by 5% year-on-year to $14.6 billion.</p> <p><a href=\"https://www.gamesindustry.biz/us-hardware-sales-rose-69-in-march-2026-following-strong-switch-2-performance-us",
+      "title": "US hardware sales rose 69% in March 2026 following strong Switch 2 performance | US Monthly Charts"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
