@@ -1,0 +1,8 @@
+{
+  "articles": [],
+  "error": "Unexpected status 404 from https://www.famitsu.com/ranking/",
+  "fetched_at": "2026-04-30T10:06:32Z",
+  "source_key": "famitsu_ranking",
+  "source_url": "https://www.famitsu.com/ranking/",
+  "status": "fetch_failed"
+}
