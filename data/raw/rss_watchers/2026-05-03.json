@@ -1,0 +1,31 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-05-03T09:21:56Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/krafton-q1-revenue-up-569-to-931m-driven-by-mobile-content",
+      "published": "Fri, 01 May 2026 09:46:03 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/pub-g.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Krafton reported record Q1 results, with revenue up 56.9% to ₩1.37 trillion ($931 million) and operating profit at ₩561.6 billion ($381.3 million).</p> <p><a href=\"https://www.gamesindustry.biz/krafton-q1-revenue-up-569-to-931m-driven-by-mobile-content\">Read more</a></p>",
+      "title": "Krafton Q1 revenue up 56.9% to $931m, driven by mobile content"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/digital-bros-acquires-wuchang-fallen-feathers-ip-for-46m",
+      "published": "Wed, 29 Apr 2026 18:35:02 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/wuchang-3244033552.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Digital Bros. has acquired the Wuchang: Fallen Feathers IP from developer Chengdu Lingze Technology Co. Ltd (also known as Leenzee) for around $4.6 million.</p> <p><a href=\"https://www.gamesindustry.biz/digital-bros-acquires-wuchang-fallen-feathers-ip-for-46m\">Read more</a></p>",
+      "title": "Digital Bros. acquires Wuchang: Fallen Feathers IP for $4.6m"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
