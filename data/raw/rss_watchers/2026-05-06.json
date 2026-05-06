@@ -1,0 +1,52 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-05-06T10:17:47Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/pearl-abyss-sells-ccp-back-to-its-ceo-for-less-than-half-what-it-paid-plus-20-million-in-crypto",
+      "published": "Tue, 05 May 2026 14:35:06 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/eve-fronter.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Pearl Abyss, the Korean developer of <a href=\"https://www.gamesindustry.biz/crimson-desert-studio-pearl-abysss-share-prices-stabilize-as-sales-top-3-million\">hit MMO Crimson Desert</a>, has sold Eve Online developer CCP Games back to its CEO Hilmar Veigar P&eacute;tursson for $100 mi",
+      "title": "Pearl Abyss sells CCP back to its CEO for less than half what it paid, plus $20 million in crypto"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/sony-expected-to-pay-us-customers-78m-in-playstation-store-settlement",
+      "published": "Tue, 05 May 2026 10:33:02 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/ps-store_WdZ7PnT.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Sony Interactive Entertainment is expected to pay $7.8 million in refunds to US customers after a lawsuit alleging antitrust practices on the PlayStation Store.</p> <p><a href=\"https://www.gamesindustry.biz/sony-expected-to-pay-us-customers-78m-in-playstation-store-settlement\">Re",
+      "title": "Sony expected to pay US customers $7.8m in PlayStation Store settlement"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/krafton-q1-revenue-up-569-to-931m-driven-by-mobile-content",
+      "published": "Fri, 01 May 2026 09:46:03 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/pub-g.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Krafton reported record Q1 results, with revenue up 56.9% to ₩1.37 trillion ($931 million) and operating profit at ₩561.6 billion ($381.3 million).</p> <p><a href=\"https://www.gamesindustry.biz/krafton-q1-revenue-up-569-to-931m-driven-by-mobile-content\">Read more</a></p>",
+      "title": "Krafton Q1 revenue up 56.9% to $931m, driven by mobile content"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/digital-bros-acquires-wuchang-fallen-feathers-ip-for-46m",
+      "published": "Wed, 29 Apr 2026 18:35:02 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/wuchang-3244033552.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Digital Bros. has acquired the Wuchang: Fallen Feathers IP from developer Chengdu Lingze Technology Co. Ltd (also known as Leenzee) for around $4.6 million.</p> <p><a href=\"https://www.gamesindustry.biz/digital-bros-acquires-wuchang-fallen-feathers-ip-for-46m\">Read more</a></p>",
+      "title": "Digital Bros. acquires Wuchang: Fallen Feathers IP for $4.6m"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/05/nintendo-announces-switch-2-pokemon-pokopia-bundle",
+      "published": "Tue, 05 May 2026 02:30:00 GMT",
+      "summary": "<p><strong>Launching this June down under.</strong></p><p></p><p>The relaxing life simulation <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/pokemon-pokopia\">Pokémon Pokopia</a> has been a <em>huge</em> hit for Nintendo and The Pokémon Company, and to encourage even more Switch 2 sales, Nintendo has now announced a new bundle.</p><p>Read the <a href=\"https://www.nintendolife.com/new",
+      "title": "Nintendo Announces Switch 2 Pokémon Pokopia Bundle"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
