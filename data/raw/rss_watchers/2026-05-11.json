@@ -1,0 +1,108 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-05-11T11:19:46Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/playstation-records-765m-impairment-loss-from-bungie-as-operating-income-falls-416-in-q4",
+      "published": "Fri, 08 May 2026 13:44:57 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/marathon_dvJEqye.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Sony has released its full-year financial results, reporting stable sales and a modest increase in operating income for its Games & Network Services segment (G&amp;NS).</p> <p><a href=\"https://www.gamesindustry.biz/playstation-records-765m-impairment-loss-from-bungie-as-operating",
+      "title": "PlayStation records $765m impairment loss from Bungie as operating income falls 41.6% in Q4"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/nintendo-fy-sales-soar-986-to-146bn-following-launch-of-switch-2",
+      "published": "Fri, 08 May 2026 10:11:17 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/NintendoSwitch2_PokemonPokopia_Cheer.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Nintendo has published its full year financial results, reporting substantial growth in net sales and profits following the first fiscal year of the Switch 2.</p> <p><a href=\"https://www.gamesindustry.biz/nintendo-fy-sales-soar-986-to-146bn-following-launch-of",
+      "title": "Nintendo FY sales soar 98.6% to $14.6bn following launch of Switch 2"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/unity-q1-revenue-rises-17-posts-347m-loss-following-ironsource-closure",
+      "published": "Thu, 07 May 2026 13:52:37 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/unity-logo_teCooZK_AtEMOs9.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Unity has published its financial results for the first quarter ended March 31, 2026, with overall revenue rising 17% to $508 million, up from $435 million during the same quarter last year.</p> <p><a href=\"https://www.gamesindustry.biz/unity-q1-revenue-rises-17-posts-3",
+      "title": "Unity Q1 revenue rises 17%, posts $347m loss following IronSource closure"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/ccp-games-rebrands-as-fenris-creations-following-sale-from-pearl-abyss",
+      "published": "Thu, 07 May 2026 10:38:23 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/fenris-creations.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>CCP Games, the developer of Eve Online, is now operating independently as Fenris Creations after its <a href=\"https://www.gamesindustry.biz/pearl-abyss-sells-ccp-back-to-its-ceo-for-less-than-half-what-it-paid-plus-20-million-in-crypto\"> $120 million sale from Pearl Abyss</a> ear",
+      "title": "CCP Games rebrands as Fenris Creations following sale from Pearl Abyss"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/griffin-gaming-partners-launches-100m-indie-dev-fund-led-by-hooded-horse-ceo-tim-bender",
+      "published": "Wed, 06 May 2026 16:00:00 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/vaunted.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Venture capital firm Griffin Gaming Partners has launched a new $100 million fund to support indie games.</p> <p><a href=\"https://www.gamesindustry.biz/griffin-gaming-partners-launches-100m-indie-dev-fund-led-by-hooded-horse-ceo-tim-bender\">Read more</a></p>",
+      "title": "Griffin Gaming Partners launches $100m indie dev fund, led by Hooded Horse CEO Tim Bender"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/pearl-abyss-sells-ccp-back-to-its-ceo-for-less-than-half-what-it-paid-plus-20-million-in-crypto",
+      "published": "Tue, 05 May 2026 14:35:06 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/eve-fronter.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Pearl Abyss, the Korean developer of <a href=\"https://www.gamesindustry.biz/crimson-desert-studio-pearl-abysss-share-prices-stabilize-as-sales-top-3-million\">hit MMO Crimson Desert</a>, has sold Eve Online developer CCP Games back to its CEO Hilmar Veigar P&eacute;tursson for $100 mi",
+      "title": "Pearl Abyss sells CCP back to its CEO for less than half what it paid, plus $20 million in crypto"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/sony-expected-to-pay-us-customers-78m-in-playstation-store-settlement",
+      "published": "Tue, 05 May 2026 10:33:02 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/ps-store_WdZ7PnT.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Sony Interactive Entertainment is expected to pay $7.8 million in refunds to US customers after a lawsuit alleging antitrust practices on the PlayStation Store.</p> <p><a href=\"https://www.gamesindustry.biz/sony-expected-to-pay-us-customers-78m-in-playstation-store-settlement\">Re",
+      "title": "Sony expected to pay US customers $7.8m in PlayStation Store settlement"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/05/uk-charts-tomodachi-life-stands-strong-as-pragmata-falls-off-a-cliff",
+      "published": "Mon, 11 May 2026 07:00:00 GMT",
+      "summary": "<p><strong>Swings and roundabouts.</strong></p><p>The latest UK boxed charts data is in, and it seems World Cup fever might be starting to take hold with <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/ea-sports-fc-26\">EA SPORTS FC 26</a> climbing its way back to number 1.</p><p><a href=\"https://www.nintendolife.com/games/nintendo-switch/tomodachi_life_living_the_dream\">Tomodachi Lif",
+      "title": "UK Charts: Tomodachi Life Stands Strong As Pragmata Falls Off A Cliff"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/05/nintendo-says-approximately-40percent-of-tomodachi-life-living-the-dream-players-are-switch-2-owners",
+      "published": "Sun, 10 May 2026 08:00:00 GMT",
+      "summary": "<p><strong>The new entry was released on Switch in April.</strong></p><p><a href=\"https://www.nintendolife.com/games/nintendo-switch/tomodachi_life_living_the_dream\">Tomodachi Life: Living the Dream</a> made its debut on the Switch last month, and in case you missed it, it sold over <strong>3.8 million</strong> units in its first two weeks.</p><p>In the latest financial results, Nintendo has also ",
+      "title": "Nintendo Says Approximately 40% Of Tomodachi Life: Living The Dream Players Are Switch 2 Owners"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-9th-may",
+      "published": "Sat, 09 May 2026 09:00:00 GMT",
+      "summary": "<p><strong>Barrel rolling towards summer.</strong></p><p>At last, the weekend. It's been a surprisingly busy week, hasn't it? Let's start with some good news...</p><p>In case you missed it, Fox McCloud is back! <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/star-fox\">Star Fox</a>, a new reimagining of <a href=\"https://www.nintendolife.com/games/n64/star_fox_64\">Star Fox 64</a>, is <",
+      "title": "Talking Point: What Are You Playing This Weekend? (9th May)"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/05/nintendos-president-apparently-wants-switch-2-to-match-the-long-lifespan-of-the-original-system",
+      "published": "Sat, 09 May 2026 06:00:00 GMT",
+      "summary": "<p><strong>Playing the long game.</strong></p><p>Nintendo has been able to stretch the life of the Switch to nine years now, and it apparently intends to take the same approach with the Switch 2.</p><p>According to a translation of the latest investor briefing (<a href=\"https://bsky.app/profile/ninpatentswatch.bsky.social/post/3mlewl3kwm224\">via Nintendo Patents</a>), Nintendo President Shuntaro F",
+      "title": "Nintendo's President Apparently Wants Switch 2 To Match The Long Lifespan Of The Original System"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/05/nintendo-to-counter-switch-2s-global-price-hikes-with-robust-software-lineup",
+      "published": "Sat, 09 May 2026 01:55:00 GMT",
+      "summary": "<p><strong>The focus is on enhancing Switch 2 ownership value.</strong></p><p>As you've probably heard by now, Nintendo has announced it will be <a href=\"https://www.nintendolife.com/news/2026/05/nintendo-announces-sweeping-price-hikes-for-switch-2\">increasing the price of the Switch 2</a> - so what does it plan to do to maintain sales momentum around the globe?</p><p>Nintendo president Shutaro Fu",
+      "title": "Nintendo To Counter Switch 2's Global Price Hikes With Robust Software Lineup"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/05/analyst-predicts-a-silent-year-ahead-for-nintendo",
+      "published": "Fri, 08 May 2026 15:30:00 GMT",
+      "summary": "<p><strong>Say it ain't so.</strong></p><p>In light of Nintendo's recent financial report and <a href=\"https://www.nintendolife.com/news/2026/05/nintendo-announces-sweeping-price-hikes-for-switch-2\">price increases for the Switch 2</a>, an analyst has predicted that the fiscal year ahead might be \"relatively silent\" for the company.</p><p>Speaking with <a href=\"https://www.videogameschronicle.com/",
+      "title": "Analyst Predicts A \"Silent\" Year Ahead For Nintendo"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
