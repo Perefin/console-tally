@@ -1,0 +1,87 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-05-13T10:28:05Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/capcom-secures-ninth-consecutive-year-of-profit-boosted-by-resident-evil-requiem",
+      "published": "Wed, 13 May 2026 09:47:03 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/resident-evil-requiem-leon-grace-raccoon-city.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Capcom has reported increased profits across all divisions for the ninth consecutive year, driven by its core digital contents segment &ndash; particularly Resident Evil Requiem and strong catalogue sales within the franchise.</p> <p><a href=\"https://",
+      "title": "Capcom secures ninth consecutive year of profit boosted by Resident Evil Requiem"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/indika-dev-odd-meter-raises-5m-to-fund-next-project",
+      "published": "Wed, 13 May 2026 08:05:25 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/indika_uLtFIrH.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Indika developer Odd Meter has secured $5 million in a funding round led by Gem Capital and Autotelic Ventures.</p> <p><a href=\"https://www.gamesindustry.biz/indika-dev-odd-meter-raises-5m-to-fund-next-project\">Read more</a></p>",
+      "title": "Indika dev Odd Meter raises $5m to fund next project"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/crimson-desert-increases-pearl-abyss-q1-earnings-more-than-fivefold-to-2206m",
+      "published": "Tue, 12 May 2026 13:46:17 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/crimson-desert_7SegxIi.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>South Korean developer Pearl Abyss's Q1 operating revenue surged 419.8% year-over-year to ₩328.5 billion ($220.6 million), driven by the March 19 launch of Crimson Desert.</p> <p><a href=\"https://www.gamesindustry.biz/crimson-desert-increases-pearl-abyss-q1-earnings-more-t",
+      "title": "Crimson Desert increases Pearl Abyss Q1 earnings more than fivefold to $220.6m"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/sega-reports-316m-net-loss-during-fy26-cancels-super-game-project-amid-strategic-pivot",
+      "published": "Tue, 12 May 2026 09:41:40 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/sonic-rumble_94de89c.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Sega Sammy has released its financial results for the year ending March 31, 2026. While net sales increased by 13.6%, operating income from its entertainment contents, including the video games division, declined from &yen;40.8 billion ($259 million) to &yen;32.4 billion ($20",
+      "title": "Sega reports $31.6m net loss during FY26, cancels 'Super Game' project amid strategic pivot"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/playstation-records-765m-impairment-loss-from-bungie-as-operating-income-falls-416-in-q4",
+      "published": "Fri, 08 May 2026 13:44:57 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/marathon_dvJEqye.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Sony has released its full-year financial results, reporting stable sales and a modest increase in operating income for its Games & Network Services segment (G&amp;NS).</p> <p><a href=\"https://www.gamesindustry.biz/playstation-records-765m-impairment-loss-from-bungie-as-operating",
+      "title": "PlayStation records $765m impairment loss from Bungie as operating income falls 41.6% in Q4"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/nintendo-fy-sales-soar-986-to-146bn-following-launch-of-switch-2",
+      "published": "Fri, 08 May 2026 10:11:17 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/NintendoSwitch2_PokemonPokopia_Cheer.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Nintendo has published its full year financial results, reporting substantial growth in net sales and profits following the first fiscal year of the Switch 2.</p> <p><a href=\"https://www.gamesindustry.biz/nintendo-fy-sales-soar-986-to-146bn-following-launch-of",
+      "title": "Nintendo FY sales soar 98.6% to $14.6bn following launch of Switch 2"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/unity-q1-revenue-rises-17-posts-347m-loss-following-ironsource-closure",
+      "published": "Thu, 07 May 2026 13:52:37 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/unity-logo_teCooZK_AtEMOs9.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Unity has published its financial results for the first quarter ended March 31, 2026, with overall revenue rising 17% to $508 million, up from $435 million during the same quarter last year.</p> <p><a href=\"https://www.gamesindustry.biz/unity-q1-revenue-rises-17-posts-3",
+      "title": "Unity Q1 revenue rises 17%, posts $347m loss following IronSource closure"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/ccp-games-rebrands-as-fenris-creations-following-sale-from-pearl-abyss",
+      "published": "Thu, 07 May 2026 10:38:23 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/fenris-creations.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>CCP Games, the developer of Eve Online, is now operating independently as Fenris Creations after its <a href=\"https://www.gamesindustry.biz/pearl-abyss-sells-ccp-back-to-its-ceo-for-less-than-half-what-it-paid-plus-20-million-in-crypto\"> $120 million sale from Pearl Abyss</a> ear",
+      "title": "CCP Games rebrands as Fenris Creations following sale from Pearl Abyss"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/05/the-resident-evil-series-has-surpassed-an-astonishing-200-million-in-unit-sales",
+      "published": "Wed, 13 May 2026 08:45:00 GMT",
+      "summary": "<p><strong>Tasty numbers.</strong></p><p>Capcom's latest <a href=\"https://www.capcom.co.jp/ir/english/data/pdf/explanation/2025/full/explanation_2025_full_01.pdf\">financial release</a> officially confirms that the <strong>Resident Evil</strong> series has now surpassed over <strong>200 million units sold</strong>.</p><p>Starting with <a href=\"https://www.pushsquare.com/games/ps1/resident_evil\">the",
+      "title": "The Resident Evil Series Has Surpassed An Astonishing 200 Million In Unit Sales"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/05/capcom-continues-to-demonstrate-why-its-the-current-industry-darling",
+      "published": "Wed, 13 May 2026 07:30:00 GMT",
+      "summary": "<p><strong>Another record year in sales and growth.</strong></p><p>Capcom has released its <a href=\"https://www.capcom.co.jp/ir/english/data/pdf/explanation/2025/full/explanation_2025_full_01.pdf\">end-of-year financial report</a>, delivering yet another record year for the company with lots of big numbers going up and up.</p><p>In short, it's achieved 13 consecutive years of operating profit growt",
+      "title": "Capcom Continues To Demonstrate Why Its The Current Industry Darling"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
