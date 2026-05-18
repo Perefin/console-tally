@@ -1,0 +1,80 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-05-18T11:44:05Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/nexon-q1-net-income-rises-118-to-3607m",
+      "published": "Fri, 15 May 2026 10:43:36 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/arc-raiders_59Bfapt.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Nexon reported strong first-quarter results, with net income rising 118% year-over-year, supported by a &yen;14.5 billion ($91.4 million) foreign exchange gain.</p> <p><a href=\"https://www.gamesindustry.biz/nexon-q1-net-income-rises-118-to-3607m\">Read more</a></p>",
+      "title": "Nexon Q1 net income rises 118% to $360.7m"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/square-enix-fy26-operating-income-surges-349-despite-net-sales-decline",
+      "published": "Fri, 15 May 2026 08:31:26 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/final-fantasy_6ecLIFB.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Square Enix has reported financial results for the year ending March 31, 2026, noting a decline in net sales due to reduced revenues from MMOs and games for smart devices and PC browsers.</p> <p><a href=\"https://www.gamesindustry.biz/square-enix-fy26-operating-income-surges-",
+      "title": "Square Enix FY26 operating income surges 34.9% despite net sales decline"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/former-netease-exec-simon-zhu-secures-100m-to-launch-greaterthan-group",
+      "published": "Wed, 13 May 2026 13:23:00 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/fate-of-the-old-republic.jpeg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Former NetEase executive Simon Zhu has launched a new holding company, GreaterThan Group (GTG), securing $40 million in funding and approximately $60 million in additional commitments.</p> <p><a href=\"https://www.gamesindustry.biz/former-netease-exec-simon-zhu-secures-10",
+      "title": "New AAA collective to publish Star Wars: Fate of the Old Republic plus games from CoD and Yu-Gi-Oh! veterans"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/capcom-secures-ninth-consecutive-year-of-profit-boosted-by-resident-evil-requiem",
+      "published": "Wed, 13 May 2026 09:47:03 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/resident-evil-requiem-leon-grace-raccoon-city.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Capcom has reported increased profits across all divisions for the ninth consecutive year, driven by its core digital contents segment &ndash; particularly Resident Evil Requiem and strong catalogue sales within the franchise.</p> <p><a href=\"https://",
+      "title": "Capcom secures ninth consecutive year of profit boosted by Resident Evil Requiem"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/indika-dev-odd-meter-raises-5m-to-fund-next-project",
+      "published": "Wed, 13 May 2026 08:05:25 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/indika_uLtFIrH.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Indika developer Odd Meter has secured $5 million in a funding round led by Gem Capital and Autotelic Ventures.</p> <p><a href=\"https://www.gamesindustry.biz/indika-dev-odd-meter-raises-5m-to-fund-next-project\">Read more</a></p>",
+      "title": "Indika dev Odd Meter raises $5m to fund next project"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/crimson-desert-increases-pearl-abyss-q1-earnings-more-than-fivefold-to-2206m",
+      "published": "Tue, 12 May 2026 13:46:17 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/crimson-desert_7SegxIi.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>South Korean developer Pearl Abyss's Q1 operating revenue surged 419.8% year-over-year to ₩328.5 billion ($220.6 million), driven by the March 19 launch of Crimson Desert.</p> <p><a href=\"https://www.gamesindustry.biz/crimson-desert-increases-pearl-abyss-q1-earnings-more-t",
+      "title": "Crimson Desert increases Pearl Abyss Q1 earnings more than fivefold to $220.6m"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/sega-reports-316m-net-loss-during-fy26-cancels-super-game-project-amid-strategic-pivot",
+      "published": "Tue, 12 May 2026 09:41:40 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/sonic-rumble_94de89c.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Sega Sammy has released its financial results for the year ending March 31, 2026. While net sales increased by 13.6%, operating income from its entertainment contents, including the video games division, declined from &yen;40.8 billion ($259 million) to &yen;32.4 billion ($20",
+      "title": "Sega reports $31.6m net loss during FY26, cancels 'Super Game' project amid strategic pivot"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/05/rumour-watch-out-ps2-switch-may-soon-get-a-big-boost-in-india",
+      "published": "Mon, 18 May 2026 10:00:00 GMT",
+      "summary": "<p><strong>A fresh launch may be imminent.</strong></p><p>When Nintendo released its latest financial data, a lot of people were understandably focused on the news that the <a href=\"https://www.nintendolife.com/news/2026/05/nintendo-announces-sweeping-price-hikes-for-switch-2\">Switch 2 would soon be getting a price hike in the west</a>. But one little nugget that fell under the radar was the fact ",
+      "title": "Rumour: Watch Out PS2, Switch May Soon Get A Big Boost In India"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/05/uk-charts-indiana-jones-commences-his-great-circular-crusade-on-switch-2",
+      "published": "Mon, 18 May 2026 07:15:00 GMT",
+      "summary": "<p><strong>But Tomodachi Life claims the top spot.</strong></p><p>Good morning, everyone! It's a new week, which means it's time to see what's going on in the world of boxed game sales in the UK.</p><p><a href=\"https://www.nintendolife.com/games/nintendo-switch-2/indiana-jones-and-the-great-circle\">Indiana Jones and the Great Circle</a> launched on the Switch 2, and so finds itself at number 2 in ",
+      "title": "UK Charts: Indiana Jones Commences His Great Circular Crusade On Switch 2"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
