@@ -1,0 +1,45 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-05-21T11:24:28Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/tomodachi-life-living-the-dream-tops-april-us-sales-us-monthly-charts",
+      "published": "Wed, 20 May 2026 14:38:43 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/tomodachi-lif.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Tomodachi Life: Living the Dream led Circana's US charts in April, generating over $41 million in combined physical and projected digital sales.</p> <p><a href=\"https://www.gamesindustry.biz/tomodachi-life-living-the-dream-tops-april-us-sales-us-monthly-charts\">Read more</a></p>",
+      "title": "Tomodachi Life: Living the Dream tops April US sales | US Monthly Charts"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/nexon-q1-net-income-rises-118-to-3607m",
+      "published": "Fri, 15 May 2026 10:43:36 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/arc-raiders_59Bfapt.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Nexon reported strong first-quarter results, with net income rising 118% year-over-year, supported by a &yen;14.5 billion ($91.4 million) foreign exchange gain.</p> <p><a href=\"https://www.gamesindustry.biz/nexon-q1-net-income-rises-118-to-3607m\">Read more</a></p>",
+      "title": "Nexon Q1 net income rises 118% to $360.7m"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/square-enix-fy26-operating-income-surges-349-despite-net-sales-decline",
+      "published": "Fri, 15 May 2026 08:31:26 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/final-fantasy_6ecLIFB.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Square Enix has reported financial results for the year ending March 31, 2026, noting a decline in net sales due to reduced revenues from MMOs and games for smart devices and PC browsers.</p> <p><a href=\"https://www.gamesindustry.biz/square-enix-fy26-operating-income-surges-",
+      "title": "Square Enix FY26 operating income surges 34.9% despite net sales decline"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/05/tomodachi-life-living-the-dream-projected-as-the-best-selling-game-in-april-us",
+      "published": "Wed, 20 May 2026 16:00:00 GMT",
+      "summary": "<p><strong>And Switch 2 is the best-selling console.</strong></p><p>The delightfully bizarre first-party life sim <a href=\"https://www.nintendolife.com/games/nintendo-switch/tomodachi_life_living_the_dream\">Tomodachi Life: Living the Dream</a> has been projected to be the best-selling game of April in the US, thanks to Circana's <a href=\"https://bsky.app/profile/matpiscatella.bsky.social/post/3mmb",
+      "title": "Tomodachi Life: Living The Dream Projected As The Best-Selling Game In April (US)"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
