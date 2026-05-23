@@ -1,0 +1,52 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-05-23T09:52:34Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/tomodachi-life-living-the-dream-tops-april-us-sales-us-monthly-charts",
+      "published": "Wed, 20 May 2026 14:38:43 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/tomodachi-lif.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Tomodachi Life: Living the Dream led Circana's US charts in April, generating over $41 million in combined physical and projected digital sales.</p> <p><a href=\"https://www.gamesindustry.biz/tomodachi-life-living-the-dream-tops-april-us-sales-us-monthly-charts\">Read more</a></p>",
+      "title": "Tomodachi Life: Living the Dream tops April US sales | US Monthly Charts"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/nexon-q1-net-income-rises-118-to-3607m",
+      "published": "Fri, 15 May 2026 10:43:36 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/arc-raiders_59Bfapt.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Nexon reported strong first-quarter results, with net income rising 118% year-over-year, supported by a &yen;14.5 billion ($91.4 million) foreign exchange gain.</p> <p><a href=\"https://www.gamesindustry.biz/nexon-q1-net-income-rises-118-to-3607m\">Read more</a></p>",
+      "title": "Nexon Q1 net income rises 118% to $360.7m"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-23rd-may",
+      "published": "Sat, 23 May 2026 09:00:00 GMT",
+      "summary": "<p><strong>A new challenger approaches.</strong></p><p>Welcome to the weekend!</p><p>No megaton announcements over the past seven days, but plenty going on. Nintendo revealed <a href=\"https://www.nintendolife.com/news/2026/05/surprise-nintendo-has-announced-a-new-mobile-game\">a new mobile game</a> and <a href=\"https://www.nintendolife.com/news/2026/05/round-up-the-reviews-are-in-for-yoshi-and-the-",
+      "title": "Talking Point: What Are You Playing This Weekend? (23rd May)"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/05/nintendo-reportedly-producing-20-million-switch-2-consoles-in-fy2027",
+      "published": "Fri, 22 May 2026 09:45:00 GMT",
+      "summary": "<p><strong>A big step above its 16.5 million sales forecast.</strong></p><p>Nintendo is looking to produce a whopping <strong>20 million</strong> Switch 2 consoles during fiscal year 2027, according to a report from <a href=\"https://www.bloomberg.com/news/articles/2026-05-22/nintendo-seeks-to-top-conservative-switch-forecast-by-about-20\">Bloomberg</a>.</p><p>This number is significantly higher tha",
+      "title": "Nintendo Reportedly Producing 20 Million Switch 2 Consoles In FY2027"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/05/japanese-charts-switch-2-sales-continue-to-spike-ahead-of-price-increase",
+      "published": "Thu, 21 May 2026 16:30:00 GMT",
+      "summary": "<p><strong>Gotta save those ichiendama.</strong></p><p><a href=\"https://www.famitsu.com/article/202605/75449\">Famitsu</a> has published its top ten boxed charts for the week of 11th - 17th May in Japan, and would you believe it, <a href=\"https://www.nintendolife.com/games/nintendo-switch/tomodachi_life_living_the_dream\">Tomodachi Life: Living the Dream</a> is once again back at the top with anothe",
+      "title": "Japanese Charts: Switch 2 Sales Continue To Spike Ahead Of Price Increase"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
