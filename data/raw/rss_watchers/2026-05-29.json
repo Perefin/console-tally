@@ -1,0 +1,73 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-05-29T11:29:48Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/witcher-3-surpasses-65m-lifetime-sales-as-cd-projekt-announces-third-expansion",
+      "published": "Fri, 29 May 2026 09:25:29 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/witcher-3_dtDke18.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>As CD Projekt announced the third expansion for 2015's The Witcher 3, the developer reported a slight 6% increase in overall revenue to PLN 191 million ($52.5 million) during its first quarter.</p> <p><a href=\"https://www.gamesindustry.biz/witcher-3-surpasses-65m-lifetime-sales",
+      "title": "Witcher 3 surpasses 65m lifetime sales as CD Projekt announces third expansion"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/fortnites-global-ios-return-reportedly-reaches-34m-downloads-marking-an-eight-year-high",
+      "published": "Thu, 28 May 2026 08:57:10 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/fortnite-ios_6QzHnUV.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Fortnite's <a href=\"https://www.gamesindustry.biz/fortnite-returns-to-ios-worldwide-excluding-australia-as-epic-prepares-for-final-battle-over-app-store-fees\"> global return to iOS last week</a> generated an estimated 3.4 million downloads, marking an eight-year high.</p> <p>",
+      "title": "Fortnite's global iOS return reportedly reaches 3.4m downloads, marking an eight-year high"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/nintendo-reportedly-planning-20-production-increase-for-switch-2",
+      "published": "Tue, 26 May 2026 09:51:47 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/nintendo-switch-21.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Nintendo reportedly plans to increase Switch 2 hardware production to 20 million units, a 20% rise, despite previously <a href=\"https://www.gamesindustry.biz/nintendo-fy-sales-soar-986-to-146bn-following-launch-of-switch-2\"> forecasting a sales decline from 16.9% to 16.5 milli",
+      "title": "Nintendo reportedly planning 20% production increase for Switch 2"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/microsoft-agrees-to-pay-250m-to-settle-lawsuit-over-activision-blizzard-deal",
+      "published": "Tue, 26 May 2026 08:46:24 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/New-Project-(25).jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Microsoft will pay $250 million to settle <a href=\"https://www.gamesindustry.biz/bobby-kotick-claims-lawsuit-objecting-microsoft-activision-deal-was-tied-to-embracers-desire-to-boost-sales\"> a 2022 class action lawsuit</a> filed by Swedish pension fund Sjunde AP-Fonden AP7, which",
+      "title": "Microsoft agrees to pay $250m to settle lawsuit over Activision Blizzard deal"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/05/call-of-duty-modern-warfare-4-revealed-for-switch-2",
+      "published": "Thu, 28 May 2026 15:31:00 GMT",
+      "summary": "<p><strong>Here we go.</strong></p><p>It's a promise that has felt like a long time coming, but Activision has today revealed a first look at <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/call-of-duty-modern-warfare-4\">Call of Duty: Modern Warfare 4</a>, and yes, it's coming to Switch 2 on the same day as other platforms.</p><p>This all-new entry in the series will launch on <stron",
+      "title": "Call Of Duty: Modern Warfare 4 Revealed For Switch 2"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/05/japanese-charts-switch-2-sneaks-in-some-huge-numbers-ahead-of-the-price-rise",
+      "published": "Thu, 28 May 2026 14:30:00 GMT",
+      "summary": "<p><strong>Once more, with feeling.</strong></p><p>The latest Japanese charts are in from <a href=\"https://www.famitsu.com/article/202605/76251\">Famitsu</a>, and before we get to another week of <em>huge</em> Switch 2 sales, it's time to see how Nintendo's latest fared on the software side of things.</p><p>Yes, <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/yoshi-and-the-mysterious-",
+      "title": "Japanese Charts: Switch 2 Sneaks In Some Huge Numbers Ahead Of The Price Rise"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/05/pragmata-director-would-love-to-see-a-sequel-but-the-decision-isnt-his-alone",
+      "published": "Thu, 28 May 2026 12:45:00 GMT",
+      "summary": "<p><strong>Join the club.</strong></p><p>It's fair to say that <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/pragmata\">Pragmata</a> has been quite the success for Capcom since it launched earlier this year. It sped past <a href=\"https://www.nintendolife.com/news/2026/05/pragmata-has-hit-a-new-sales-milestone-in-just-16-days\">2 million copies sold</a> in its first 16 days, and it so",
+      "title": "Pragmata Director Would \"Love To See A Sequel\", But The Decision Isn't His Alone"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/05/valve-follows-switch-2-ps5-and-xbox-with-major-steam-deck-price-hike",
+      "published": "Thu, 28 May 2026 05:15:00 GMT",
+      "summary": "<p><strong>Priced out.</strong></p><p>Depending on what kind of hybrid gaming system you're in the market for, the Steam Deck might not be quite as appealing after a significant price increase this week.</p><p>Following in the footsteps of <a href=\"https://www.nintendolife.com/news/2026/03/ps5-gets-an-insane-price-increase-n-will-nintendo-follow-suit\">Nintendo and Sony recently</a>, Valve has anno",
+      "title": "Valve Follows Switch 2, PS5 & Xbox With Major Steam Deck Price Hike"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
