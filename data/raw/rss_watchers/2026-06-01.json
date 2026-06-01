@@ -1,0 +1,66 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-06-01T13:36:16Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/fandom-and-gamespot-owner-set-to-buy-balatro-publisher-playstack",
+      "published": "Fri, 29 May 2026 16:55:52 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/balatro_rdC26K2.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Playstack, the publisher behind games including Balatro, Abiotic Factor, and The Rise of the Golden Idol, is set to be purchased by Integrated Media Company (IMC), the owner of Fandom and Gamespot, among numerous other brands. The news was initially reported by <a href=\"https://w",
+      "title": "Fandom and GameSpot owner set to buy Balatro publisher Playstack"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/witcher-3-surpasses-65m-lifetime-sales-as-cd-projekt-announces-third-expansion",
+      "published": "Fri, 29 May 2026 09:25:29 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/witcher-3_dtDke18.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>As CD Projekt announced the third expansion for 2015's The Witcher 3, the developer reported a slight 6% increase in overall revenue to PLN 191 million ($52.5 million) during its first quarter.</p> <p><a href=\"https://www.gamesindustry.biz/witcher-3-surpasses-65m-lifetime-sales",
+      "title": "Witcher 3 surpasses 65m lifetime sales as CD Projekt announces third expansion"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/fortnites-global-ios-return-reportedly-reaches-34m-downloads-marking-an-eight-year-high",
+      "published": "Thu, 28 May 2026 08:57:10 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/fortnite-ios_6QzHnUV.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Fortnite's <a href=\"https://www.gamesindustry.biz/fortnite-returns-to-ios-worldwide-excluding-australia-as-epic-prepares-for-final-battle-over-app-store-fees\"> global return to iOS last week</a> generated an estimated 3.4 million downloads, marking an eight-year high.</p> <p>",
+      "title": "Fortnite's global iOS return reportedly reaches 3.4m downloads, marking an eight-year high"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/nintendo-reportedly-planning-20-production-increase-for-switch-2",
+      "published": "Tue, 26 May 2026 09:51:47 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/nintendo-switch-21.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Nintendo reportedly plans to increase Switch 2 hardware production to 20 million units, a 20% rise, despite previously <a href=\"https://www.gamesindustry.biz/nintendo-fy-sales-soar-986-to-146bn-following-launch-of-switch-2\"> forecasting a sales decline from 16.9% to 16.5 milli",
+      "title": "Nintendo reportedly planning 20% production increase for Switch 2"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/microsoft-agrees-to-pay-250m-to-settle-lawsuit-over-activision-blizzard-deal",
+      "published": "Tue, 26 May 2026 08:46:24 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/New-Project-(25).jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Microsoft will pay $250 million to settle <a href=\"https://www.gamesindustry.biz/bobby-kotick-claims-lawsuit-objecting-microsoft-activision-deal-was-tied-to-embracers-desire-to-boost-sales\"> a 2022 class action lawsuit</a> filed by Swedish pension fund Sjunde AP-Fonden AP7, which",
+      "title": "Microsoft agrees to pay $250m to settle lawsuit over Activision Blizzard deal"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/05/mina-the-hollower-is-now-metacritics-highest-rated-game-of-2026",
+      "published": "Sat, 30 May 2026 08:00:00 GMT",
+      "summary": "<p><strong>Early sales data has also been shared.</strong></p><p></p><p>2026 has already been a blockbuster year for video games, and it just keeps getting better. Following the recent success of titles such as <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/resident-evil-requiem\">Resident Evil Requiem</a> and <a class=\"external\" href=\"https://www.purexbox.com/games/xbox-series-x/for",
+      "title": "Mina The Hollower Is Now Metacritic's Highest-Rated Game Of 2026"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/05/first-lights-switch-2-release-date-is-still-mia-but-bonds-off-to-a-flying-start-elsewhere",
+      "published": "Fri, 29 May 2026 11:30:00 GMT",
+      "summary": "<p><strong>Buy Another Day.</strong></p><p>We're still waiting on the new Switch 2 release date for <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/007-first-light\">007 First Light</a> after it was <a href=\"https://www.nintendolife.com/news/2026/04/007-first-light-shaken-by-delay-on-switch-2-now-releasing-after-other-consoles\">delayed</a> on the hybrid back in April, but that hasn't ",
+      "title": "First Light's Switch 2 Release Date Is Still MIA, But Bond's Off To A Flying Start Elsewhere"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
