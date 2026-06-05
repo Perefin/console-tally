@@ -1,0 +1,66 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-06-05T11:28:28Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/switch-2-sales-drop-87-in-japan-following-surge-ahead-of-cost-revisions",
+      "published": "Fri, 05 Jun 2026 08:14:13 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/how-much-will-switch-2-cost-nintendo-says-it-needs-to-consid_gvt1.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Nintendo Switch 2 sales in Japan fell by 87% after a surge prior to <a href=\"https://www.gamesindustry.biz/nintendo-hikes-switch-2-prices-revises-console-costs-in-japan-us-canada-and-europe\">the May 25 price increase</a>.</p> <p><a",
+      "title": "Switch 2 sales drop 87% in Japan following surge ahead of cost revisions"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/esa-67-of-americans-played-video-games-for-more-than-an-hour-in-2025",
+      "published": "Wed, 03 Jun 2026 10:00:00 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/samsung-memory-PYcILs6V2n0-unsplash.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>In 2025, more than 212 million Americans ages 5 to 90 played video games, according to the latest Entertainment Software Association data.</p> <p><a href=\"https://www.gamesindustry.biz/esa-67-of-americans-played-video-games-for-more-than-an-hour-in-2025\">Read m",
+      "title": "ESA: 67% of Americans played video games for more than an hour in 2025"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/playstation-first-party-sales-see-modest-rebound-after-half-decade-decline",
+      "published": "Tue, 02 Jun 2026 13:44:21 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/ghost-of-yotei_DRvw4f6.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>PlayStation first-party game sales <a href=\"https://www.gamesindustry.biz/playstation-records-765m-impairment-loss-from-bungie-as-operating-income-falls-416-in-q4\"> increased from 28.9 million to 32.1 million copies</a> in FY2025, marking a modest improvement over the past ",
+      "title": "PlayStation first-party sales see modest rebound after half-decade decline"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/analyst-call-of-dutys-withdrawal-from-last-gen-consoles-means-its-selling-into-the-smallest-install-base-since-2017",
+      "published": "Tue, 02 Jun 2026 08:35:54 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/modern-warfare-4.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Activision's decision to drop support for Xbox One and PlayStation 4 for Call of Duty: Modern Warfare 4 has reduced its potential marked by 5.6%, according to a new report from analysts S&amp;P, which says that the corresponding launch on Switch 2 &ndash; the first time the franc",
+      "title": "Analyst: Call of Duty's withdrawal from last-gen consoles means it's selling into the smallest install base since 2017"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/atari-acquires-crossy-road-developer-hipster-whale",
+      "published": "Mon, 01 Jun 2026 13:41:45 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/crossy-road.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Atari has acquired Crossy Road developer Hipster Whale for over $29 million, with a total potential cost of nearly $40 million.</p> <p><a href=\"https://www.gamesindustry.biz/atari-acquires-crossy-road-developer-hipster-whale\">Read more</a></p>",
+      "title": "Atari acquires Crossy Road developer Hipster Whale"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/fandom-and-gamespot-owner-set-to-buy-balatro-publisher-playstack",
+      "published": "Fri, 29 May 2026 16:55:52 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/balatro_rdC26K2.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Playstack, the publisher behind games including Balatro, Abiotic Factor, and The Rise of the Golden Idol, is set to be purchased by Integrated Media Company (IMC), the owner of Fandom and Gamespot, among numerous other brands. The news was initially reported by <a href=\"https://w",
+      "title": "Fandom and GameSpot owner set to buy Balatro publisher Playstack"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/06/japanese-charts-switch-sales-plummet-as-price-increase-comes-into-play",
+      "published": "Thu, 04 Jun 2026 16:45:00 GMT",
+      "summary": "<p><strong>Mo' money, Mii problems.</strong></p><p><a href=\"https://www.famitsu.com/article/202606/77027\">Famitsu</a> has given us an updated look at the Japanese charts as the first week of <a href=\"https://www.nintendolife.com/news/2026/05/nintendo-announces-sweeping-price-hikes-for-switch-2\">Switch price increases</a> comes into play in the region.</p><p>Those with a Switch console already in h",
+      "title": "Japanese Charts: Switch Sales Plummet As Price Increase Comes Into Play"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
