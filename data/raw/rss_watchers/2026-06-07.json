@@ -1,0 +1,66 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-06-07T10:29:24Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/007-first-light-officially-sells-27-million-copies-probably-at-three-million",
+      "published": "Sat, 06 Jun 2026 16:03:05 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/007-first-light-12-29-25-1-1024x576.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>IO Interactive CEO Hakan Abrak says that the studio's recently-released 007 First Light is approaching three million copies sold, and while the game has yet to recoup its budget the goal is well below the $200 million budget previously reported. He says that co",
+      "title": "007 First Light officially sells 2.7 million copies, \"probably\" at three million"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/switch-2-sales-drop-87-in-japan-following-surge-ahead-of-cost-revisions",
+      "published": "Fri, 05 Jun 2026 08:14:13 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/how-much-will-switch-2-cost-nintendo-says-it-needs-to-consid_gvt1.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Nintendo Switch 2 sales in Japan fell by 87% after a surge prior to <a href=\"https://www.gamesindustry.biz/nintendo-hikes-switch-2-prices-revises-console-costs-in-japan-us-canada-and-europe\">the May 25 price increase</a>.</p> <p><a",
+      "title": "Switch 2 sales drop 87% in Japan following surge ahead of cost revisions"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/esa-67-of-americans-played-video-games-for-more-than-an-hour-in-2025",
+      "published": "Wed, 03 Jun 2026 10:00:00 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/samsung-memory-PYcILs6V2n0-unsplash.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>In 2025, more than 212 million Americans ages 5 to 90 played video games, according to the latest Entertainment Software Association data.</p> <p><a href=\"https://www.gamesindustry.biz/esa-67-of-americans-played-video-games-for-more-than-an-hour-in-2025\">Read m",
+      "title": "ESA's Stanley Pierre-Louis: Video games are the \"most popular and successful form of entertainment\" in the US"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/playstation-first-party-sales-see-modest-rebound-after-half-decade-decline",
+      "published": "Tue, 02 Jun 2026 13:44:21 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/ghost-of-yotei_DRvw4f6.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>PlayStation first-party game sales <a href=\"https://www.gamesindustry.biz/playstation-records-765m-impairment-loss-from-bungie-as-operating-income-falls-416-in-q4\"> increased from 28.9 million to 32.1 million copies</a> in FY2025, marking a modest improvement over the past ",
+      "title": "PlayStation first-party sales see modest rebound after half-decade decline"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/analyst-call-of-dutys-withdrawal-from-last-gen-consoles-means-its-selling-into-the-smallest-install-base-since-2017",
+      "published": "Tue, 02 Jun 2026 08:35:54 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/modern-warfare-4.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Activision's decision to drop support for Xbox One and PlayStation 4 for Call of Duty: Modern Warfare 4 has reduced its potential marked by 5.6%, according to a new report from analysts S&amp;P, which says that the corresponding launch on Switch 2 &ndash; the first time the franc",
+      "title": "Analyst: Call of Duty's withdrawal from last-gen consoles means it's selling into the smallest install base since 2017"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/atari-acquires-crossy-road-developer-hipster-whale",
+      "published": "Mon, 01 Jun 2026 13:41:45 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/crossy-road.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Atari has acquired Crossy Road developer Hipster Whale for over $29 million, with a total potential cost of nearly $40 million.</p> <p><a href=\"https://www.gamesindustry.biz/atari-acquires-crossy-road-developer-hipster-whale\">Read more</a></p>",
+      "title": "Atari acquires Crossy Road developer Hipster Whale"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/06/007-first-light-year-one-roadmap-revealed-reconfirms-switch-2-release-window",
+      "published": "Sat, 06 Jun 2026 12:30:00 GMT",
+      "summary": "<p><strong>And IOI shares another sales update.</strong></p><p><a href=\"https://www.nintendolife.com/games/nintendo-switch-2/007-first-light\">007 First Light</a> is already available on other platforms and IO Interactive has this week provided an update about the game's sales and also shared its \"first year content\" plans.</p><p>Firstly, this roadmap reconfirms James Bond's new mission is still on",
+      "title": "007 First Light \"Year One\" Roadmap Revealed, Reconfirms Switch 2 Release Window"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
