@@ -1,0 +1,52 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-06-10T11:38:31Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/turkiyes-domestic-mobile-revenue-grew-6-to-347m-in-2025",
+      "published": "Tue, 09 Jun 2026 09:05:24 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/priscilla-du-preez-BjhUu6BpUZA-unsplash.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>T&uuml;rkiye's mobile revenue rose 6% in 2025 to $347 million, its highest annual total to date. Over the past six years, Turkish developer revenue has grown by 450% to $2.7 billion.</p> <p><a href=\"https://www.gamesindustry.biz/turkiyes-domestic-mobile-rev",
+      "title": "Türkiye's domestic mobile revenue grew 6% to $347m in 2025"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/nintendo-of-europe-agrees-to-pay-35m-fine-for-joy-con-drift-defects",
+      "published": "Mon, 08 Jun 2026 13:43:43 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/joycon.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Nintendo of Europe has agreed to pay a &euro;35 million fine after a French regulator found the company misled customers about Joy-Con drift defects on original Switch controllers.</p> <p><a href=\"https://www.gamesindustry.biz/nintendo-of-europe-agrees-to-pay-35m-fine-for-joy-con-drift-def",
+      "title": "Nintendo of Europe agrees to pay €35m fine for Joy-Con drift defects"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/007-first-light-officially-sells-27-million-copies-probably-at-three-million",
+      "published": "Sat, 06 Jun 2026 16:03:05 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/007-first-light-12-29-25-1-1024x576.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>IO Interactive CEO Hakan Abrak says that the studio's recently-released 007 First Light is approaching three million copies sold, and while the game has yet to recoup its budget the goal is well below the $200 million budget previously reported. He says that co",
+      "title": "007 First Light officially sells 2.7 million copies, \"probably\" at three million"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/switch-2-sales-drop-87-in-japan-following-surge-ahead-of-cost-revisions",
+      "published": "Fri, 05 Jun 2026 08:14:13 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/how-much-will-switch-2-cost-nintendo-says-it-needs-to-consid_gvt1.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Nintendo Switch 2 sales in Japan fell by 87% after a surge prior to <a href=\"https://www.gamesindustry.biz/nintendo-hikes-switch-2-prices-revises-console-costs-in-japan-us-canada-and-europe\">the May 25 price increase</a>.</p> <p><a",
+      "title": "Switch 2 sales drop 87% in Japan following surge ahead of cost revisions"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/esa-67-of-americans-played-video-games-for-more-than-an-hour-in-2025",
+      "published": "Wed, 03 Jun 2026 10:00:00 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/samsung-memory-PYcILs6V2n0-unsplash.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>In 2025, more than 212 million Americans ages 5 to 90 played video games, according to the latest Entertainment Software Association data.</p> <p><a href=\"https://www.gamesindustry.biz/esa-67-of-americans-played-video-games-for-more-than-an-hour-in-2025\">Read m",
+      "title": "ESA's Stanley Pierre-Louis: Video games are the \"most popular and successful form of entertainment\" in the US"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
