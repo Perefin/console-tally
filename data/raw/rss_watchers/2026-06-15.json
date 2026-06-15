@@ -1,0 +1,52 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-06-15T13:54:48Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/analyst-q1-2026-revenue-figures-show-there-is-still-demand-for-compelling-single-player-video-games",
+      "published": "Thu, 11 Jun 2026 10:19:50 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/resident-evil-requiem-leon_mh40Z6d.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Global game content revenue increased 3.6% to $54.14 billion in Q1 2026, marking the seventh consecutive quarter of year-over-year growth, according to estimates reported by S&amp;P Global Market Intelligence.</p> <p><a href=\"https://www.gamesindustry.biz/analys",
+      "title": "Analyst: Q1 2026 revenue figures show there is still demand for compelling single-player video games"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/frontier-developments-reports-record-profits-in-fy26-turnaround",
+      "published": "Wed, 10 Jun 2026 12:52:49 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/jurassic-world-evolution_nreo5Wt.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Frontier Developments reported its second-highest revenue to date, rising 16% to &pound;104.8 million in FY26.</p> <p><a href=\"https://www.gamesindustry.biz/frontier-developments-reports-record-profits-in-fy26-turnaround\">Read more</a></p>",
+      "title": "Frontier Developments reports record profits in FY26 turnaround"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/turkiyes-domestic-mobile-revenue-grew-6-to-347m-in-2025",
+      "published": "Tue, 09 Jun 2026 09:05:24 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/priscilla-du-preez-BjhUu6BpUZA-unsplash.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>T&uuml;rkiye's mobile revenue rose 6% in 2025 to $347 million, its highest annual total to date. Over the past six years, Turkish developer revenue has grown by 450% to $2.7 billion.</p> <p><a href=\"https://www.gamesindustry.biz/turkiyes-domestic-mobile-rev",
+      "title": "Türkiye's domestic mobile revenue grew 6% to $347m in 2025"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/06/kingdom-hearts-collection-switch-2-estimated-file-size-revealed",
+      "published": "Sat, 13 Jun 2026 06:45:00 GMT",
+      "summary": "<p><strong>Make some space.</strong></p><p>One of the major announcements during the Direct broadcast earlier this week was the news Square Enix is finally releasing proper versions of <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/kingdom-hearts-collection-iiii\">Kingdom Hearts</a> on Nintendo's platforms. The Switch cloud versions have already been discontinued from sale, with the ",
+      "title": "Kingdom Hearts Collection Switch 2 Estimated File Size Revealed"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/06/nintendo-combats-scalpers-with-new-switch-2-purchase-requirements-in-japan",
+      "published": "Fri, 12 Jun 2026 06:30:00 GMT",
+      "summary": "<p><strong>You must play Switch for \"50 hours or more\".</strong></p><p>Nintendo's Japanese branch has announced it's placed new purchase requirements on the Switch 2, after discovering \"multiple orders\" suspected of scalping consoles.</p><p>The notice specifically highlights the <a href=\"https://www.nintendolife.com/news/2025/04/nintendo-is-kinda-returning-to-region-locking-with-a-cheaper-japanese",
+      "title": "Nintendo Combats Scalpers With New Switch 2 Purchase Requirements In Japan"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
