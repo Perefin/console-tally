@@ -1,0 +1,52 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-06-17T12:15:54Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/toys-for-bob-says-spyro-reigniteds-11m-sales-proved-theres-an-audience-that-woke-up-to-show-up-for-that-series",
+      "published": "Mon, 15 Jun 2026 20:24:47 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/spyro-a-realm-beyond-(3).png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Spyro: A Realm Beyond developer Toys for Bob revealed that while it was a \"massive, massive risk\" to go independent, Spyro Reignited Trilogy's 11 million sales proved \"there's an audience that woke up to show up for that series.\"</p> <p><a href=\"https://www.gamesindustry.",
+      "title": "Toys for Bob says Spyro: Reignited's 11m sales proved \"there's an audience that woke up to show up for that series\""
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/analyst-q1-2026-revenue-figures-show-there-is-still-demand-for-compelling-single-player-video-games",
+      "published": "Thu, 11 Jun 2026 10:19:50 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/resident-evil-requiem-leon_mh40Z6d.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Global game content revenue increased 3.6% to $54.14 billion in Q1 2026, marking the seventh consecutive quarter of year-over-year growth, according to estimates reported by S&amp;P Global Market Intelligence.</p> <p><a href=\"https://www.gamesindustry.biz/analys",
+      "title": "Analyst: Q1 2026 revenue figures show there is still demand for compelling single-player video games"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/frontier-developments-reports-record-profits-in-fy26-turnaround",
+      "published": "Wed, 10 Jun 2026 12:52:49 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/jurassic-world-evolution_nreo5Wt.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Frontier Developments reported its second-highest revenue to date, rising 16% to &pound;104.8 million in FY26.</p> <p><a href=\"https://www.gamesindustry.biz/frontier-developments-reports-record-profits-in-fy26-turnaround\">Read more</a></p>",
+      "title": "Frontier Developments reports record profits in FY26 turnaround"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/06/hacker-group-steals-nintendo-employee-data-posts-usd2-million-ransom",
+      "published": "Tue, 16 Jun 2026 18:15:00 GMT",
+      "summary": "<p><strong>Update: \"We are working with the service provider to address the issue,\" says NOA.</strong></p><p>An as-yet-unverified data breach may have affected Nintendo, according to a claim made by hacking group ShadowByt3$.</p><p>As reported by <a href=\"https://www.technadu.com/nintendo-data-breach-hacker-claims-stealing-approximately-860-mb-via-tinypulse-systems/629331/\">Technadu</a> (via, <a h",
+      "title": "Hacker Group Steals Nintendo Employee Data, Posts $2 Million Ransom"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/06/devil-may-cry-anime-helps-dmc5-achieve-record-sales-ahead-of-switch-2-launch",
+      "published": "Tue, 16 Jun 2026 13:30:00 GMT",
+      "summary": "<p><strong>SSS - Stylish!</strong></p><p>Capcom has recently confirmed the launch of <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/devil-may-cry-5-devil-hunter-edition\">Devil May Cry 5: Devil Hunter Edition</a> for the Switch 2, bringing one of the finest entries in the action series to Nintendo's console more than seven years after its initial launch.</p><p>You'd think that being ",
+      "title": "Devil May Cry Anime Helps DMC5 Achieve Record Sales Ahead Of Switch 2 Launch"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
