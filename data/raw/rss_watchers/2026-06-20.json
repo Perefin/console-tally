@@ -1,0 +1,38 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-06-20T10:32:09Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/toys-for-bob-says-spyro-reigniteds-11m-sales-proved-theres-an-audience-that-woke-up-to-show-up-for-that-series",
+      "published": "Mon, 15 Jun 2026 20:24:47 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/spyro-a-realm-beyond-(3).png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Spyro: A Realm Beyond developer Toys for Bob revealed that while it was a \"massive, massive risk\" to go independent, Spyro Reignited Trilogy's 11 million sales proved \"there's an audience that woke up to show up for that series.\"</p> <p><a href=\"https://www.gamesindustry.",
+      "title": "Toys for Bob says Spyro: Reignited's 11m sales proved \"there's an audience that woke up to show up for that series\""
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/06/japanese-charts-tomodachi-life-finally-slips-from-the-top-spot",
+      "published": "Thu, 18 Jun 2026 15:45:00 GMT",
+      "summary": "<p><strong>And it's all thanks to Baseball.</strong></p><p>The latest sales data from Japan is in thanks to <a href=\"https://www.famitsu.com/article/202606/78731\">Famitsu</a>, and <a href=\"https://www.nintendolife.com/games/nintendo-switch/tomodachi_life_living_the_dream\">Tomodachi Life: Living the Dream</a> has finally been knocked from its perch by none other than <strong>Powerful Pro Baseball 2",
+      "title": "Japanese Charts: Tomodachi Life Finally Slips From The Top Spot"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/previews/granblue-fantasy-relink-endless-ragnarok-feels-right-at-home-on-switch-2",
+      "published": "Thu, 18 Jun 2026 07:00:00 GMT",
+      "summary": "<p><strong>Ragnar rocks.</strong></p><p>The <strong>Granblue Fantasy</strong> series has never particularly appealed to me. Perhaps the likes of <strong>Persona</strong>, <strong>Xenoblade</strong>, and <strong>Fire Emblem</strong> are to blame — my ‘beautiful anime people in big fights’ cup overfloweth — making the thought of taking on <em>another</em> big anime-flavoured RPG a little too intimid",
+      "title": "Preview: Granblue Fantasy: Relink - Endless Ragnarok Feels Right At Home On Switch 2"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
