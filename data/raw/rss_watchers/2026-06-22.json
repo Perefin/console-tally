@@ -1,0 +1,24 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-06-22T13:34:30Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/toys-for-bob-says-spyro-reigniteds-11m-sales-proved-theres-an-audience-that-woke-up-to-show-up-for-that-series",
+      "published": "Mon, 15 Jun 2026 20:24:47 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/spyro-a-realm-beyond-(3).png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Spyro: A Realm Beyond developer Toys for Bob revealed that while it was a \"massive, massive risk\" to go independent, Spyro Reignited Trilogy's 11 million sales proved \"there's an audience that woke up to show up for that series.\"</p> <p><a href=\"https://www.gamesindustry.",
+      "title": "Toys for Bob says Spyro: Reignited's 11m sales proved \"there's an audience that woke up to show up for that series\""
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
