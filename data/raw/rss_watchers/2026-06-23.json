@@ -1,0 +1,38 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-06-23T11:15:54Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/toys-for-bob-says-spyro-reigniteds-11m-sales-proved-theres-an-audience-that-woke-up-to-show-up-for-that-series",
+      "published": "Mon, 15 Jun 2026 20:24:47 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/spyro-a-realm-beyond-(3).png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Spyro: A Realm Beyond developer Toys for Bob revealed that while it was a \"massive, massive risk\" to go independent, Spyro Reignited Trilogy's 11 million sales proved \"there's an audience that woke up to show up for that series.\"</p> <p><a href=\"https://www.gamesindustry.",
+      "title": "Toys for Bob says Spyro: Reignited's 11m sales proved \"there's an audience that woke up to show up for that series\""
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/06/sega-says-sonic-racing-and-shinobi-sales-have-fallen-short-of-expectations",
+      "published": "Tue, 23 Jun 2026 04:55:00 GMT",
+      "summary": "<p><strong>\"Despite strong title evaluations\".</strong></p><p></p><p>It was revealed earlier this year that <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/sonic-racing-crossworlds-nintendo-switch-2-edition\">Sonic Racing: CrossWorlds</a> had failed to meet Sega's sales expectations and in the latest Sega Sammy financial report for June 2026, it has revisted the game's sales performan",
+      "title": "Sega Says Sonic Racing And Shinobi Sales Have \"Fallen Short\" Of Expectations"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/06/uk-charts-the-adventures-of-elliot-makes-an-impressive-debut-but-cant-trouble-the-podium",
+      "published": "Mon, 22 Jun 2026 14:30:00 GMT",
+      "summary": "<p><strong>Adventure time.</strong></p><p>We are back with another look at the UK charts, and after a relatively uneventful one last week, we're excited to see a couple of new releases worm their way into the top 10 this time.</p><p>The big one for us Switch fans is <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/adventures-of-elliot-the-millennium-tales\">The Adventures of Elliot: Th",
+      "title": "UK Charts: The Adventures Of Elliot Makes An Impressive Debut, But Can't Trouble The Podium"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
