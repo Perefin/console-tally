@@ -1,0 +1,38 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-06-24T10:49:30Z",
+  "matches": [
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/06/here-are-the-top-200-best-selling-nintendo-64-games-in-the-us",
+      "published": "Wed, 24 Jun 2026 01:30:00 GMT",
+      "summary": "<p><strong>Celebrating 30 years of N64.</strong></p><p>The N64 is celebrating its 30th anniversary this week, and as we reflect on this glorious 64-bit system in all sorts of ways here on Nintendo Life, Circana has joined in on the fun with a list of the \"top 200 best-selling Nintendo 64 games\" in the US, ranked by unit sales.</p><p>This list comes from Circana Retail Tracking Service (via Circana",
+      "title": "Here Are The \"Top 200\" Best-Selling Nintendo 64 Games In The US"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/06/sonic-frontiers-has-sold-just-shy-of-5-million-copies",
+      "published": "Tue, 23 Jun 2026 15:45:00 GMT",
+      "summary": "<p><strong>While Sonic X Shadow Generations breaks 3 million.</strong></p><p>Sega's been <a href=\"https://www.nintendolife.com/news/2026/06/sega-says-sonic-racing-and-shinobi-sales-have-fallen-short-of-expectations\">making the headlines</a> today thanks to <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/sonic-racing-crossworlds-nintendo-switch-2-edition\">Sonic Racing: CrossWorlds</a>",
+      "title": "Sonic Frontiers Has Sold Just Shy Of 5 Million Copies"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/06/sega-says-sonic-racing-and-shinobi-sales-have-fallen-short-of-expectations",
+      "published": "Tue, 23 Jun 2026 04:55:00 GMT",
+      "summary": "<p><strong>\"Despite strong title evaluations\".</strong></p><p></p><p>It was revealed earlier this year that <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/sonic-racing-crossworlds-nintendo-switch-2-edition\">Sonic Racing: CrossWorlds</a> had failed to meet Sega's sales expectations and in the latest Sega Sammy financial report for June 2026, it has revisted the game's sales performan",
+      "title": "Sega Says Sonic Racing And Shinobi Sales Have \"Fallen Short\" Of Expectations"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
