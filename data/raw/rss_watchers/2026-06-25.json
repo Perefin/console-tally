@@ -1,0 +1,24 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-06-25T10:40:49Z",
+  "matches": [
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/06/here-are-the-top-200-best-selling-nintendo-64-games-in-the-us",
+      "published": "Wed, 24 Jun 2026 01:30:00 GMT",
+      "summary": "<p><strong>Celebrating 30 years of N64.</strong></p><p>The N64 is celebrating its 30th anniversary this week, and as we reflect on this glorious 64-bit system in all sorts of ways here on Nintendo Life, Circana has joined in on the fun with a list of the \"top 200 best-selling Nintendo 64 games\" in the US, ranked by unit sales.</p><p>This list comes from Circana Retail Tracking Service (via Circana",
+      "title": "Here Are The \"Top 200\" Best-Selling Nintendo 64 Games In The US"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
