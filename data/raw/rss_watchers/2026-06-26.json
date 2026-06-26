@@ -1,0 +1,31 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-06-26T10:50:41Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/vc-fund-vgames-launches-new-10m-indie-fund",
+      "published": "Thu, 25 Jun 2026 14:15:00 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/lior-elovitch-gvames.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Venture capital firm Vgames is launching a new $10 million Indie Fund.</p> <p><a href=\"https://www.gamesindustry.biz/vc-fund-vgames-launches-new-10m-indie-fund\">Read more</a></p>",
+      "title": "VC fund Vgames launches new $10m Indie Fund"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/06/japanese-charts-combined-console-sales-put-the-adventures-of-elliot-on-top",
+      "published": "Thu, 25 Jun 2026 15:45:00 GMT",
+      "summary": "<p><strong>But Tomodachi Life is the sole best-seller.</strong></p><p><a href=\"https://www.famitsu.com/article/202606/79458\">Famitsu</a> has provided our latest look at the boxed charts in Japan, and it's The Adventures of Elliot: The Millennium Tales that comes out the big winner this week.</p><p>Yes, <a href=\"https://www.nintendolife.com/games/nintendo-switch/tomodachi_life_living_the_dream\">Tom",
+      "title": "Japanese Charts: Combined Console Sales Put The Adventures Of Elliot On Top"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
