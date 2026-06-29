@@ -1,0 +1,59 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-06-29T12:33:03Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/playstation-hardware-sales-fall-to-their-lowest-may-total-since-2000-us-monthly-charts",
+      "published": "Fri, 26 Jun 2026 17:37:13 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/charles-sims-ps5-unsplash.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>PlayStation 5 unit sales in the United States dropped 58% year on year in May, according to Circana, reaching their lowest May total since 2000. Xbox unit sales, meanwhile, reached their lowest ever recorded figures for May, dropping 12% year on year.</p> <p><a href=\"htt",
+      "title": "PlayStation hardware sales fall to their lowest May total since 2000 | US Monthly Charts"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/vc-fund-vgames-launches-new-10m-indie-fund",
+      "published": "Thu, 25 Jun 2026 14:15:00 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/lior-elovitch-gvames.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Venture capital firm Vgames is launching a new $10 million Indie Fund.</p> <p><a href=\"https://www.gamesindustry.biz/vc-fund-vgames-launches-new-10m-indie-fund\">Read more</a></p>",
+      "title": "VC fund Vgames launches new $10m Indie Fund"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/06/uk-charts-star-fox-barrel-rolls-to-the-top-and-grabs-the-gold-medal",
+      "published": "Mon, 29 Jun 2026 09:00:00 GMT",
+      "summary": "<p><strong>Beating the An-dross.</strong></p><p>The latest UK boxed charts data is in, and it's a resounding victory for <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/star-fox\">Star Fox</a> on Switch 2, which shoots to the top in its debut week. A lot of retailers had some compelling launch prices for the game that no doubt helped to fuel the physical sales, with many undercutting ",
+      "title": "UK Charts: Star Fox Barrel Rolls To The Top And Grabs The Gold Medal"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/06/mina-the-hollower-is-joining-rivals-of-aether-ii-as-a-guest-fighter-in-2027",
+      "published": "Sun, 28 Jun 2026 01:30:00 GMT",
+      "summary": "<p><strong>A console release is also on the way.</strong></p><p>Yacht Club's new game <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/mina-the-hollower-nintendo-switch-2-edition\">Mina The Hollower</a> has already <a href=\"https://www.nintendolife.com/news/2026/06/mina-the-hollower-has-now-sold-half-a-million-copies\">established itself with millions of sales</a> and it seems the renow",
+      "title": "Mina The Hollower Is Joining Rivals Of Aether II As A Guest Fighter In 2027"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/06/yoshis-page-turning-switch-2-adventure-debuts-in-top-10-best-selling-games-for-may-2026-us",
+      "published": "Sat, 27 Jun 2026 05:00:00 GMT",
+      "summary": "<p><strong>Egg-cellent.</strong></p><p></p><p>Apart from strong Switch 2 hardware sales last month, multiple first-party Nintendo titles have also featured in the latest US game charts.</p><p>Read the <a href=\"https://www.nintendolife.com/news/2026/06/yoshis-page-turning-switch-2-adventure-debuts-in-top-10-best-selling-games-for-may-2026-us\">full article on nintendolife.com</a></p>",
+      "title": "Yoshi's Page-Turning Switch 2 Adventure Debuts In \"Top 10 Best-Selling Games\" For May 2026 (US)"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/06/switch-2s-first-year-hardware-sales-for-the-us-have-been-revealed",
+      "published": "Sat, 27 Jun 2026 02:00:00 GMT",
+      "summary": "<p><strong>A promising start.</strong></p><p>Last month, Nintendo's <a href=\"https://www.nintendolife.com/news/2026/05/switch-2-has-sold-just-shy-of-20-million-units-nintendo-lowers-fy27-forecast\">end-of-year financial data</a> revealed the Switch 2 was just shy of <strong>20 million</strong> unit sales globally.</p><p>As the new hybrid device enters its second year, <a class=\"external\" href=\"http",
+      "title": "Switch 2's First Year Hardware Sales For The US Have Been Revealed"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
