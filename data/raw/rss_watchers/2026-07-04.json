@@ -1,0 +1,52 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-07-04T10:08:58Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/subnautica-2-studio-unknown-worlds-ceo-resigns-as-krafton-agrees-to-pay-250m-bonus",
+      "published": "Wed, 01 Jul 2026 16:38:14 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/subnautica-2-content-nurkowie.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Krafton has settled its lawsuit with the former leadership team of Subnautica 2 developer, Unknown Worlds, and agreed to pay the $250 million disputed bonus.</p> <p><a href=\"https://www.gamesindustry.biz/subnautica-2-studio-unknown-worlds-ceo-resigns-as-krafton-agree",
+      "title": "Subnautica 2 studio Unknown Worlds' CEO resigns as Krafton agrees to pay $250m bonus"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/rokky-launches-unofficial-steam-tool-for-checking-if-bundle-and-press-keys-have-been-used",
+      "published": "Wed, 01 Jul 2026 08:00:00 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/steam_ROoZJs3.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Key distribution platform Rokky has debuted a free browser plugin for publishers and developers to monitor if distributed Steam keys have been used. The firm described it as a tool for \"partner reconciliation and sales forecasting\" and \"safe post-bundle verification\".</p> <p><a href",
+      "title": "Rokky launches unofficial Steam tool for checking if bundle and press keys have been used"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/07/cyberpunk-2077-is-a-breathtaking-success-reaching-40-million-copies-sold",
+      "published": "Fri, 03 Jul 2026 15:45:00 GMT",
+      "summary": "<p><strong>A(dam) smash(er) hit.</strong></p><p>When the Switch 2 released over a year back (gulp!), one of the most high-profile launch titles was <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/cyberpunk-2077-ultimate-edition\">Cyberpunk 2077: Ultimate Edition</a>. Containing both the base game and the expansion story <strong>Phantom Liberty</strong>, it's a comprehensive package th",
+      "title": "Cyberpunk 2077 Is A Breathtaking Success, Reaching 40 Million Copies Sold"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/07/industry-analyst-sonys-shock-physical-announcement-unlikely-to-influence-nintendos-plans",
+      "published": "Fri, 03 Jul 2026 05:30:00 GMT",
+      "summary": "<p><strong>Circana's Mat Piscatella says \"Nintendo is going to be Nintendo\".</strong></p><p>Sony's announcement this week it would <a class=\"external\" href=\"https://www.pushsquare.com/news/2026/07/playstation-consoles-to-stop-getting-disc-based-physical-releases-in-2028\">end PlayStation disc-based releases</a> by 2028 has unsurprisingly raised questions about the future of physical games media on ",
+      "title": "Industry Analyst: Sony's Shock Physical Announcement Unlikely To Influence Nintendo's Plans"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/07/japanese-charts-star-fox-proves-theres-nothing-wrong-with-its-g-diffuser-in-week-one",
+      "published": "Thu, 02 Jul 2026 14:00:00 GMT",
+      "summary": "<p><strong>Systems? Check.</strong></p><p>We are back with our latest look at the Japanese charts, courtesy of <a href=\"https://www.famitsu.com/article/202607/80137\">Famitsu</a>, and after grabbing the gold in the UK earlier this week, <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/star-fox\">Star Fox</a> has pulled the top prize in Japan, too.</p><p>Fox's latest adventure barrel-rol",
+      "title": "Japanese Charts: Star Fox Proves There's Nothing Wrong With Its G-Diffuser In Week One"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
