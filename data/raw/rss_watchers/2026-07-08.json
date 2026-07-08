@@ -1,0 +1,45 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-07-08T10:17:03Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/xbox-game-pass-reportedly-boasts-around-30m-subscribers",
+      "published": "Tue, 07 Jul 2026 13:44:12 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/GAme-Pass-Standard.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Microsoft's Xbox Game Pass subscription service apparently has around 30 million users.</p> <p><a href=\"https://www.gamesindustry.biz/xbox-game-pass-reportedly-boasts-around-30m-subscribers\">Read more</a></p>",
+      "title": "Xbox Game Pass subscriber count is less than 50% of original target"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/original-switch-console-lineup-to-be-discontinued-in-europe-by-mid-february-2027",
+      "published": "Tue, 07 Jul 2026 07:59:59 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/switch-console-jesper-brouwers-unsplash.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Nintendo will <a href=\"https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html?srsltid=AfmBOorOm17Yen0bpigyEdJJERnMyLgFubFoOePgkG1SF67saravtQt2\"> discontinue sales ",
+      "title": "Original Switch console lineup to be discontinued in Europe by mid-February 2027"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/07/pokemon-champions-has-now-surpassed-10-million-downloads-worldwide",
+      "published": "Wed, 08 Jul 2026 05:25:00 GMT",
+      "summary": "<p><strong>The new battle entry launched on mobile devices in June.</strong></p><p></p><p>The free-to-download title <a href=\"https://www.nintendolife.com/games/switch-eshop/pokemon_champions\">Pokémon Champions</a> launched on the Switch in April and followed with a smartphone release last month.</p><p>Read the <a href=\"https://www.nintendolife.com/news/2026/07/pokemon-champions-has-now-surpassed-",
+      "title": "Pokémon Champions Has Now Surpassed 10 Million Downloads Worldwide"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/07/nintendo-will-stop-selling-the-original-switch-from-february-2027",
+      "published": "Mon, 06 Jul 2026 14:50:00 GMT",
+      "summary": "<p><strong>End of an era, in Europe at least.</strong></p><p>Nintendo has quietly confirmed that it will no longer sell the original Switch, Switch Lite, and Switch - OLED Model to retailers from mid-February 2027 in Europe.</p><p>It has also announced that sales of all consoles will cease on the official Nintendo Store at the same time. This news comes via an <a href=\"https://www.nintendo.com/en-",
+      "title": "Nintendo Will Stop Selling The Original Switch From February 2027"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
