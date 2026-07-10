@@ -1,0 +1,52 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-07-10T10:52:32Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/new-zealands-success-is-being-built-by-ambitious-studios-of-all-sizes-combined-revenue-of-studios-supported-by-rebate-grows-17-to-829m",
+      "published": "Thu, 09 Jul 2026 13:39:06 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/new-zealand-flag-claudette-wicks-unsplash.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>New Zealand's game sector continues to grow as combined studio revenue supported by its Game Development Sector Rebate (GDSR) rose 17% to $829 million in 2025/26.</p> <p><a href=\"https://www.gamesindustry.biz/new-zealands-success-is-being-built-by-ambitio",
+      "title": "\"New Zealand's success is being built by ambitious studios of all sizes\" – Combined revenue of studios supported by rebate grows 17% to $829m"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/nintendo-confirms-switch-1-consoles-will-be-withdrawn-from-europe-following-eu-law-change-on-batteries",
+      "published": "Wed, 08 Jul 2026 18:17:11 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/switch_oled_TxDzrI3.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Nintendo has confirmed that sales of its original Switch console system - including its Lite and OLED models - will be discontinued in Europe next year.</p> <p><a href=\"https://www.gamesindustry.biz/nintendo-confirms-switch-1-consoles-will-be-withdrawn-from-europe-following-eu",
+      "title": "Nintendo confirms Switch 1 consoles will be withdrawn from Europe following EU law change on batteries"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/xbox-game-pass-reportedly-boasts-around-30m-subscribers",
+      "published": "Tue, 07 Jul 2026 13:44:12 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/GAme-Pass-Standard.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Microsoft's Xbox Game Pass subscription service apparently has around 30 million users.</p> <p><a href=\"https://www.gamesindustry.biz/xbox-game-pass-reportedly-boasts-around-30m-subscribers\">Read more</a></p>",
+      "title": "Xbox Game Pass subscriber count is less than 50% of original target"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/original-switch-console-lineup-to-be-discontinued-in-europe-by-mid-february-2027",
+      "published": "Tue, 07 Jul 2026 07:59:59 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/switch-console-jesper-brouwers-unsplash.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Nintendo will <a href=\"https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html?srsltid=AfmBOorOm17Yen0bpigyEdJJERnMyLgFubFoOePgkG1SF67saravtQt2\"> discontinue sales ",
+      "title": "Original Switch console lineup to be discontinued in Europe by mid-February 2027"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/07/japanese-charts-holy-moly-look-at-those-rhythm-heaven-groove-sales",
+      "published": "Thu, 09 Jul 2026 13:45:00 GMT",
+      "summary": "<p><strong>Wiping the floor.</strong></p><p>Ahoy folks, we're back with another look at the latest Japanese boxed charts (goodness, will these even exist in a few years time..?), courtesy of <a href=\"https://www.famitsu.com/article/202607/80856\">Famitsu</a>.</p><p>It's time for <a href=\"https://www.nintendolife.com/games/nintendo-switch/rhythm_heaven_groove\">Rhythm Heaven Groove</a> to shine, and ",
+      "title": "Japanese Charts: Holy Moly, Look At Those Rhythm Heaven Groove Sales"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
