@@ -1,0 +1,52 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-07-16T10:07:57Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/analyst-game-console-shipments-expected-to-decline-195-to-339m-units-in-2026",
+      "published": "Mon, 13 Jul 2026 13:13:28 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/ps5-xbox-switch-2_F8SYJdH.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Game console shipments are expected to fall 19.5% this year to 33.9 million units, according to new analyst data.</p> <p><a href=\"https://www.gamesindustry.biz/analyst-game-console-shipments-expected-to-decline-195-to-339m-units-in-2026\">Read more</a></p>",
+      "title": "Analyst: Game console shipments expected to decline 19.5% to 33.9m units in 2026"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/alinea-steam-revenue-reaches-111bn-marking-highest-half-year-on-record",
+      "published": "Mon, 13 Jul 2026 10:03:04 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/resident-evil-requiem-leon_GLCvixE.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Estimates from data firm Aliena Analytics suggest <a href=\"https://alineaanalytics.substack.com/p/steam-is-having-another-record-year\">Steam generated $11.1 billion in H1 revenue</a>, up 14.5% year-over-year, marking the platform's highest half-year revenue on r",
+      "title": "Alinea: Steam revenue reaches $11.1bn, marking highest half-year on record"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/new-zealands-success-is-being-built-by-ambitious-studios-of-all-sizes-combined-revenue-of-studios-supported-by-rebate-grows-17-to-829m",
+      "published": "Thu, 09 Jul 2026 13:39:06 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/new-zealand-flag-claudette-wicks-unsplash.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>New Zealand's game sector continues to grow as combined studio revenue supported by its Game Development Sector Rebate (GDSR) rose 17% to $829 million in 2025/26.</p> <p><a href=\"https://www.gamesindustry.biz/new-zealands-success-is-being-built-by-ambitio",
+      "title": "\"New Zealand's success is being built by ambitious studios of all sizes\" – Combined revenue of studios supported by rebate grows 17% to $829m"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/nintendo-confirms-switch-1-consoles-will-be-withdrawn-from-europe-following-eu-law-change-on-batteries",
+      "published": "Wed, 08 Jul 2026 18:17:11 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/switch_oled_TxDzrI3.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Nintendo has confirmed that sales of its original Switch console system - including its Lite and OLED models - will be discontinued in Europe next year.</p> <p><a href=\"https://www.gamesindustry.biz/nintendo-confirms-switch-1-consoles-will-be-withdrawn-from-europe-following-eu",
+      "title": "Nintendo confirms Switch 1 consoles will be withdrawn from Europe following EU law change on batteries"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/07/noir-style-cartoon-detective-fps-mouse-p-i-for-hire-surpasses-one-million-players",
+      "published": "Wed, 15 Jul 2026 03:45:00 GMT",
+      "summary": "<p><strong>\"From the bottom of our grinning hearts, thank you\".</strong></p><p>Following a <a href=\"https://www.nintendolife.com/news/2026/07/mouse-p-i-for-hire-gets-massive-switch-2-update-with-new-40fps-mode\">40fps mode update last week</a>, the new noir-style cartoon detective FPS <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/mouse-p-i-for-hire\">Mouse: P.I. For Hire</a> has now ",
+      "title": "Noir-Style Cartoon Detective FPS 'Mouse: P.I. For Hire' Surpasses One Million Players"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
