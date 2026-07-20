@@ -1,0 +1,59 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-07-20T10:51:07Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/newzoo-gta-6-pre-orders-generate-260m-globally-during-first-week-of-campaign",
+      "published": "Fri, 17 Jul 2026 09:02:38 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_01.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Grand Theft Auto 6 generated roughly $260 million in digital pre-orders during the last week of June, with Newzoo data indicating that $180 million was brought in across the US and five European markets (UK, France, Spain, Germany, and Italy).</p> <p><a h",
+      "title": "Newzoo: GTA 6 pre-orders generate estimated $260m globally during first week of campaign"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/analyst-game-console-shipments-expected-to-decline-195-to-339m-units-in-2026",
+      "published": "Mon, 13 Jul 2026 13:13:28 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/ps5-xbox-switch-2_F8SYJdH.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Game console shipments are expected to fall 19.5% this year to 33.9 million units, according to new analyst data.</p> <p><a href=\"https://www.gamesindustry.biz/analyst-game-console-shipments-expected-to-decline-195-to-339m-units-in-2026\">Read more</a></p>",
+      "title": "Analyst: Game console shipments expected to decline 19.5% to 33.9m units in 2026"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/alinea-steam-revenue-reaches-111bn-marking-highest-half-year-on-record",
+      "published": "Mon, 13 Jul 2026 10:03:04 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/resident-evil-requiem-leon_GLCvixE.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Estimates from data firm Aliena Analytics suggest <a href=\"https://alineaanalytics.substack.com/p/steam-is-having-another-record-year\">Steam generated $11.1 billion in H1 revenue</a>, up 14.5% year-over-year, marking the platform's highest half-year revenue on r",
+      "title": "Alinea: Steam revenue reaches $11.1bn, marking highest half-year on record"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/new-zealands-success-is-being-built-by-ambitious-studios-of-all-sizes-combined-revenue-of-studios-supported-by-rebate-grows-17-to-829m",
+      "published": "Thu, 09 Jul 2026 13:39:06 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/new-zealand-flag-claudette-wicks-unsplash.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>New Zealand's game sector continues to grow as combined studio revenue supported by its Game Development Sector Rebate (GDSR) rose 17% to $829 million in 2025/26.</p> <p><a href=\"https://www.gamesindustry.biz/new-zealands-success-is-being-built-by-ambitio",
+      "title": "\"New Zealand's success is being built by ambitious studios of all sizes\" – Combined revenue of studios supported by rebate grows 17% to $829m"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/07/dragon-quest-xi-s-switch-2-version-estimated-file-size-revealed",
+      "published": "Sat, 18 Jul 2026 04:30:00 GMT",
+      "summary": "<p><strong>Returning this September.</strong></p><p>Square Enix's role-playing game <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition\">Dragon Quest XI S: Echoes of an Elusive Age</a> is making its way across to the Switch 2 this September, and more details are beginning to surface.</p><p>According to the latest update, the N",
+      "title": "Dragon Quest XI S Switch 2 Version Estimated File Size Revealed"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/07/gamestop-ceo-says-video-game-software-makes-up-less-than-12percent-of-the-business",
+      "published": "Fri, 17 Jul 2026 05:55:00 GMT",
+      "summary": "<p><strong>As he dismisses concerns about physical game sales.</strong></p><p>Despite its <a class=\"external\" href=\"https://www.nintendolife.com/news/2026/05/your-proposal-is-neither-credible-nor-attractive-ebay-rejects-gamestops-takeover-bid\">$56 billion offer being rejected</a>, GameStop still intends to purchase the online marketplace eBay.</p><p>If you're curious to know how exactly video game",
+      "title": "GameStop CEO Says Video Game Software Makes Up Less Than 12% Of The Business"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
