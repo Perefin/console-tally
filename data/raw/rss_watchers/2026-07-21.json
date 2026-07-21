@@ -1,0 +1,45 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-07-21T10:24:33Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/newzoo-gta-6-pre-orders-generate-260m-globally-during-first-week-of-campaign",
+      "published": "Fri, 17 Jul 2026 09:02:38 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_01.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Grand Theft Auto 6 generated roughly $260 million in digital pre-orders during the last week of June, with Newzoo data indicating that $180 million was brought in across the US and five European markets (UK, France, Spain, Germany, and Italy).</p> <p><a h",
+      "title": "Newzoo: GTA 6 pre-orders generate estimated $260m globally during first week of campaign"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/analyst-game-console-shipments-expected-to-decline-195-to-339m-units-in-2026",
+      "published": "Mon, 13 Jul 2026 13:13:28 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/ps5-xbox-switch-2_F8SYJdH.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Game console shipments are expected to fall 19.5% this year to 33.9 million units, according to new analyst data.</p> <p><a href=\"https://www.gamesindustry.biz/analyst-game-console-shipments-expected-to-decline-195-to-339m-units-in-2026\">Read more</a></p>",
+      "title": "Analyst: Game console shipments expected to decline 19.5% to 33.9m units in 2026"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/alinea-steam-revenue-reaches-111bn-marking-highest-half-year-on-record",
+      "published": "Mon, 13 Jul 2026 10:03:04 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/resident-evil-requiem-leon_GLCvixE.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Estimates from data firm Aliena Analytics suggest <a href=\"https://alineaanalytics.substack.com/p/steam-is-having-another-record-year\">Steam generated $11.1 billion in H1 revenue</a>, up 14.5% year-over-year, marking the platform's highest half-year revenue on r",
+      "title": "Alinea: Steam revenue reaches $11.1bn, marking highest half-year on record"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/07/uk-retailer-game-entered-administration-owing-a-staggering-p16-million",
+      "published": "Mon, 20 Jul 2026 16:30:00 GMT",
+      "summary": "<p><strong>Update: more details emerge.</strong></p><p>UK retailer GAME has reportedly filed a notice of intention to appoint administrators in a clear sign that the firm is once again on the brink of collapse.</p><p>As reported by <a href=\"https://www.bloomberg.com/news/articles/2026-01-28/frasers-owned-game-retail-signals-it-s-on-the-brink-of-collapse\">Bloomberg</a> and <a href=\"https://www.theb",
+      "title": "UK Retailer GAME Entered Administration Owing A Staggering £16 Million"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
