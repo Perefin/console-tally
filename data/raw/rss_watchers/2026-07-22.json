@@ -1,0 +1,38 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-07-22T10:24:15Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/newzoo-gta-6-pre-orders-generate-260m-globally-during-first-week-of-campaign",
+      "published": "Fri, 17 Jul 2026 09:02:38 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_01.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Grand Theft Auto 6 generated roughly $260 million in digital pre-orders during the last week of June, with Newzoo data indicating that $180 million was brought in across the US and five European markets (UK, France, Spain, Germany, and Italy).</p> <p><a h",
+      "title": "Newzoo: GTA 6 pre-orders generate estimated $260m globally during first week of campaign"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/07/latest-physical-sales-data-proves-the-format-is-in-fact-dying",
+      "published": "Tue, 21 Jul 2026 11:30:00 GMT",
+      "summary": "<p><strong>Oof... Big oof.</strong></p><p>When Sony recently announced it would be <a href=\"https://www.nintendolife.com/news/2026/07/sony-ditches-physical-media-suddenly-game-key-cards-dont-look-so-bad\">ending the production of physical media</a> for the PS5 (and presumably the PS6) from January 2028, the gaming community was quite rightly up in arms.</p><p>Yet despite the ongoing backlash, the a",
+      "title": "Latest Physical Sales Data Proves The Format Is, In Fact, Dying"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/07/uk-retailer-game-entered-administration-owing-a-staggering-p16-million",
+      "published": "Mon, 20 Jul 2026 16:30:00 GMT",
+      "summary": "<p><strong>Update: more details emerge.</strong></p><p>UK retailer GAME has reportedly filed a notice of intention to appoint administrators in a clear sign that the firm is once again on the brink of collapse.</p><p>As reported by <a href=\"https://www.bloomberg.com/news/articles/2026-01-28/frasers-owned-game-retail-signals-it-s-on-the-brink-of-collapse\">Bloomberg</a> and <a href=\"https://www.theb",
+      "title": "UK Retailer GAME Entered Administration Owing A Staggering £16 Million"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
