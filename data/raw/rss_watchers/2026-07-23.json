@@ -1,0 +1,52 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-07-23T10:21:31Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/uk-games-growth-package-driving-exceptional-demand-one-year-on-from-launch",
+      "published": "Thu, 23 Jul 2026 08:58:24 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/london-games-festival-(1)_jBB1JWm.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>The UK government's <a href=\"https://www.gamesindustry.biz/uk-government-begins-rollout-of-30m-games-growth-package\"> &pound;30 million Games Growth Package</a> \"is already making an impact\" a year on from its launch, according to UK Creative Industries Minister ",
+      "title": "UK Games Growth Package driving \"exceptional demand\" one year on from launch"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/despite-xbox-console-sales-doubling-yoy-hardware-sales-across-the-us-are-down-62-us-monthly-charts",
+      "published": "Wed, 22 Jul 2026 17:26:25 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/meccha-chameleon_LyEgyP7.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Total video game sales in the US fell by a fifth year-on-year, with total projected video game sales estimated to have dropped from $5.7 billion to $4.5 billion between June 2025 and June 2026.</p> <p><a href=\"https://www.gamesindustry.biz/despite-xbox-console-sales-doubl",
+      "title": "Despite Xbox console sales doubling YoY, hardware sales across the US are down 62% | US Monthly Charts"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/hasbro-records-56m-write-down-and-cancels-several-games-scheduled-for-2028-and-beyond",
+      "published": "Wed, 22 Jul 2026 16:41:27 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/hasbrolead.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Hasbro has recorded a $56 million impairment charge against its video game portfolio, confirming it has cancelled \"several\" games scheduled for release in 2028 and beyond.</p> <p><a href=\"https://www.gamesindustry.biz/hasbro-records-56m-write-down-and-cancels-several-games-scheduled-fo",
+      "title": "Hasbro records $56m write-down and cancels \"several games\" scheduled for 2028 and beyond"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/newzoo-gta-6-pre-orders-generate-260m-globally-during-first-week-of-campaign",
+      "published": "Fri, 17 Jul 2026 09:02:38 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_01.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Grand Theft Auto 6 generated roughly $260 million in digital pre-orders during the last week of June, with Newzoo data indicating that $180 million was brought in across the US and five European markets (UK, France, Spain, Germany, and Italy).</p> <p><a h",
+      "title": "Newzoo: GTA 6 pre-orders generate estimated $260m globally during first week of campaign"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/07/select-mario-zelda-and-animal-crossing-lego-sets-to-be-retired-next-week",
+      "published": "Wed, 22 Jul 2026 15:00:00 GMT",
+      "summary": "<p><strong>And a Sonic set, too.</strong></p><p>A whole bunch of Lego sets based on <strong>Super Mario</strong>, <strong>The Legend of Zelda</strong>, <strong>Animal Crossing</strong>, and <strong>Sonic the Hedgehog</strong> are set to be retired next week.</p><p>You can check out Lego's own <a href=\"https://www.lego.com/en-gb/categories/last-chance-to-buy?page=2\">'Retiring Soon'</a> section to c",
+      "title": "Select Mario, Zelda, & Animal Crossing Lego Sets To Be Retired Next Week"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
