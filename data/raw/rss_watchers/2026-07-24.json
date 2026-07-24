@@ -1,0 +1,59 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-07-24T10:15:20Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/ubisoft-q1-net-bookings-down-92-attributes-drop-to-high-comparison-base-from-same-period-last-year",
+      "published": "Fri, 24 Jul 2026 09:23:00 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/invincible-guarding-the-globe.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Ubisoft has published its first quarter financials, with net bookings reaching &euro;255.8 million.</p> <p><a href=\"https://www.gamesindustry.biz/ubisoft-q1-net-bookings-down-92-attributes-drop-to-high-comparison-base-from-same-period-last-year\">Read more</a></p>",
+      "title": "Ubisoft Q1 net bookings down 9.2%, attributes drop to \"high comparison base\" from same period last year"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/uk-games-growth-package-driving-exceptional-demand-one-year-on-from-launch",
+      "published": "Thu, 23 Jul 2026 08:58:24 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/london-games-festival-(1)_jBB1JWm.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>The UK government's <a href=\"https://www.gamesindustry.biz/uk-government-begins-rollout-of-30m-games-growth-package\"> &pound;30 million Games Growth Package</a> \"is already making an impact\" a year on from its launch, according to UK Creative Industries Minister ",
+      "title": "UK Games Growth Package driving \"exceptional demand\" one year on from launch"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/despite-xbox-console-sales-doubling-yoy-hardware-sales-across-the-us-are-down-62-us-monthly-charts",
+      "published": "Wed, 22 Jul 2026 17:26:25 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/meccha-chameleon_LyEgyP7.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Total video game sales in the US fell by a fifth year-on-year, with total projected video game sales estimated to have dropped from $5.7 billion to $4.5 billion between June 2025 and June 2026.</p> <p><a href=\"https://www.gamesindustry.biz/despite-xbox-console-sales-doubl",
+      "title": "Despite Xbox console sales doubling YoY, hardware sales across the US are down 62% | US Monthly Charts"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/hasbro-records-56m-write-down-and-cancels-several-games-scheduled-for-2028-and-beyond",
+      "published": "Wed, 22 Jul 2026 16:41:27 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/hasbrolead.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Hasbro has recorded a $56 million impairment charge against its video game portfolio, confirming it has cancelled \"several\" games scheduled for release in 2028 and beyond.</p> <p><a href=\"https://www.gamesindustry.biz/hasbro-records-56m-write-down-and-cancels-several-games-scheduled-fo",
+      "title": "Hasbro records $56m write-down and cancels \"several games\" scheduled for 2028 and beyond"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/features/interview-theres-clearly-some-castlevania-and-final-fantasy-in-there-mina-the-hollower-composer-talks-secrets-and-inspiration",
+      "published": "Thu, 23 Jul 2026 16:00:00 GMT",
+      "summary": "<p><strong>Burrowing from the greats.</strong></p><p>Late last year, Yacht Club Games founder Sean Velasco described <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/mina-the-hollower-nintendo-switch-2-edition\">Mina The Hollower</a> as <a href=\"https://www.nintendolife.com/news/2025/12/its-make-or-break-for-sure-shovel-knight-devs-fate-rests-on-upcoming-zelda-like\">\"make or break\"</a>",
+      "title": "Interview: \"There's Clearly Some Castlevania And Final Fantasy In There\" - Mina The Hollower Composer Talks Secrets & Inspiration"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/07/japanese-charts-rhythm-heaven-groove-maintains-its-solid-lead",
+      "published": "Thu, 23 Jul 2026 15:45:00 GMT",
+      "summary": "<p><strong>Groove Armada.</strong></p><p>The latest Japanese boxed charts data is in from <a href=\"https://www.famitsu.com/article/202607/82215\">Famitsu</a>, and <a href=\"https://www.nintendolife.com/games/nintendo-switch/rhythm_heaven_groove\">Rhythm Heaven Groove</a> has once again taken the top spot with another 76,786 copies sold.</p><p>There are a few newcomers again this week, including <stro",
+      "title": "Japanese Charts: Rhythm Heaven Groove Maintains Its Solid Lead"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
