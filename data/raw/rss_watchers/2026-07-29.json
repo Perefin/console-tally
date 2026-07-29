@@ -1,0 +1,59 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-07-29T10:37:35Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/subnautica-and-pubg-franchises-drive-krafton-q2-revenue-up-949-to-8891m",
+      "published": "Wed, 29 Jul 2026 10:18:13 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/subnautica-2-.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Krafton experienced record second-quarter growth, with revenue rising 94.9% to ₩1.29 trillion ($889.1 million), while operating profit also rose 67% to ₩410.9 billion ($283.1 million).</p> <p><a href=\"https://www.gamesindustry.biz/subnautica-and-pubg-franchises-drive-krafton-q2-reve",
+      "title": "Subnautica and PUBG franchises drive Krafton Q2 revenue up 94.9% to $889.1m"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/pragmata-and-resident-evil-franchise-boost-capcoms-q1-ordinary-profit-by-81-to-2525m",
+      "published": "Tue, 28 Jul 2026 11:17:34 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/pragmata-resident-evil.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Capcom has released its Q1 financial results, reporting significant growth in net and ordinary profit driven by strong sales of Pragmata and catalogue titles &ndash; particularly its Resident Evil franchise.</p> <p><a href=\"https://www.gamesindustry.biz/pragmata-and-residen",
+      "title": "Pragmata and Resident Evil franchise boost Capcom's Q1 ordinary profit by 81% to $252.5m"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/john-romero-announced-as-keynote-speaker-for-gamescom-asia-x-thailand-game-show",
+      "published": "Mon, 27 Jul 2026 11:57:03 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/john-romero-signed-book.JPG?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Gamescom Asia x Thailand Game Show has announced that id Software co-founder John Romero will headline the business area conference of this year's event in Bangkok, with a keynote entitled \"Why We Still Make Games\" about \"a lifetime of building games, overcoming setbacks a",
+      "title": "John Romero announced as keynote speaker for Gamescom Asia x Thailand Game Show"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/ubisoft-q1-net-bookings-down-92-attributes-drop-to-high-comparison-base-from-same-period-last-year",
+      "published": "Fri, 24 Jul 2026 09:23:00 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/invincible-guarding-the-globe.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Ubisoft has published its first quarter financials, with net bookings reaching &euro;255.8 million.</p> <p><a href=\"https://www.gamesindustry.biz/ubisoft-q1-net-bookings-down-92-attributes-drop-to-high-comparison-base-from-same-period-last-year\">Read more</a></p>",
+      "title": "Ubisoft Q1 net bookings down 9.2%, attributes drop to \"high comparison base\" from same period last year"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/uk-games-growth-package-driving-exceptional-demand-one-year-on-from-launch",
+      "published": "Thu, 23 Jul 2026 08:58:24 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/london-games-festival-(1)_jBB1JWm.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>The UK government's <a href=\"https://www.gamesindustry.biz/uk-government-begins-rollout-of-30m-games-growth-package\"> &pound;30 million Games Growth Package</a> \"is already making an impact\" a year on from its launch, according to UK Creative Industries Minister ",
+      "title": "UK Games Growth Package driving \"exceptional demand\" one year on from launch"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/07/pragmata-starts-strong-but-resident-evil-series-is-the-star-of-capcoms-latest-financial-report",
+      "published": "Tue, 28 Jul 2026 11:00:00 GMT",
+      "summary": "<p><strong>Best of the best.</strong></p><p>Capcom has today released its <a href=\"https://www.capcom.co.jp/ir/english/data/pdf/explanation/2026/1st/explanation_2026_1st_01.pdf\">Q1 financial results for FY2026</a>, sharing the official numbers for <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/pragmata\">Pragmata</a>'s launch period and updates on a bunch of other titles besides. It'",
+      "title": "Pragmata Starts Strong, But Resident Evil Series Is The Star Of Capcom's Latest Financial Report"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
