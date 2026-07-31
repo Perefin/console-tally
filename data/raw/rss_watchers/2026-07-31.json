@@ -1,0 +1,87 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-07-31T10:37:49Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/appmagic-pokemon-go-generates-485m-during-10th-anniversary-celebrations",
+      "published": "Thu, 30 Jul 2026 12:46:35 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/pokemon-go_WACrqBF.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Pok&eacute;mon Go generated over $48.5 million in in-app purchase revenue during its 10th anniversary week, according to AppMagic data.</p> <p><a href=\"https://www.gamesindustry.biz/appmagic-pokemon-go-generates-485m-during-10th-anniversary-celebrations\">Read more</a></p>",
+      "title": "AppMagic: Pokémon Go generates $48.5m during 10th anniversary celebrations"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/subnautica-and-pubg-franchises-drive-krafton-q2-revenue-up-949-to-8891m",
+      "published": "Wed, 29 Jul 2026 10:18:13 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/subnautica-2-.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Krafton experienced record second-quarter growth, with revenue rising 94.9% to ₩1.29 trillion ($889.1 million), while operating profit also rose 67% to ₩410.9 billion ($283.1 million).</p> <p><a href=\"https://www.gamesindustry.biz/subnautica-and-pubg-franchises-drive-krafton-q2-reve",
+      "title": "Subnautica and PUBG franchises drive Krafton Q2 revenue up 94.9% to $889.1m"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/pragmata-and-resident-evil-franchise-boost-capcoms-q1-ordinary-profit-by-81-to-2525m",
+      "published": "Tue, 28 Jul 2026 11:17:34 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/pragmata-resident-evil.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Capcom has released its Q1 financial results, reporting significant growth in net and ordinary profit driven by strong sales of Pragmata and catalogue titles &ndash; particularly its Resident Evil franchise.</p> <p><a href=\"https://www.gamesindustry.biz/pragmata-and-residen",
+      "title": "Pragmata and Resident Evil franchise boost Capcom's Q1 ordinary profit by 81% to $252.5m"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/john-romero-announced-as-keynote-speaker-for-gamescom-asia-x-thailand-game-show",
+      "published": "Mon, 27 Jul 2026 11:57:03 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/john-romero-signed-book.JPG?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Gamescom Asia x Thailand Game Show has announced that id Software co-founder John Romero will headline the business area conference of this year's event in Bangkok, with a keynote entitled \"Why We Still Make Games\" about \"a lifetime of building games, overcoming setbacks a",
+      "title": "John Romero announced as keynote speaker for Gamescom Asia x Thailand Game Show"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/ubisoft-q1-net-bookings-down-92-attributes-drop-to-high-comparison-base-from-same-period-last-year",
+      "published": "Fri, 24 Jul 2026 09:23:00 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/invincible-guarding-the-globe.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Ubisoft has published its first quarter financials, with net bookings reaching &euro;255.8 million.</p> <p><a href=\"https://www.gamesindustry.biz/ubisoft-q1-net-bookings-down-92-attributes-drop-to-high-comparison-base-from-same-period-last-year\">Read more</a></p>",
+      "title": "Ubisoft Q1 net bookings down 9.2%, attributes drop to \"high comparison base\" from same period last year"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/07/orbitals-friends-pass-will-provide-easier-co-op-and-a-free-demo",
+      "published": "Fri, 31 Jul 2026 10:30:00 GMT",
+      "summary": "<p><strong>Two for one.</strong></p><p>Honestly, we thought we couldn't be more sold on <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/orbitals\">Orbitals</a> after we went <a href=\"https://www.nintendolife.com/previews/orbitals-cosmic-anime-co-op-made-me-feel-like-a-kid-again\">hands-on</a> with it earlier this month. The magic of GameShare meant that the Switch 2 exclusive was alrea",
+      "title": "Orbitals 'Friend's Pass' Will Provide Easier Co-Op And A Free Demo"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/07/japanese-charts-booyah-splatoon-raiders-puts-up-some-huge-week-one-numbers",
+      "published": "Thu, 30 Jul 2026 14:30:00 GMT",
+      "summary": "<p><strong>Off to a Fryeing start.</strong></p><p>We've got our latest look at the Japanese physical charts from Famitsu, and as will come as a surprise to absolutely nobody, <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/splatoon-raiders\">Splatoon Raiders</a> has got off to a flying start.</p><p>The series is huge in Japan, and Raiders' week-one numbers show it. The spin-off racked",
+      "title": "Japanese Charts: Booyah! Splatoon Raiders Puts Up Some Huge Week-One Numbers"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/07/kusan-city-of-wolves-channels-some-serious-hotline-miami-vibes-on-switch-today",
+      "published": "Thu, 30 Jul 2026 13:30:00 GMT",
+      "summary": "<p><strong>Guns and Bruises.</strong></p><p>If you want a break from the cosiness, then we might have just the game for you. Developer CIRCLEfromDOT has today launched its top-down shooter, <a href=\"https://www.nintendolife.com/games/switch-eshop/kusan_city_of_wolves\">Kusan: City of Wolves</a>, on the Switch eShop. It's fast, it's gruesome, and it's got more than a little <a href=\"https://www.nint",
+      "title": "Kusan: City Of Wolves Channels Some Serious Hotline Miami Vibes On Switch Today"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/07/capcom-says-the-likelihood-of-a-pragmata-sequel-is-high",
+      "published": "Thu, 30 Jul 2026 01:55:00 GMT",
+      "summary": "<p><strong>The title has sold over 2.5 million copies worldwide.</strong></p><p>It's still early days for Capcom's new IP <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/pragmata\">Pragmata</a>, but it seems the future is bright after the title sold over 2.5 million units since launching in April.</p><p>The team has already touched on the idea of a sequel, and now an update has been s",
+      "title": "Capcom Says The Likelihood Of A Pragmata Sequel Is High"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/07/switch-2-has-reportedly-already-surpassed-gamecubes-uk-sales",
+      "published": "Wed, 29 Jul 2026 15:45:00 GMT",
+      "summary": "<p><strong>Form an orderly Cube.</strong></p><p>We knew that the Switch 2 was off to an impressive sales start in the UK since pretty much its first week. The console overtakes were bound to follow, and it seems that the mighty GameCube has already been surpassed.</p><p>That's according to <a href=\"https://www.thegamebusiness.com/\">The Game Business</a>' Christopher Dring, who took to <a href=\"htt",
+      "title": "Switch 2 Has Reportedly Already Surpassed GameCube's UK Sales"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
