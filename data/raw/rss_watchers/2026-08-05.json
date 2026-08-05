@@ -1,0 +1,45 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-08-05T10:33:27Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/ataris-core-business-returns-to-profit-but-consolidated-group-posts-55m-net-loss-as-thunderful-drags-on-results",
+      "published": "Mon, 03 Aug 2026 19:44:13 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/Atari-Fig-00.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Atari has released its consolidated financial results for the full 2025-26 fiscal year, reporting revenue growth of 66% year-on-year to $65 million (&euro;56.0 million), its highest level in more than a decade, driven largely by the acquisition of Swedish publisher Thunderful and con",
+      "title": "Atari's core business returns to profit, but consolidated group posts $5.5m net loss as Thunderful drags on results"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/playstation-reports-flat-q1-sales-says-its-cautiously-moving-forward-with-halting-physical-disc-production",
+      "published": "Fri, 31 Jul 2026 11:21:17 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/ps5-zoomed-2.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Sony reported flat sales in its Games & Network Services (G&amp;NS) segment for its first quarter, but operating income rose 37%, primarily due to US tariff refunds.</p> <p><a href=\"https://www.gamesindustry.biz/playstation-reports-flat-q1-sales-says-its-cautiously-moving-forward-wit",
+      "title": "PlayStation reports flat Q1 sales, says it's \"cautiously moving forward\" with halting physical disc production"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/appmagic-pokemon-go-generates-485m-during-10th-anniversary-celebrations",
+      "published": "Thu, 30 Jul 2026 12:46:35 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/pokemon-go_WACrqBF.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Pok&eacute;mon Go generated over $48.5 million in in-app purchase revenue during its 10th anniversary week, according to AppMagic data.</p> <p><a href=\"https://www.gamesindustry.biz/appmagic-pokemon-go-generates-485m-during-10th-anniversary-celebrations\">Read more</a></p>",
+      "title": "AppMagic: Pokémon Go generates $48.5m during 10th anniversary celebrations"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/subnautica-and-pubg-franchises-drive-krafton-q2-revenue-up-949-to-8891m",
+      "published": "Wed, 29 Jul 2026 10:18:13 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/subnautica-2-.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Krafton experienced record second-quarter growth, with revenue rising 94.9% to ₩1.29 trillion ($889.1 million), while operating profit also rose 67% to ₩410.9 billion ($283.1 million).</p> <p><a href=\"https://www.gamesindustry.biz/subnautica-and-pubg-franchises-drive-krafton-q2-reve",
+      "title": "Subnautica and PUBG franchises drive Krafton Q2 revenue up 94.9% to $889.1m"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
