@@ -1,0 +1,73 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-08-06T10:37:11Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/nintendo-q1-sales-drop-95-operating-profit-soars-following-higher-software-sales-and-300m-in-us-tariff-refunds",
+      "published": "Thu, 06 Aug 2026 08:46:53 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/pokeopia.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Nintendo reported a 9.5% decrease in first-quarter net sales, but operating profit rose 150.5% due to higher software revenue and $300 million in US tariff refunds.</p> <p><a href=\"https://www.gamesindustry.biz/nintendo-q1-sales-drop-95-operating-profit-soars-following-higher-software-sa",
+      "title": "Nintendo Q1 sales drop 9.5%; operating profit soars following higher software sales and $300m in US tariff refunds"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/ataris-core-business-returns-to-profit-but-consolidated-group-posts-55m-net-loss-as-thunderful-drags-on-results",
+      "published": "Mon, 03 Aug 2026 19:44:13 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/Atari-Fig-00.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Atari has released its consolidated financial results for the full 2025-26 fiscal year, reporting revenue growth of 66% year-on-year to $65 million (&euro;56.0 million), its highest level in more than a decade, driven largely by the acquisition of Swedish publisher Thunderful and con",
+      "title": "Atari's core business returns to profit, but consolidated group posts $5.5m net loss as Thunderful drags on results"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/playstation-reports-flat-q1-sales-says-its-cautiously-moving-forward-with-halting-physical-disc-production",
+      "published": "Fri, 31 Jul 2026 11:21:17 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/ps5-zoomed-2.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Sony reported flat sales in its Games & Network Services (G&amp;NS) segment for its first quarter, but operating income rose 37%, primarily due to US tariff refunds.</p> <p><a href=\"https://www.gamesindustry.biz/playstation-reports-flat-q1-sales-says-its-cautiously-moving-forward-wit",
+      "title": "PlayStation reports flat Q1 sales, says it's \"cautiously moving forward\" with halting physical disc production"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/08/super-mario-party-jamboree-tv-is-the-second-switch-2-edition-to-break-one-million-physical-sales",
+      "published": "Thu, 06 Aug 2026 10:15:00 GMT",
+      "summary": "<p><strong>We like to Party.</strong></p><p>Nintendo's latest financials are live along with updated lists of <a href=\"https://www.nintendolife.com/news/2026/08/here-are-the-best-selling-switch-1-and-2-games-as-of-june-2026\">the firm's best-selling software</a> (as of June 2026), and a familiar face has popped onto the Switch 2 best-seller list.</p><p>The laboriously titled <a href=\"https://www.ni",
+      "title": "Super Mario Party Jamboree TV Is The Second 'Switch 2 Edition' To Break One Million Physical Sales"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/08/tomodachi-life-living-the-dream-has-already-sold-over-8-million-units",
+      "published": "Thu, 06 Aug 2026 09:30:00 GMT",
+      "summary": "<p><strong>Dreams really do come true.</strong></p><p>Nintendo <a href=\"https://www.nintendo.co.jp/ir/pdf/2026/260806_2e.pdf\">has confirmed</a> that <a href=\"https://www.nintendolife.com/games/nintendo-switch/tomodachi_life_living_the_dream\">Tomodachi Life: Living the Dream</a> has already sold over 8 million copies following its launch on <strong>16th April 2026</strong>.</p><p>Now, in terms of a",
+      "title": "Tomodachi Life: Living The Dream Has Already Sold Over 8 Million Units"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/08/here-are-the-best-selling-switch-1-and-2-games-as-of-june-2026",
+      "published": "Thu, 06 Aug 2026 08:15:00 GMT",
+      "summary": "<p><strong>The BSOATs, if you will.</strong></p><p>Nintendo's latest financial report is out, which means it's time for an updated look at the <a href=\"https://www.nintendo.co.jp/ir/en/finance/software/index.html\">best-selling Switch 1 and 2 games</a> so far.</p><p>Starting with the Switch 1, the order in the list remains unchanged from the previous quarter, and really, pretty much all of the entr",
+      "title": "Here Are The Best-Selling Switch 1 & 2 Games As Of June 2026"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/08/switch-2-surpasses-23-million-units-as-nintendo-claims-sales-remain-solid",
+      "published": "Thu, 06 Aug 2026 07:15:00 GMT",
+      "summary": "<p><strong>Price hikes took effect in May in Japan.</strong></p><p>Nintendo has released its latest <a href=\"https://www.nintendo.co.jp/ir/pdf/2026/260806_2e.pdf\">financial report</a> for the first three months of FY2027, confirming that the Switch 2 has now sold a total of <strong>23.68 million units</strong> as of 30th June 2026 (surpassing GameCube at 21.74 million).</p><p>3.82 million Switch 2",
+      "title": "Switch 2 Surpasses 23 Million Units As Nintendo Claims Sales Remain \"Solid\""
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/08/nintendo-donating-50-million-yen-to-assist-kumamoto-earthquake-relief-efforts",
+      "published": "Thu, 06 Aug 2026 01:45:00 GMT",
+      "summary": "<p><strong>It will also offer free repair services.</strong></p><p>Following the devastating Kumamoto earthquake in Japan last week, Nintendo has announced it will be donating 50 million yen (about 317,000 USD) to the local Red Cross Society.</p><p>Additionally, the video game company will also be providing free repair services for residents in affected areas until 1st February 2027.</p><p>Read th",
+      "title": "Nintendo Donating 50 Million Yen To Assist Kumamoto Earthquake Relief Efforts"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
