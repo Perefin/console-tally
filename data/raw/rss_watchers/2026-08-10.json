@@ -1,0 +1,59 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-08-10T09:19:11Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/sega-reports-173-rise-in-q3-net-sales-games-segment-exceeds-expectations",
+      "published": "Mon, 10 Aug 2026 07:50:16 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/sonic-angry-birds3.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Sega Sammy reported a 17.3% increase in net sales for its first quarter. The Entertainment Contents segment, which includes games, exceeded expectations at &yen;68.4 billion ($432 million).</p> <p><a href=\"https://www.gamesindustry.biz/sega-reports-173-rise-in-q3-net-sales-game",
+      "title": "Sega reports 17.3% rise in Q3 net sales; games segment exceeds expectations"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/tripledot-studios-acquires-supersonic-from-unity-for-40m",
+      "published": "Fri, 07 Aug 2026 10:04:32 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/tripledot-supersonic.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Tripledot Studios has acquired mobile publisher Supersonic from Unity for $40 million.</p> <p><a href=\"https://www.gamesindustry.biz/tripledot-studios-acquires-supersonic-from-unity-for-40m\">Read more</a></p>",
+      "title": "Tripledot Studios acquires Supersonic from Unity for $40m"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/nintendo-q1-sales-drop-95-operating-profit-soars-following-higher-software-sales-and-300m-in-us-tariff-refunds",
+      "published": "Thu, 06 Aug 2026 08:46:53 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/pokeopia.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Nintendo reported a 9.5% decrease in first-quarter net sales, but operating profit rose 150.5% due to higher software revenue and $300 million in US tariff refunds.</p> <p><a href=\"https://www.gamesindustry.biz/nintendo-q1-sales-drop-95-operating-profit-soars-following-higher-software-sa",
+      "title": "Nintendo Q1 sales drop 9.5%; operating profit soars following higher software sales and $300m in US tariff refunds"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/ataris-core-business-returns-to-profit-but-consolidated-group-posts-55m-net-loss-as-thunderful-drags-on-results",
+      "published": "Mon, 03 Aug 2026 19:44:13 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/Atari-Fig-00.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Atari has released its consolidated financial results for the full 2025-26 fiscal year, reporting revenue growth of 66% year-on-year to $65 million (&euro;56.0 million), its highest level in more than a decade, driven largely by the acquisition of Swedish publisher Thunderful and con",
+      "title": "Atari's core business returns to profit, but consolidated group posts $5.5m net loss as Thunderful drags on results"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/08/fire-emblem-fortunes-weave-will-allow-you-to-strategise-with-mouse-controls",
+      "published": "Sat, 08 Aug 2026 06:30:00 GMT",
+      "summary": "<p><strong>\"Intuitively move units across the battlefield\".</strong></p><p></p><p>Nintendo has confirmed <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/fire-emblem-fortunes-weave\">Fire Emblem: Fortune's Weave</a> will allow you to strategise with Joy-Con 2 mouse controls.</p><p>Read the <a href=\"https://www.nintendolife.com/news/2026/08/fire-emblem-fortunes-weave-will-allow-you-to-s",
+      "title": "Fire Emblem: Fortune's Weave Will Allow You To Strategise With Mouse Controls"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/08/nintendo-warns-against-museum-ticket-resales-and-transfers",
+      "published": "Fri, 07 Aug 2026 10:30:00 GMT",
+      "summary": "<p><strong>\"Tickets sold anywhere else are not valid\".</strong></p><p>Nintendo has provided a <a href=\"https://museum.nintendo.com/en/news/detail/ticket_resale.html\">statement</a> warning against the resale and transfer of tickets for the Nintendo Museum in Kyoto, Japan.</p><p>The company states that it has identified several instances in which individuals who bought tickets through third-party me",
+      "title": "Nintendo Warns Against Museum Ticket Resales And Transfers"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
