@@ -1,0 +1,80 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-08-11T08:54:23Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/square-enix-q1-profit-soars-following-final-fantasy-7-rebirth-launch-on-switch-2-and-xbox",
+      "published": "Tue, 11 Aug 2026 08:26:52 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/final-fantasy-rebirth.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Square Enix reported strong first-quarter growth, with profit rising 175.5% to &yen;13.2 billion ($82.9 million).</p> <p><a href=\"https://www.gamesindustry.biz/square-enix-q1-profit-soars-following-final-fantasy-7-rebirth-launch-on-switch-2-and-xbox\">Read more</a></p>",
+      "title": "Square Enix Q1 profit soars following Final Fantasy 7 Rebirth launch on Switch 2 and Xbox"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/bandai-namco-achieves-record-q1-sales-but-digital-segment-operating-profit-drops-309",
+      "published": "Mon, 10 Aug 2026 10:07:24 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/Bandai_Namco_logo.jpeg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Bandai Namco reported record first-quarter results overall.</p> <p><a href=\"https://www.gamesindustry.biz/bandai-namco-achieves-record-q1-sales-but-digital-segment-operating-profit-drops-309\">Read more</a></p>",
+      "title": "Bandai Namco achieves record Q1 sales, but Digital segment operating profit drops 30.9%"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/sega-reports-173-rise-in-q3-net-sales-games-segment-exceeds-expectations",
+      "published": "Mon, 10 Aug 2026 07:50:16 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/sonic-angry-birds3.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Sega Sammy reported a 17.3% increase in net sales for its first quarter. The Entertainment Contents segment, which includes games, exceeded expectations at &yen;68.4 billion ($432 million).</p> <p><a href=\"https://www.gamesindustry.biz/sega-reports-173-rise-in-q3-net-sales-game",
+      "title": "Sega reports 17.3% rise in Q3 net sales; games segment exceeds expectations"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/tripledot-studios-acquires-supersonic-from-unity-for-40m",
+      "published": "Fri, 07 Aug 2026 10:04:32 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/tripledot-supersonic.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Tripledot Studios has acquired mobile publisher Supersonic from Unity for $40 million.</p> <p><a href=\"https://www.gamesindustry.biz/tripledot-studios-acquires-supersonic-from-unity-for-40m\">Read more</a></p>",
+      "title": "Tripledot Studios acquires Supersonic from Unity for $40m"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/nintendo-q1-sales-drop-95-operating-profit-soars-following-higher-software-sales-and-300m-in-us-tariff-refunds",
+      "published": "Thu, 06 Aug 2026 08:46:53 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/pokeopia.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Nintendo reported a 9.5% decrease in first-quarter net sales, but operating profit rose 150.5% due to higher software revenue and $300 million in US tariff refunds.</p> <p><a href=\"https://www.gamesindustry.biz/nintendo-q1-sales-drop-95-operating-profit-soars-following-higher-software-sa",
+      "title": "Nintendo Q1 sales drop 9.5%; operating profit soars following higher software sales and $300m in US tariff refunds"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/08/new-co-op-adventure-big-walk-reaches-a-big-sales-milestone",
+      "published": "Tue, 11 Aug 2026 00:45:00 GMT",
+      "summary": "<p><strong>\"A million thanks\".</strong></p><p><a href=\"https://www.nintendolife.com/games/nintendo-switch-2/big-walk\">Big Walk</a>, the new co-op adventure where you hang out, get lost and solve puzzles in bushland, has hit a major milestone in less than a week.</p><p>According to Panic, the publisher of the title developed by the Aussie team House House, this unique experience has now surpassed m",
+      "title": "New Co-Op Adventure 'Big Walk' Reaches A Big Sales Milestone"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/08/a-decade-later-no-mans-sky-fans-have-explored-less-than-1percent-of-its-planets",
+      "published": "Mon, 10 Aug 2026 15:45:00 GMT",
+      "summary": "<p><strong>Hello Games celebrates its 10th anniversary.</strong></p><p><a href=\"https://www.nintendolife.com/games/nintendo-switch-2/no-mans-sky-nintendo-switch-2-edition\">No Man's Sky</a>, unbelievably, launched a <em>decade</em> ago on 9th August 2016. Though it was met with mixed reviews at the time, developer Hello Games persevered and produced over thirty major updates for the game, transform",
+      "title": "A Decade Later, No Man's Sky Fans Have Explored Less Than 1% Of Its Planets"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/08/square-enixs-financial-year-is-off-to-a-strong-start-with-profits-on-the-up-and-up",
+      "published": "Mon, 10 Aug 2026 11:45:00 GMT",
+      "summary": "<p><strong>Every Cloud...</strong></p><p>Square Enix has shared its <a href=\"https://ssl4.eir-parts.net/doc/9684/tdnet/2870184/00.pdf\">latest financial report</a> for the first quarter of the fiscal year (thanks for the heads up, <a href=\"https://automaton-media.com/en/news/square-enix-sees-88-profit-growth-citing-strong-performance-across-all-categories-of-its-video-game-business/\">Automaton</a>)",
+      "title": "Square Enix's Financial Year Is Off To A Strong Start, With Profits On The Up And Up"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/08/fire-emblem-fortunes-weave-will-allow-you-to-strategise-with-mouse-controls",
+      "published": "Sat, 08 Aug 2026 06:30:00 GMT",
+      "summary": "<p><strong>\"Intuitively move units across the battlefield\".</strong></p><p></p><p>Nintendo has confirmed <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/fire-emblem-fortunes-weave\">Fire Emblem: Fortune's Weave</a> will allow you to strategise with Joy-Con 2 mouse controls.</p><p>Read the <a href=\"https://www.nintendolife.com/news/2026/08/fire-emblem-fortunes-weave-will-allow-you-to-s",
+      "title": "Fire Emblem: Fortune's Weave Will Allow You To Strategise With Mouse Controls"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
