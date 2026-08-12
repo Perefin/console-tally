@@ -1,0 +1,66 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-08-12T09:10:10Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/square-enix-q1-profit-soars-following-final-fantasy-7-rebirth-launch-on-switch-2-and-xbox",
+      "published": "Tue, 11 Aug 2026 08:26:52 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/final-fantasy-rebirth.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Square Enix reported strong first-quarter growth, with profit rising 175.5% to &yen;13.2 billion ($82.9 million).</p> <p><a href=\"https://www.gamesindustry.biz/square-enix-q1-profit-soars-following-final-fantasy-7-rebirth-launch-on-switch-2-and-xbox\">Read more</a></p>",
+      "title": "Square Enix Q1 profit soars following Final Fantasy 7 Rebirth launch on Switch 2 and Xbox"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/bandai-namco-achieves-record-q1-sales-but-digital-segment-operating-profit-drops-309",
+      "published": "Mon, 10 Aug 2026 10:07:24 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/Bandai_Namco_logo.jpeg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Bandai Namco reported record first-quarter results overall.</p> <p><a href=\"https://www.gamesindustry.biz/bandai-namco-achieves-record-q1-sales-but-digital-segment-operating-profit-drops-309\">Read more</a></p>",
+      "title": "Bandai Namco achieves record Q1 sales, but Digital segment operating profit drops 30.9%"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/sega-reports-173-rise-in-q3-net-sales-games-segment-exceeds-expectations",
+      "published": "Mon, 10 Aug 2026 07:50:16 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/sonic-angry-birds3.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Sega Sammy reported a 17.3% increase in net sales for its first quarter. The Entertainment Contents segment, which includes games, exceeded expectations at &yen;68.4 billion ($432 million).</p> <p><a href=\"https://www.gamesindustry.biz/sega-reports-173-rise-in-q3-net-sales-game",
+      "title": "Sega reports 17.3% rise in Q3 net sales; games segment exceeds expectations"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/tripledot-studios-acquires-supersonic-from-unity-for-40m",
+      "published": "Fri, 07 Aug 2026 10:04:32 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/tripledot-supersonic.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Tripledot Studios has acquired mobile publisher Supersonic from Unity for $40 million.</p> <p><a href=\"https://www.gamesindustry.biz/tripledot-studios-acquires-supersonic-from-unity-for-40m\">Read more</a></p>",
+      "title": "Tripledot Studios acquires Supersonic from Unity for $40m"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/nintendo-q1-sales-drop-95-operating-profit-soars-following-higher-software-sales-and-300m-in-us-tariff-refunds",
+      "published": "Thu, 06 Aug 2026 08:46:53 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/pokeopia.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Nintendo reported a 9.5% decrease in first-quarter net sales, but operating profit rose 150.5% due to higher software revenue and $300 million in US tariff refunds.</p> <p><a href=\"https://www.gamesindustry.biz/nintendo-q1-sales-drop-95-operating-profit-soars-following-higher-software-sa",
+      "title": "Nintendo Q1 sales drop 9.5%; operating profit soars following higher software sales and $300m in US tariff refunds"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/08/uk-charts-resident-evil-requiem-gobbles-a-herb-and-is-back-on-top",
+      "published": "Tue, 11 Aug 2026 13:45:00 GMT",
+      "summary": "<p><strong>Graceful ascent.</strong></p><p>The latest UK boxed charts data is in, and it's a fairly quiet week with no major new entries for the Switch 1 &amp; 2. PS5 and PC got <a href=\"https://www.pushsquare.com/games/ps5/marvel_tokon_fighting_souls\">Marvel Tokon: Fighting Souls</a>, which debuts at number 6, while Game Freak's <a href=\"https://www.pushsquare.com/games/ps5/beast_of_reincarnation",
+      "title": "UK Charts: Resident Evil Requiem Gobbles A Herb And Is Back On Top"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/08/new-co-op-adventure-big-walk-reaches-a-big-sales-milestone",
+      "published": "Tue, 11 Aug 2026 00:45:00 GMT",
+      "summary": "<p><strong>\"A million thanks\".</strong></p><p><a href=\"https://www.nintendolife.com/games/nintendo-switch-2/big-walk\">Big Walk</a>, the new co-op adventure where you hang out, get lost and solve puzzles in bushland, has hit a major milestone in less than a week.</p><p>According to Panic, the publisher of the title developed by the Aussie team House House, this unique experience has now surpassed m",
+      "title": "New Co-Op Adventure 'Big Walk' Reaches A Big Sales Milestone"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
