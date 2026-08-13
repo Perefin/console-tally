@@ -1,0 +1,38 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-08-13T09:10:45Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/square-enix-q1-profit-soars-following-final-fantasy-7-rebirth-launch-on-switch-2-and-xbox",
+      "published": "Tue, 11 Aug 2026 08:26:52 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/final-fantasy-rebirth.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Square Enix reported strong first-quarter growth, with profit rising 175.5% to &yen;13.2 billion ($82.9 million).</p> <p><a href=\"https://www.gamesindustry.biz/square-enix-q1-profit-soars-following-final-fantasy-7-rebirth-launch-on-switch-2-and-xbox\">Read more</a></p>",
+      "title": "Square Enix Q1 profit soars following Final Fantasy 7 Rebirth launch on Switch 2 and Xbox"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/bandai-namco-achieves-record-q1-sales-but-digital-segment-operating-profit-drops-309",
+      "published": "Mon, 10 Aug 2026 10:07:24 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/Bandai_Namco_logo.jpeg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Bandai Namco reported record first-quarter results overall.</p> <p><a href=\"https://www.gamesindustry.biz/bandai-namco-achieves-record-q1-sales-but-digital-segment-operating-profit-drops-309\">Read more</a></p>",
+      "title": "Bandai Namco achieves record Q1 sales, but Digital segment operating profit drops 30.9%"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/sega-reports-173-rise-in-q3-net-sales-games-segment-exceeds-expectations",
+      "published": "Mon, 10 Aug 2026 07:50:16 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/sonic-angry-birds3.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Sega Sammy reported a 17.3% increase in net sales for its first quarter. The Entertainment Contents segment, which includes games, exceeded expectations at &yen;68.4 billion ($432 million).</p> <p><a href=\"https://www.gamesindustry.biz/sega-reports-173-rise-in-q3-net-sales-game",
+      "title": "Sega reports 17.3% rise in Q3 net sales; games segment exceeds expectations"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
