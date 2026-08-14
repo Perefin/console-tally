@@ -1,0 +1,52 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-08-14T09:05:32Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/square-enix-q1-profit-soars-following-final-fantasy-7-rebirth-launch-on-switch-2-and-xbox",
+      "published": "Tue, 11 Aug 2026 08:26:52 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/final-fantasy-rebirth.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Square Enix reported strong first-quarter growth, with profit rising 175.5% to &yen;13.2 billion ($82.9 million).</p> <p><a href=\"https://www.gamesindustry.biz/square-enix-q1-profit-soars-following-final-fantasy-7-rebirth-launch-on-switch-2-and-xbox\">Read more</a></p>",
+      "title": "Square Enix Q1 profit soars following Final Fantasy 7 Rebirth launch on Switch 2 and Xbox"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/bandai-namco-achieves-record-q1-sales-but-digital-segment-operating-profit-drops-309",
+      "published": "Mon, 10 Aug 2026 10:07:24 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/Bandai_Namco_logo.jpeg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Bandai Namco reported record first-quarter results overall.</p> <p><a href=\"https://www.gamesindustry.biz/bandai-namco-achieves-record-q1-sales-but-digital-segment-operating-profit-drops-309\">Read more</a></p>",
+      "title": "Bandai Namco achieves record Q1 sales, but Digital segment operating profit drops 30.9%"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/sega-reports-173-rise-in-q3-net-sales-games-segment-exceeds-expectations",
+      "published": "Mon, 10 Aug 2026 07:50:16 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/sonic-angry-birds3.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Sega Sammy reported a 17.3% increase in net sales for its first quarter. The Entertainment Contents segment, which includes games, exceeded expectations at &yen;68.4 billion ($432 million).</p> <p><a href=\"https://www.gamesindustry.biz/sega-reports-173-rise-in-q3-net-sales-game",
+      "title": "Sega reports 17.3% rise in Q3 net sales; games segment exceeds expectations"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/08/its-official-sonic-frontiers-has-now-sold-more-than-five-million-copies",
+      "published": "Fri, 14 Aug 2026 01:55:00 GMT",
+      "summary": "<p><strong>Sega is celebrating with a free Sonic Adventure 2 gift.</strong></p><p>Sega shadow-dropped <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/sonic-frontiers-definitive-edition\">Sonic Frontiers - Definitive Edition</a> on the Switch 2 in June as part of the blue blur's ongoing 35th anniversary celebrations.</p><p>Now, in an update, it's confirmed <a href=\"https://www.nintendo",
+      "title": "It's Official, Sonic Frontiers Has Now Sold More Than Five Million Copies"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/08/pokemon-pokopia-sales-surpass-five-million-units-globally-in-just-over-four-months",
+      "published": "Fri, 14 Aug 2026 00:55:00 GMT",
+      "summary": "<p><strong>The Switch 2 exclusive got its first DLC update last week.</strong></p><p>Following the <a href=\"https://www.nintendolife.com/news/2026/08/here-are-the-best-selling-switch-1-and-2-games-as-of-june-2026\">latest financial update last week</a>, Nintendo and The Pokémon Company have now officially announced the relaxing life sim <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/",
+      "title": "Pokémon Pokopia Sales Surpass Five Million Units Globally In \"Just Over Four Months\""
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
