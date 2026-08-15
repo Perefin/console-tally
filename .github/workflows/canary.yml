@@ -28,7 +28,7 @@ jobs:
 
       - name: File an issue if validation failed
         if: steps.validate.outcome == 'failure'
-        uses: actions/github-script@v7
+        uses: actions/github-script@v9
         with:
           script: |
             const title = `Canary failed on ${new Date().toISOString().slice(0,10)}`;
