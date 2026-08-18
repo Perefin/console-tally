@@ -1,0 +1,38 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-08-18T08:35:15Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/arc-raiders-generates-1149m-during-nexons-q2-sells-an-additional-800000-units",
+      "published": "Fri, 14 Aug 2026 10:28:03 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/arc-raiders_LKvnmJa.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Nexon's Q2 results exceeded expectations, driven by strong performances from its MapleStory franchise and the ongoing success of Embark Studios' Arc Raiders.</p> <p><a href=\"https://www.gamesindustry.biz/arc-raiders-generates-1149m-during-nexons-q2-sells-an-additional-800000-u",
+      "title": "Arc Raiders generates $114.9m during Nexon's Q2, sells an additional 800,000 units"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/square-enix-q1-profit-soars-following-final-fantasy-7-rebirth-launch-on-switch-2-and-xbox",
+      "published": "Tue, 11 Aug 2026 08:26:52 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/final-fantasy-rebirth.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Square Enix reported strong first-quarter growth, with profit rising 175.5% to &yen;13.2 billion ($82.9 million).</p> <p><a href=\"https://www.gamesindustry.biz/square-enix-q1-profit-soars-following-final-fantasy-7-rebirth-launch-on-switch-2-and-xbox\">Read more</a></p>",
+      "title": "Square Enix Q1 profit soars following Final Fantasy 7 Rebirth launch on Switch 2 and Xbox"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/08/uk-charts-switch-2-sales-lead-oblivion-remastered-to-the-top-spot",
+      "published": "Mon, 17 Aug 2026 18:30:00 GMT",
+      "summary": "<p><strong>Sweet (roll).</strong></p><p>We are back with the latest look at the UK physical gaming chart, and <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/elder_scrolls_iv_oblivion_remastered\">Oblivion</a> has done rather well on Switch 2.</p><p>Nintendo's latest pulled in the lion's share of the game's physical sales this week (a whopping 98%, no less), guiding it all the way to ",
+      "title": "UK Charts: Switch 2 Sales Lead Oblivion Remastered To The Top Spot"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
