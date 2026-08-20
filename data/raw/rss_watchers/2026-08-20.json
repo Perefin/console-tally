@@ -1,0 +1,31 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-08-20T08:36:27Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/gyld-raises-1m-to-fund-proprietary-games-research-system-that-marked-clair-obscur-as-a-potential-hit",
+      "published": "Tue, 18 Aug 2026 07:00:00 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/gyld-critical-compass.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Games publishing and investment agency GYLD has raised $1 million in funding to support its proprietary games research system Critical Compass.</p> <p><a href=\"https://www.gamesindustry.biz/gyld-raises-1m-to-fund-proprietary-games-research-system-that-marked-clair-obscur-as-",
+      "title": "GYLD raises $1m to fund proprietary games research system that marked Clair Obscur as a potential hit"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/arc-raiders-generates-1149m-during-nexons-q2-sells-an-additional-800000-units",
+      "published": "Fri, 14 Aug 2026 10:28:03 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/arc-raiders_LKvnmJa.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Nexon's Q2 results exceeded expectations, driven by strong performances from its MapleStory franchise and the ongoing success of Embark Studios' Arc Raiders.</p> <p><a href=\"https://www.gamesindustry.biz/arc-raiders-generates-1149m-during-nexons-q2-sells-an-additional-800000-u",
+      "title": "Arc Raiders generates $114.9m during Nexon's Q2, sells an additional 800,000 units"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
