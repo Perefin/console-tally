@@ -1,0 +1,59 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-08-21T08:39:27Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/us-physical-game-sales-drop-to-lowest-monthly-total-since-1995-us-monthly-charts",
+      "published": "Thu, 20 Aug 2026 15:20:49 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/physical-games-storefont.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>US physical software sales fell to $85 million in July, the lowest monthly total since Circana began tracking in 1995.</p> <p><a href=\"https://www.gamesindustry.biz/us-physical-game-sales-drop-to-lowest-monthly-total-since-1995-us-monthly-charts\">Read more</a></p>",
+      "title": "US physical game sales drop to lowest monthly total since 1995 | US Monthly Charts"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/makers-fund-raises-250m-in-fourth-round-to-support-interactive-entertainment-startups",
+      "published": "Thu, 20 Aug 2026 13:00:00 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/makers-fund.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Venture capital firm Makers Fund has secured $250 million to invest in startups advancing games and interactive entertainment. This brings its total assets under management to $1.5 billion.</p> <p><a href=\"https://www.gamesindustry.biz/makers-fund-raises-250m-in-fourth-round-to-suppo",
+      "title": "Makers Fund raises $250m in fourth round to support interactive entertainment startups"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/gyld-raises-1m-to-fund-proprietary-games-research-system-that-marked-clair-obscur-as-a-potential-hit",
+      "published": "Tue, 18 Aug 2026 07:00:00 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/gyld-critical-compass.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Games publishing and investment agency GYLD has raised $1 million in funding to support its proprietary games research system Critical Compass.</p> <p><a href=\"https://www.gamesindustry.biz/gyld-raises-1m-to-fund-proprietary-games-research-system-that-marked-clair-obscur-as-",
+      "title": "GYLD raises $1m to fund proprietary games research system that marked Clair Obscur as a potential hit"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/arc-raiders-generates-1149m-during-nexons-q2-sells-an-additional-800000-units",
+      "published": "Fri, 14 Aug 2026 10:28:03 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/arc-raiders_LKvnmJa.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Nexon's Q2 results exceeded expectations, driven by strong performances from its MapleStory franchise and the ongoing success of Embark Studios' Arc Raiders.</p> <p><a href=\"https://www.gamesindustry.biz/arc-raiders-generates-1149m-during-nexons-q2-sells-an-additional-800000-u",
+      "title": "Arc Raiders generates $114.9m during Nexon's Q2, sells an additional 800,000 units"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/08/japanese-charts-nintendo-continues-to-dominate-with-rhythm-heaven-groove",
+      "published": "Thu, 20 Aug 2026 16:45:00 GMT",
+      "summary": "<p><strong>Sick beat.</strong></p><p><span><a href=\"https://www.famitsu.com/article/202608/84998\">Famitsu</a> has provided the latest figures for boxed sales in Japan covering the two weeks from 3rd August to 16th August.</span></p><p><span>Surprising no one, Nintendo is still absolutely dominating, with Game Freak's Beast of Reincarnation the only title representing the PS5 in the top ten. Otherw",
+      "title": "Japanese Charts: Nintendo Continues To Dominate With Rhythm Heaven Groove"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/08/007-first-light-hits-major-sales-milestone-still-confirmed-for-switch-2",
+      "published": "Thu, 20 Aug 2026 16:00:00 GMT",
+      "summary": "<p><strong>Don't panic.</strong></p><p>IO interactive and Amazon MGM Studios have announced that <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/007-first-light\">007 First Light</a> has now sold over <strong>4 million copies</strong> since launching 3 months ago on 27th May 2026.</p><p>A fine achievement, indeed, and a strong indication that we can probably expect to see more Bond ac",
+      "title": "007 First Light Hits Major Sales Milestone, Still Confirmed For Switch 2"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
