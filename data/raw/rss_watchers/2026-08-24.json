@@ -1,0 +1,38 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-08-24T08:45:59Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/us-physical-game-sales-drop-to-lowest-monthly-total-since-1995-us-monthly-charts",
+      "published": "Thu, 20 Aug 2026 15:20:49 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/physical-games-storefont.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>US physical software sales fell to $85 million in July, the lowest monthly total since Circana began tracking in 1995.</p> <p><a href=\"https://www.gamesindustry.biz/us-physical-game-sales-drop-to-lowest-monthly-total-since-1995-us-monthly-charts\">Read more</a></p>",
+      "title": "US physical game sales drop to lowest monthly total since 1995 | US Monthly Charts"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/makers-fund-raises-250m-in-fourth-round-to-support-interactive-entertainment-startups",
+      "published": "Thu, 20 Aug 2026 13:00:00 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/makers-fund.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Venture capital firm Makers Fund has secured $250 million to invest in startups advancing games and interactive entertainment. This brings its total assets under management to $1.5 billion.</p> <p><a href=\"https://www.gamesindustry.biz/makers-fund-raises-250m-in-fourth-round-to-suppo",
+      "title": "Makers Fund raises $250m in fourth round to support interactive entertainment startups"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/gyld-raises-1m-to-fund-proprietary-games-research-system-that-marked-clair-obscur-as-a-potential-hit",
+      "published": "Tue, 18 Aug 2026 07:00:00 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/gyld-critical-compass.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Games publishing and investment agency GYLD has raised $1 million in funding to support its proprietary games research system Critical Compass.</p> <p><a href=\"https://www.gamesindustry.biz/gyld-raises-1m-to-fund-proprietary-games-research-system-that-marked-clair-obscur-as-",
+      "title": "GYLD raises $1m to fund proprietary games research system that marked Clair Obscur as a potential hit"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
