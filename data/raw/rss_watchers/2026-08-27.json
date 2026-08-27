@@ -1,0 +1,45 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-08-27T18:51:59Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/entity-raises-58-million-to-build-browser-based-console-quality-gaming-platform",
+      "published": "Tue, 25 Aug 2026 16:56:48 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/entity.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Irish startup Entity has raised $5.8 million (&euro;5 million) in seed funding to build a browser-based gaming platform it says will deliver console-quality games without downloads or installs.</p> <p><a href=\"https://www.gamesindustry.biz/entity-raises-58-million-to-build-browser-based-c",
+      "title": "Entity raises $5.8 million to build browser-based \"console-quality\" gaming platform"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/godot-engine-partner-firm-w4-games-secures-18m-series-b-funding-signs-deal-with-tencent-to-bolster-asia-ecosystem",
+      "published": "Tue, 25 Aug 2026 08:00:00 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/w4-games-founders_Facz0KG.jpeg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>W4 Games has raised $18 million in a Series B funding round led by Tencent and has signed an agreement with the Chinese giant to scale and bolster the Godot ecosystem in Asia.</p> <p><a href=\"https://www.gamesindustry.biz/godot-engine-partner-firm-w4-games-secures-18m-s",
+      "title": "Godot Engine partner firm W4 Games secures $18m Series B funding, signs deal with Tencent to bolster Asia ecosystem"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/08/japanese-charts-nintendos-trio-of-2026-smash-hits-keep-it-on-top",
+      "published": "Thu, 27 Aug 2026 14:45:00 GMT",
+      "summary": "<p><strong>Spla-BOOM.</strong></p><p>The latest Japanese boxed charts data is in from <a href=\"https://www.famitsu.com/article/202608/85739\">Famitsu</a>, and thanks to consistently strong sales for <a href=\"https://www.nintendolife.com/games/nintendo-switch/rhythm_heaven_groove\">Rhythm Heaven Groove</a>, <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/splatoon-raiders\">Splatoon Raide",
+      "title": "Japanese Charts: Nintendo's Trio Of 2026 Smash Hits Keep It On Top"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/08/call-of-duty-modern-warfare-4-switch-2-estimated-file-size-revealed",
+      "published": "Thu, 27 Aug 2026 05:30:00 GMT",
+      "summary": "<p><strong>It's a big one!</strong></p><p>Ahead of <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/call_of_duty_modern_warfare_4\">Call of Duty: Modern Warfare 4</a>'s open beta this weekend, game pages and pre-orders for the Switch 2 version have gone live.</p><p>This includes the estimated file size, which is subject to change between now and the game's October launch. According to ",
+      "title": "Call Of Duty: Modern Warfare 4 Switch 2 Estimated File Size Revealed"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
