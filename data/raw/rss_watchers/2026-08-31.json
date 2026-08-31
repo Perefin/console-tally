@@ -1,0 +1,31 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-08-31T15:51:52Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/entity-raises-58-million-to-build-browser-based-console-quality-gaming-platform",
+      "published": "Tue, 25 Aug 2026 16:56:48 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/entity.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Irish startup Entity has raised $5.8 million (&euro;5 million) in seed funding to build a browser-based gaming platform it says will deliver console-quality games without downloads or installs.</p> <p><a href=\"https://www.gamesindustry.biz/entity-raises-58-million-to-build-browser-based-c",
+      "title": "Entity raises $5.8 million to build browser-based \"console-quality\" gaming platform"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/features/nintendo-lifes-switch-2-summer-survey-2026",
+      "published": "Fri, 28 Aug 2026 12:00:00 GMT",
+      "summary": "<p><strong>Have your say.</strong></p><p>Nintendo Switch 2 has now had well over a year to bed in as a platform, and sales figures suggest that it's doing rather well.</p><p>In fact, with 23.68 million units sold <a href=\"https://www.nintendolife.com/news/2026/08/switch-2-surpasses-23-million-units-as-nintendo-claims-sales-remain-solid\">as of 30th June 2026</a> — surpassing GameCube's lifetime sal",
+      "title": "Feature: Nintendo Life's Switch 2 Summer Survey 2026"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
