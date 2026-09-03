@@ -1,0 +1,38 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-09-03T12:37:15Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/cd-projekt-red-sees-profit-climb-37-in-h1-2026",
+      "published": "Wed, 02 Sep 2026 19:44:30 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/cyberpunk-phantom-liberty.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>CD Projekt Red <a href=\"https://www.cdprojekt.com/en/investors/result-center/?accounting-year=2026\">generated</a> $116.5 million (435 million PLN) in revenue during the first half of 2026, up 23% year-over-year.</p> <p><a href=\"https://www.gamesindustry.biz/cd-projekt-re",
+      "title": "CD Projekt Red sees profit climb 37% in H1 2026"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/gta-6-extended-look-reaches-311m-views-on-netflix-in-four-days-making-it-the-most-viewed-title-last-week",
+      "published": "Wed, 02 Sep 2026 07:51:21 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/lucia-jason-gta-6.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>The extended look of Grand Theft Auto 6 <a href=\"https://www.netflix.com/tudum/top10\"> was the most-viewed title on Netflix</a> last week, reaching 31.1 million views in four days.</p> <p><a href=\"https://www.gamesindustry.biz/gta-6-extended-look-reaches-311m-views-on-netflix-in",
+      "title": "GTA 6 extended look reaches 31.1m views on Netflix in four days, making it the most-viewed title last week"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/09/cd-projekt-red-very-happy-with-cyberpunk-2077-sales-on-switch-2",
+      "published": "Tue, 01 Sep 2026 17:45:00 GMT",
+      "summary": "<p><strong>\"the most important bit is that the players are happy\".</strong></p><p>It's safe to say that, besides from <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/mario-kart-world\">Mario Kart World</a>, CD Projekt Red's <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/cyberpunk-2077-ultimate-edition\">Cyberpunk 2077: Ultimate Edition</a> was <em>the</em> game of the Sw",
+      "title": "CD Projekt Red \"Very Happy\" With Cyberpunk 2077 Sales On Switch 2"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
