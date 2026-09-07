@@ -1,0 +1,52 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-09-07T13:59:43Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/gta-6-netflix-preview-causes-playstation-and-xbox-hardware-sales-to-jump-in-the-uk",
+      "published": "Fri, 04 Sep 2026 09:09:47 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/gta-lucia-jason.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>PlayStation 5 and Xbox Series X|S console sales increased in the UK following last week's <a href=\"https://www.gamesindustry.biz/grand-theft-auto-6-30-minute-teaser-debuts-on-netflix\">Grand Theft Auto 6 reveal on Netflix</a>.</p> <p><a href=\"https://www.gamesindustry.biz/gta-6-ne",
+      "title": "GTA 6 Netflix preview causes PlayStation and Xbox hardware sales to jump in the UK"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/cd-projekt-red-sees-profit-climb-37-in-h1-2026",
+      "published": "Wed, 02 Sep 2026 19:44:30 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/cyberpunk-phantom-liberty.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>CD Projekt Red <a href=\"https://www.cdprojekt.com/en/investors/result-center/?accounting-year=2026\">generated</a> $116.5 million (435 million PLN) in revenue during the first half of 2026, up 23% year-over-year.</p> <p><a href=\"https://www.gamesindustry.biz/cd-projekt-re",
+      "title": "CD Projekt Red sees profit climb 37% in H1 2026"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/gta-6-extended-look-reaches-311m-views-on-netflix-in-four-days-making-it-the-most-viewed-title-last-week",
+      "published": "Wed, 02 Sep 2026 07:51:21 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/lucia-jason-gta-6.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>The extended look of Grand Theft Auto 6 <a href=\"https://www.netflix.com/tudum/top10\"> was the most-viewed title on Netflix</a> last week, reaching 31.1 million views in four days.</p> <p><a href=\"https://www.gamesindustry.biz/gta-6-extended-look-reaches-311m-views-on-netflix-in",
+      "title": "GTA 6 extended look reaches 31.1m views on Netflix in four days, making it the most-viewed title last week"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/09/onimusha-way-of-the-sword-sells-1-million-copies-in-just-one-day",
+      "published": "Mon, 07 Sep 2026 13:30:00 GMT",
+      "summary": "<p><strong>Series sales top 10 million.</strong></p><p>Capcom – the publisher that can seemingly do no wrong right now – <a href=\"https://www.capcom.co.jp/ir/english/news/html/e260907.html\">has announced</a> that <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/onimusha_way_of_the_sword\">Onimusha: Way of the Sword</a> has surpassed 1 million sales in its first day of release.</p><p>It",
+      "title": "Onimusha: Way Of The Sword Sells 1 Million Copies In Just One Day"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/09/uk-charts-orbitals-performs-admirably-but-elden-ring-crashes-out-of-the-top-40",
+      "published": "Mon, 07 Sep 2026 08:45:00 GMT",
+      "summary": "<p><strong>Tarnished Edition, that is.</strong></p><p>The latest UK Charts data is in, and we have a few newcomers this week.</p><p>Most notably, Switch 2 exclusive <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/orbitals\">Orbitals</a> has performed admirably, entering the charts at number 3. It falls just behind <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/onimusha_",
+      "title": "UK Charts: Orbitals Performs Admirably, But Elden Ring Crashes Out Of The Top 40"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
