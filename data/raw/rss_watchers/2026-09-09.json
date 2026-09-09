@@ -1,0 +1,38 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-09-09T12:44:43Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/gta-6-netflix-preview-causes-playstation-and-xbox-hardware-sales-to-jump-in-the-uk",
+      "published": "Fri, 04 Sep 2026 09:09:47 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/gta-lucia-jason.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>PlayStation 5 and Xbox Series X|S console sales increased in the UK following last week's <a href=\"https://www.gamesindustry.biz/grand-theft-auto-6-30-minute-teaser-debuts-on-netflix\">Grand Theft Auto 6 reveal on Netflix</a>.</p> <p><a href=\"https://www.gamesindustry.biz/gta-6-ne",
+      "title": "GTA 6 Netflix preview causes PlayStation and Xbox hardware sales to jump in the UK"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/cd-projekt-red-sees-profit-climb-37-in-h1-2026",
+      "published": "Wed, 02 Sep 2026 19:44:30 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/cyberpunk-phantom-liberty.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>CD Projekt Red <a href=\"https://www.cdprojekt.com/en/investors/result-center/?accounting-year=2026\">generated</a> $116.5 million (435 million PLN) in revenue during the first half of 2026, up 23% year-over-year.</p> <p><a href=\"https://www.gamesindustry.biz/cd-projekt-re",
+      "title": "CD Projekt Red sees profit climb 37% in H1 2026"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/09/the-legend-of-zelda-ocarina-of-time-switch-2-estimated-file-size-revealed",
+      "published": "Wed, 09 Sep 2026 01:30:00 GMT",
+      "summary": "<p><strong>Look!</strong></p><p>The digital listing for the Switch 2 version of <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/legend_of_zelda_ocarina_of_time\">The Legend of Zelda: Ocarina of Time</a> is now live on the eShop and it includes the game's estimated file size.</p><p>According to Nintendo's official store, Link's classic Nintendo 64 quest \"remade for a whole new era\" is ",
+      "title": "The Legend Of Zelda: Ocarina Of Time Switch 2 Estimated File Size Revealed"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
