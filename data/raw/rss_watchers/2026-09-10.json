@@ -1,0 +1,31 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-09-10T12:43:06Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/gta-6-netflix-preview-causes-playstation-and-xbox-hardware-sales-to-jump-in-the-uk",
+      "published": "Fri, 04 Sep 2026 09:09:47 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/gta-lucia-jason.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>PlayStation 5 and Xbox Series X|S console sales increased in the UK following last week's <a href=\"https://www.gamesindustry.biz/grand-theft-auto-6-30-minute-teaser-debuts-on-netflix\">Grand Theft Auto 6 reveal on Netflix</a>.</p> <p><a href=\"https://www.gamesindustry.biz/gta-6-ne",
+      "title": "GTA 6 Netflix preview causes PlayStation and Xbox hardware sales to jump in the UK"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/09/metroid-ravenous-switch-2-estimated-file-size-revealed",
+      "published": "Thu, 10 Sep 2026 00:55:00 GMT",
+      "summary": "<p><strong>\"It's eat or be eaten!\".</strong></p><p>After some rumours, <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/metroid_ravenous\">Metroid Ravenous</a> has now been officially confirmed by Nintendo during the latest Direct broadcast.</p><p>It's launching for the Switch 2 on <strong>28th January 2027</strong>, with pre-orders now live on the eShop. Alongside this, the game's est",
+      "title": "Metroid Ravenous Switch 2 Estimated File Size Revealed"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
