@@ -1,0 +1,24 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-09-11T12:37:24Z",
+  "matches": [
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/09/metroid-ravenous-switch-2-estimated-file-size-revealed",
+      "published": "Thu, 10 Sep 2026 00:55:00 GMT",
+      "summary": "<p><strong>\"It's eat or be eaten!\".</strong></p><p>After some rumours, <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/metroid_ravenous\">Metroid Ravenous</a> has now been officially confirmed by Nintendo during the latest Direct broadcast.</p><p>It's launching for the Switch 2 on <strong>28th January 2027</strong>, with pre-orders now live on the eShop. Alongside this, the game's est",
+      "title": "Metroid Ravenous Switch 2 Estimated File Size Revealed"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
