@@ -1,0 +1,24 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-09-12T11:58:56Z",
+  "matches": [
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/09/nintendo-confirms-zelda-40th-anniversary-collection-restocks",
+      "published": "Sat, 12 Sep 2026 05:30:00 GMT",
+      "summary": "<p><strong>Expect an announcement via the Nintendo Store app.</strong></p><p>Earlier this week, Nintendo announced a new <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/legend_of_zelda_ocarina_of_time\">Zelda</a>-themed Switch 2, Pro Controller and various other items celebrating the 40th Anniversary of the series. Unsurprisingly, many of these items have already sold out in multiple ",
+      "title": "Nintendo Confirms Zelda 40th Anniversary Collection Restocks"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
