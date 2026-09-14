@@ -1,0 +1,31 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-09-14T14:45:05Z",
+  "matches": [
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-estimated-file-size-revealed",
+      "published": "Sun, 13 Sep 2026 08:30:00 GMT",
+      "summary": "<p><strong>Not long to go now.</strong></p><p>Nintendo's <a href=\"https://www.nintendolife.com/games/nintendo-switch/fire_emblem_warriors_three_hopes\">Fire Emblem</a> series is back next with the arrival of <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/fire-emblem-fortunes-weave\">Fire Emblem: Fortune's Weave</a> exclusively on the Switch 2.</p><p>If you're planning on picking up th",
+      "title": "Fire Emblem: Fortune's Weave Estimated File Size Revealed"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/09/nintendo-confirms-zelda-40th-anniversary-collection-restocks",
+      "published": "Sat, 12 Sep 2026 05:30:00 GMT",
+      "summary": "<p><strong>Expect an announcement via the Nintendo Store app.</strong></p><p>Earlier this week, Nintendo announced a new <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/legend_of_zelda_ocarina_of_time\">Zelda</a>-themed Switch 2, Pro Controller and various other items celebrating the 40th Anniversary of the series. Unsurprisingly, many of these items have already sold out in multiple ",
+      "title": "Nintendo Confirms Zelda 40th Anniversary Collection Restocks"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
