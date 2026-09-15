@@ -1,0 +1,31 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-09-15T13:09:36Z",
+  "matches": [
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/09/uk-charts-orbitals-floats-out-of-the-top-10-as-last-weeks-newbies-hold-down-the-podium",
+      "published": "Tue, 15 Sep 2026 10:30:00 GMT",
+      "summary": "<p><strong>Defying gravity.</strong></p><p>We are back with our latest look at the UK charts, and after last week's excitement with all those newcomers, it's a slightly more familiar picture this time.</p><p>The wonderful Switch 2 exclusive, <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/orbitals\">Orbitals</a> (which landed in third place in its debut week, let's not forget), has dr",
+      "title": "UK Charts: Orbitals Floats Out Of The Top 10 As Last Week's Newbies Hold Down The Podium"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/09/here-are-the-top-20-best-selling-gamecube-games-in-the-us",
+      "published": "Tue, 15 Sep 2026 04:45:00 GMT",
+      "summary": "<p><strong>Celebrating the GameCube's 25th anniversary!</strong></p><p>This week, Nintendo's GameCube celebrates 25 years since its release in Japan. To celebrate this anniversary, a chart of the system's software sales has been shared by Circana Retail Tracking Service.</p><p>This includes the \"US top 20 best-selling GameCube games, ranked by unit sales\". This information was shared on BlueSky vi",
+      "title": "Here Are The Top 20 Best-Selling GameCube Games In The US"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
