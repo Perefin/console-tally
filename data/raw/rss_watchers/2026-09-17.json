@@ -1,0 +1,38 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-09-17T13:03:53Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/nex-playground-announces-150m-in-new-funding-as-hardware-sales-pass-one-million",
+      "published": "Thu, 17 Sep 2026 13:00:00 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/Nex-Playground-console-on-stand.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Nex has secured $150 million in funding as sales of its family-oriented active console, Nex Playground, exceed one million units.</p> <p><a href=\"https://www.gamesindustry.biz/nex-playground-announces-150m-in-new-funding-as-hardware-sales-pass-one-million\">Read mor",
+      "title": "Nex Playground announces $150m in new funding as hardware sales pass one million"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/1312-interactive-raises-1m-in-seed-funding-round",
+      "published": "Wed, 16 Sep 2026 13:25:18 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/winds-of-arcana.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Publishing house 1312 Interactive has secured $1 million in a seed funding round.</p> <p><a href=\"https://www.gamesindustry.biz/1312-interactive-raises-1m-in-seed-funding-round\">Read more</a></p>",
+      "title": "1312 Interactive raises $1m in seed funding round"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/09/dragon-quest-franchise-surpasses-100-million-units-sold",
+      "published": "Wed, 16 Sep 2026 14:15:00 GMT",
+      "summary": "<p><strong>\"What a surprise!\".</strong></p><p>Square Enix has today announced that the <strong>Dragon Quest</strong> franchise has now surpassed 100 million units sold.</p><p>The milestone was acknowledged with a short video from creator Yuji Horii, in which he thanked fans for their support while ensuring folks are aware about the upcoming launch of <a href=\"https://www.nintendolife.com/games/nin",
+      "title": "Dragon Quest Franchise Surpasses 100 Million Units Sold"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
