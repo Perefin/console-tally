@@ -1,0 +1,52 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-09-18T12:44:09Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/draft-of-new-eu-law-proposes-sweeping-restrictions-on-online-games",
+      "published": "Thu, 17 Sep 2026 14:29:58 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/alexandre-lallemand-Pcs3mOL14Sk-unsplash.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>The EU Commission has published a <a href=\"https://digital-strategy.ec.europa.eu/en/news/eu-kids-act-restrict-social-media-platforms-access-children-eu\">draft for the proposed EU KIDS Act</a>. While the most controversial stipulations &ndash; namely a ban ",
+      "title": "Draft of new EU law proposes sweeping restrictions on online games"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/nex-playground-announces-150m-in-new-funding-as-hardware-sales-pass-one-million",
+      "published": "Thu, 17 Sep 2026 13:00:00 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/Nex-Playground-console-on-stand.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Nex has secured $150 million in funding as sales of its family-oriented active console, Nex Playground, exceed one million units.</p> <p><a href=\"https://www.gamesindustry.biz/nex-playground-announces-150m-in-new-funding-as-hardware-sales-pass-one-million\">Read mor",
+      "title": "Nex Playground announces $150m in new funding as hardware sales pass one million"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/1312-interactive-raises-1m-in-seed-funding-round",
+      "published": "Wed, 16 Sep 2026 13:25:18 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/winds-of-arcana.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Publishing house 1312 Interactive has secured $1 million in a seed funding round.</p> <p><a href=\"https://www.gamesindustry.biz/1312-interactive-raises-1m-in-seed-funding-round\">Read more</a></p>",
+      "title": "1312 Interactive raises $1m in seed funding round"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/09/japanese-console-market-would-have-been-eliminated-if-switch-failed-says-analyst",
+      "published": "Fri, 18 Sep 2026 10:00:00 GMT",
+      "summary": "<p><strong>A silent guardian, a watchful protector... A Nintendo Switch.</strong></p><p>We're all aware of just how successful the Switch has been since its launch in 2017. <a href=\"https://www.nintendo.co.jp/ir/en/finance/hard_soft/index.html\">The latest figures</a> put it at a total of 156.59 million units sold worldwide, which means that had Sony not <a href=\"https://www.nintendolife.com/news/2",
+      "title": "Japanese Console Market Would Have Been \"Eliminated\" If Switch Failed, Says Analyst"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/09/japanese-charts-rhythm-heaven-groove-surpasses-1-million-boxed-units-sold",
+      "published": "Thu, 17 Sep 2026 13:45:00 GMT",
+      "summary": "<p><strong>It just keeps going.</strong></p><p>Famitsu has posted the latest data for boxed sales in Japan, and it's <a href=\"https://www.nintendolife.com/games/nintendo-switch/rhythm_heaven_groove\">Rhythm Heaven Groove</a> that takes the top spot once again. Not only that, but consistent sales have now put the Switch game at over 1 million total boxed sales in the region. Pretty neat.</p><p><a hr",
+      "title": "Japanese Charts: Rhythm Heaven Groove Surpasses 1 Million Boxed Units Sold"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
