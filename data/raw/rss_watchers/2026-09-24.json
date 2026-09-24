@@ -1,0 +1,59 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-09-24T13:15:02Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/tinybuild-revenue-rises-18-to-20m-during-h1-2026-with-85-coming-from-first-and-second-party-owned-ip",
+      "published": "Thu, 24 Sep 2026 10:12:10 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/hello-neighbour.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>TinyBuild reported an 18% revenue increase to $20 million for the six months ending June 30, 2026, driven by \"strong catalogue performance and new launches.\"</p> <p><a href=\"https://www.gamesindustry.biz/tinybuild-revenue-rises-18-to-20m-during-h1-2026-with-85-coming-from-first-an",
+      "title": "TinyBuild revenue rises 18% to $20m during H1 2026, with 85% coming from first and second-party owned IP"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/sensor-tower-pc-and-playstation-unit-sales-in-japan-rise-13-to-21m-during-h1-2026-led-by-resident-evil-requiem",
+      "published": "Wed, 23 Sep 2026 12:55:38 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/resident-evil_DyOQj9U.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>PC and PlayStation unit sales increased 13% to 21 million in Japan during the first half of 2026, led by Resident Evil Requiem.</p> <p><a href=\"https://www.gamesindustry.biz/sensor-tower-pc-and-playstation-unit-sales-in-japan-rise-13-to-21m-during-h1-2026-led-by-resident-ev",
+      "title": "Sensor Tower: PC and PlayStation unit sales in Japan rise 13% to 21m during H1 2026, led by Resident Evil Requiem"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/draft-of-new-eu-law-proposes-sweeping-restrictions-on-online-games",
+      "published": "Thu, 17 Sep 2026 14:29:58 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/alexandre-lallemand-Pcs3mOL14Sk-unsplash.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>The EU Commission has published a <a href=\"https://digital-strategy.ec.europa.eu/en/news/eu-kids-act-restrict-social-media-platforms-access-children-eu\">draft for the proposed EU KIDS Act</a>. While the most controversial stipulations &ndash; namely a ban ",
+      "title": "Draft of new EU law proposes sweeping restrictions on online games"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/nex-playground-announces-150m-in-new-funding-as-hardware-sales-pass-one-million",
+      "published": "Thu, 17 Sep 2026 13:00:00 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/Nex-Playground-console-on-stand.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Nex has secured $150 million in funding as sales of its family-oriented active console, Nex Playground, exceed one million units.</p> <p><a href=\"https://www.gamesindustry.biz/nex-playground-announces-150m-in-new-funding-as-hardware-sales-pass-one-million\">Read mor",
+      "title": "Nex Playground announces $150m in new funding as hardware sales pass one million"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/09/metroid-ravenous-announcement-sees-demand-for-physical-copies-of-metroid-dread-spike",
+      "published": "Thu, 24 Sep 2026 00:45:00 GMT",
+      "summary": "<p><strong>Sealed copies are selling for \"well above\" the $100 mark.</strong></p><p>Samus' side-scrolling adventures are set to continue in 2027 with the Nintendo Switch 2 exclusive <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/metroid_ravenous\">Metroid Ravenous</a>.</p><p>Ahead of the anticipated return of the legendary bounty hunter, there's reportedly been an increase in <a href",
+      "title": "Metroid Ravenous Announcement Sees Demand For Physical Copies Of Metroid Dread Spike"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/09/psa-sorry-argos-deep-discounts-on-some-top-tier-switch-2-games-sold-out-like-hot-cakes",
+      "published": "Wed, 23 Sep 2026 09:45:00 GMT",
+      "summary": "<p><strong>Blink and you'll miss it.</strong></p><p>Big discounts on quality physical titles are such a rarity these days that, much like us, you may have got a little excited this morning if you clocked that <a class=\"external\" href=\"https://www.argos.co.uk/\">Argos</a> had delivered deep discounts on some of Switch 2's best games. Alas, we should have known that it was too good to be true, as the",
+      "title": "PSA: Sorry, Argos' Deep Discounts On Some Top-Tier Switch 2 Games Sold Out Like Hot Cakes"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
