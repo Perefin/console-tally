@@ -1,0 +1,73 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-09-29T14:38:27Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software",
+      "published": "Fri, 25 Sep 2026 08:04:53 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/switch-console-jesper-brouwers-unsplash.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Nintendo of America has won $4.5 million in damages from Reddit user James C. Williams, also known as 'Archbox,' for copyright violations.</p> <p><a href=\"https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-sw",
+      "title": "Nintendo of America awarded $4.5m in lawsuit from Redditor for pirating Switch hardware and software"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/tinybuild-revenue-rises-18-to-20m-during-h1-2026-with-85-coming-from-first-and-second-party-owned-ip",
+      "published": "Thu, 24 Sep 2026 10:12:10 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/hello-neighbour.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>TinyBuild reported an 18% revenue increase to $20 million for the six months ending June 30, 2026, driven by \"strong catalogue performance and new launches.\"</p> <p><a href=\"https://www.gamesindustry.biz/tinybuild-revenue-rises-18-to-20m-during-h1-2026-with-85-coming-from-first-an",
+      "title": "TinyBuild revenue rises 18% to $20m during H1 2026, with 85% coming from first and second-party owned IP"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/sensor-tower-pc-and-playstation-unit-sales-in-japan-rise-13-to-21m-during-h1-2026-led-by-resident-evil-requiem",
+      "published": "Wed, 23 Sep 2026 12:55:38 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/resident-evil_DyOQj9U.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>PC and PlayStation unit sales increased 13% to 21 million in Japan during the first half of 2026, led by Resident Evil Requiem.</p> <p><a href=\"https://www.gamesindustry.biz/sensor-tower-pc-and-playstation-unit-sales-in-japan-rise-13-to-21m-during-h1-2026-led-by-resident-ev",
+      "title": "Sensor Tower: PC and PlayStation unit sales in Japan rise 13% to 21m during H1 2026, led by Resident Evil Requiem"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/09/tmnt-splintered-fate-shreds-past-another-sales-milestone-dev-reveals-most-played-characters",
+      "published": "Tue, 29 Sep 2026 13:00:00 GMT",
+      "summary": "<p><strong>Rockin' roguelike.</strong></p><p><a href=\"https://www.nintendolife.com/games/switch-eshop/teenage_mutant_ninja_turtles_splintered_fate\">Teenage Mutant Ninja Turtles: Splintered Fate</a> channelled some big <a href=\"https://www.nintendolife.com/games/switch-eshop/hades\">Hades</a> energy when it arrived on Switch a couple of years ago, but familiarity is clearly no bad thing, as dev Supe",
+      "title": "TMNT: Splintered Fate Shreds Past Another Sales Milestone, Dev Reveals Most-Played Characters"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/09/zelda-40th-anniversary-concert-tickets-go-live-tomorrow-30th-september-europe",
+      "published": "Tue, 29 Sep 2026 11:50:00 GMT",
+      "summary": "<p><strong>Additional dates teased.</strong></p><p>After being revealed earlier this month, Nintendo has finally shared that tickets for the European leg of the Zelda 40th Anniversary concert will go live tomorrow (<strong>30th September</strong>).</p><p>Ticket sales will begin at <strong>12pm BST / 1pm CET</strong> for the European shows, which will take place on the following dates:</p><p>Read t",
+      "title": "Zelda 40th Anniversary Concert Tickets Go Live Tomorrow, 30th September (Europe)"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/09/japanese-charts-fire-emblem-fortunes-weave-shifts-over-120000-physical-copies",
+      "published": "Mon, 28 Sep 2026 15:45:00 GMT",
+      "summary": "<p><strong>Red hot debut.</strong></p><p><a href=\"https://www.famitsu.com/article/202609/89360\">Famitsu</a> has provided the latest look at the physical charts from Japan (albeit a little later than usual) and it's <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/fire-emblem-fortunes-weave\">Fire Emblem: Fortune's Weave</a> that comes out on top this time with a total of 127,131 sales.",
+      "title": "Japanese Charts: Fire Emblem: Fortune's Weave Shifts Over 120,000 Physical Copies"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/09/uk-charts-fire-emblem-fortunes-weave-drops-to-number-8-as-fc-27-tops-the-podium",
+      "published": "Mon, 28 Sep 2026 09:00:00 GMT",
+      "summary": "<p><strong>Fooseball? You playin' the fooseball?!</strong></p><p>The latest UK charts data is in, and with the release of <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/ea-sports-fc-27\">EA Sports FC 27</a> on 25th September, it's no surprise to find the football sim makes its debut at number one. PS5 has comfortably outpaced the other consoles in terms of sales, with Switch and Swit",
+      "title": "UK Charts: Fire Emblem: Fortune's Weave Drops To Number 8 As FC 27 Tops The Podium"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/features/opinion-i-played-mario-kart-tour-every-day-for-seven-years-and-what-am-i-left-with",
+      "published": "Sun, 27 Sep 2026 15:00:00 GMT",
+      "summary": "<p><strong>Chequered flag.</strong></p><p>On 24th September 2019, Nintendo launched <a href=\"https://www.nintendolife.com/games/mobile/mario_kart_tour\">Mario Kart Tour</a> for mobile devices. This was Mario’s second outing in mobile gaming, following 2016’s <a href=\"https://www.nintendolife.com/games/mobile/super_mario_run\">Super Mario Run</a>, which had an impressive initial reception but seeming",
+      "title": "Opinion: I Played Mario Kart Tour Every Day For Seven Years, And What Am I Left With?"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
