@@ -1,0 +1,59 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-09-30T14:38:45Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/zynga-reportedly-almost-acquired-supercell-for-400m-in-2012-but-deal-fell-through-following-failure-of-omgpop",
+      "published": "Wed, 30 Sep 2026 13:41:02 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/zynga-supercell.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Supercell was almost acquired by Zynga for $400 million in 2012, according to founder and former CEO Mark Pincus.</p> <p><a href=\"https://www.gamesindustry.biz/zynga-reportedly-almost-acquired-supercell-for-400m-in-2012-but-deal-fell-through-following-failure-of-omgpop\">Read more<",
+      "title": "Zynga reportedly almost acquired Supercell for $400m in 2012, but deal fell through following failure of OMGPop"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software",
+      "published": "Fri, 25 Sep 2026 08:04:53 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/switch-console-jesper-brouwers-unsplash.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Nintendo of America has won $4.5 million in damages from Reddit user James C. Williams, also known as 'Archbox,' for copyright violations.</p> <p><a href=\"https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-sw",
+      "title": "Nintendo of America awarded $4.5m in lawsuit from Redditor for pirating Switch hardware and software"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/tinybuild-revenue-rises-18-to-20m-during-h1-2026-with-85-coming-from-first-and-second-party-owned-ip",
+      "published": "Thu, 24 Sep 2026 10:12:10 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/hello-neighbour.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>TinyBuild reported an 18% revenue increase to $20 million for the six months ending June 30, 2026, driven by \"strong catalogue performance and new launches.\"</p> <p><a href=\"https://www.gamesindustry.biz/tinybuild-revenue-rises-18-to-20m-during-h1-2026-with-85-coming-from-first-an",
+      "title": "TinyBuild revenue rises 18% to $20m during H1 2026, with 85% coming from first and second-party owned IP"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/sensor-tower-pc-and-playstation-unit-sales-in-japan-rise-13-to-21m-during-h1-2026-led-by-resident-evil-requiem",
+      "published": "Wed, 23 Sep 2026 12:55:38 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/resident-evil_DyOQj9U.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>PC and PlayStation unit sales increased 13% to 21 million in Japan during the first half of 2026, led by Resident Evil Requiem.</p> <p><a href=\"https://www.gamesindustry.biz/sensor-tower-pc-and-playstation-unit-sales-in-japan-rise-13-to-21m-during-h1-2026-led-by-resident-ev",
+      "title": "Sensor Tower: PC and PlayStation unit sales in Japan rise 13% to 21m during H1 2026, led by Resident Evil Requiem"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/09/zelda-40th-anniversary-concert-tickets-are-now-live-across-europe",
+      "published": "Wed, 30 Sep 2026 11:00:00 GMT",
+      "summary": "<p><strong>North American sales go live later today.</strong></p><p>After being revealed earlier this month, Nintendo has finally shared that tickets for the European leg of the Zelda 40th Anniversary concert will go live tomorrow (<strong>30th September</strong>).</p><p>Ticket sales will begin at <strong>12pm BST / 1pm CET</strong> for the European shows, which will take place on the following da",
+      "title": "Zelda 40th Anniversary Concert Tickets Are Now Live Across Europe"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/09/tmnt-splintered-fate-shreds-past-another-sales-milestone-dev-reveals-most-played-characters",
+      "published": "Tue, 29 Sep 2026 13:00:00 GMT",
+      "summary": "<p><strong>Rockin' roguelike.</strong></p><p><a href=\"https://www.nintendolife.com/games/switch-eshop/teenage_mutant_ninja_turtles_splintered_fate\">Teenage Mutant Ninja Turtles: Splintered Fate</a> channelled some big <a href=\"https://www.nintendolife.com/games/switch-eshop/hades\">Hades</a> energy when it arrived on Switch a couple of years ago, but familiarity is clearly no bad thing, as dev Supe",
+      "title": "TMNT: Splintered Fate Shreds Past Another Sales Milestone, Dev Reveals Most-Played Characters"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
