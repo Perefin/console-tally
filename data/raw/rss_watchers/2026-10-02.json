@@ -1,0 +1,38 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-10-02T14:28:22Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/2xko-would-have-needed-an-mau-base-in-the-high-hundreds-of-thousands-if-not-millions-to-succeed",
+      "published": "Fri, 02 Oct 2026 10:10:00 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/2kxo_3bOEGlA.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Riot Games' 2XKO would have had to attract a base of monthly active users \"in the high hundreds of thousands, if not millions\" to be sustainable, according to CPO Marc Merrill.</p> <p><a href=\"https://www.gamesindustry.biz/2xko-would-have-needed-an-mau-base-in-the-high-hundreds-of-th",
+      "title": "2XKO would have needed an MAU base \"in the high hundreds of thousands, if not millions\" to succeed"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/zynga-reportedly-almost-acquired-supercell-for-400m-in-2012-but-deal-fell-through-following-failure-of-omgpop",
+      "published": "Wed, 30 Sep 2026 13:41:02 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/zynga-supercell.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Supercell was almost acquired by Zynga for $400 million in 2012, according to founder and former CEO Mark Pincus.</p> <p><a href=\"https://www.gamesindustry.biz/zynga-reportedly-almost-acquired-supercell-for-400m-in-2012-but-deal-fell-through-following-failure-of-omgpop\">Read more<",
+      "title": "Zynga reportedly almost acquired Supercell for $400m in 2012, but deal fell through following failure of OMGPop"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/10/japanese-charts-fire-emblem-sales-plummet-but-its-still-enough-to-stay-on-the-podium",
+      "published": "Thu, 01 Oct 2026 17:00:00 GMT",
+      "summary": "<p><strong>Quiet week, eh?</strong></p><p>After last week's charts came in a little later than usual, it has only been a matter of days since we last caught up with the Japanese game sales numbers, but <a href=\"https://www.famitsu.com/article/202610/89721\">Famitsu</a> waits for no one, so we're back with the latest update.</p><p>Our previous champion, <a href=\"https://www.nintendolife.com/games/ni",
+      "title": "Japanese Charts: Fire Emblem Sales Plummet, But It's Still Enough To Stay On The Podium"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
