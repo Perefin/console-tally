@@ -1,0 +1,38 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-10-05T16:49:27Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/2xko-would-have-needed-an-mau-base-in-the-high-hundreds-of-thousands-if-not-millions-to-succeed",
+      "published": "Fri, 02 Oct 2026 10:10:00 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/2kxo_3bOEGlA.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Riot Games' 2XKO would have had to attract a base of monthly active users \"in the high hundreds of thousands, if not millions\" to be sustainable, according to CPO Marc Merrill.</p> <p><a href=\"https://www.gamesindustry.biz/2xko-would-have-needed-an-mau-base-in-the-high-hundreds-of-th",
+      "title": "2XKO would have needed an MAU base \"in the high hundreds of thousands, if not millions\" to succeed"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/zynga-reportedly-almost-acquired-supercell-for-400m-in-2012-but-deal-fell-through-following-failure-of-omgpop",
+      "published": "Wed, 30 Sep 2026 13:41:02 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/zynga-supercell.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Supercell was almost acquired by Zynga for $400 million in 2012, according to founder and former CEO Mark Pincus.</p> <p><a href=\"https://www.gamesindustry.biz/zynga-reportedly-almost-acquired-supercell-for-400m-in-2012-but-deal-fell-through-following-failure-of-omgpop\">Read more<",
+      "title": "Zynga reportedly almost acquired Supercell for $400m in 2012, but deal fell through following failure of OMGPop"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/10/uk-charts-metroid-prime-4-beyond-climbs-back-into-the-top-10",
+      "published": "Mon, 05 Oct 2026 08:45:00 GMT",
+      "summary": "<p><strong>While Xenoblade Chronicles 2: NS2 Edition makes its debut.</strong></p><p>The latest UK charts data is in, and we have a few new releases this time to highlight. First up, <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/minecraft-dungeons-ii\">Minecraft Dungeons II</a> lands at number 2 for its debut, just behind <a href=\"https://www.nintendolife.com/games/nintendo-switch-2",
+      "title": "UK Charts: Metroid Prime 4: Beyond Climbs Back Into The Top 10"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
