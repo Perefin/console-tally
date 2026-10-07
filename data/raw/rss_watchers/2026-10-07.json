@@ -1,0 +1,52 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-10-07T15:06:14Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/south-australian-government-makes-largest-investment-in-game-development-by-doubling-its-digital-games-fund-to-1m",
+      "published": "Tue, 06 Oct 2026 11:11:16 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/Peppermint-(1).png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>The South Australian Film Corporation (SAFC) has doubled its Digital Games Fund (DGF) funding to $1 million to support local developers.</p> <p><a href=\"https://www.gamesindustry.biz/south-australian-government-makes-largest-investment-in-game-development-by-doubling-its-digital-ga",
+      "title": "South Australian government makes largest investment in game development by doubling its Digital Games Fund to $1m"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/2xko-would-have-needed-an-mau-base-in-the-high-hundreds-of-thousands-if-not-millions-to-succeed",
+      "published": "Fri, 02 Oct 2026 10:10:00 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/2kxo_3bOEGlA.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Riot Games' 2XKO would have had to attract a base of monthly active users \"in the high hundreds of thousands, if not millions\" to be sustainable, according to CPO Marc Merrill.</p> <p><a href=\"https://www.gamesindustry.biz/2xko-would-have-needed-an-mau-base-in-the-high-hundreds-of-th",
+      "title": "2XKO would have needed an MAU base \"in the high hundreds of thousands, if not millions\" to succeed"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/previews/nintendo-switch-sports-resort-is-more-of-the-same-but-better",
+      "published": "Tue, 06 Oct 2026 13:00:00 GMT",
+      "summary": "<p><strong>Wuhu Island: Be there or be (Spocco) Square.</strong></p><p>Back what seems like a lifetime ago, I got a chance to have a pop at <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/nintendo-switch-sports-resort\">Nintendo Switch Sports Resort</a> at gamescom <em></em> '26. No, I don’t mean the stuff that just anyone with a ticket and the patience to wait in an enormous queue co",
+      "title": "Preview: Nintendo Switch Sports Resort Is More Of The Same, But Better"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/10/monster-hunter-rise-surpasses-20-million-sales-worldwide",
+      "published": "Tue, 06 Oct 2026 05:55:00 GMT",
+      "summary": "<p><strong>An absolute monster.</strong></p><p></p><p>Capcom's <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/monster-hunter-wilds\">Monster Hunter</a> series has become an absolute powerhouse over the past two decades and while the company's current focus is on the latest entry <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/monster-hunter-wilds\">Monster Hunter Wilds</",
+      "title": "Monster Hunter Rise Surpasses 20 Million Sales Worldwide"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/10/nintendo-announces-another-switch-2-hardware-bundle",
+      "published": "Tue, 06 Oct 2026 04:55:00 GMT",
+      "summary": "<p><strong>Japan gets a new \"Choose-Your-Game\" bundle.</strong></p><p></p><p>The Switch 2 is now over a year into its life, and Nintendo has so far shifted <a href=\"https://www.nintendolife.com/news/2026/08/switch-2-surpasses-23-million-units-as-nintendo-claims-sales-remain-solid\">more than 23 million units</a> globally. In recent months, the video game giant has announced multiple hardware bundle",
+      "title": "Nintendo Announces Another Switch 2 Hardware Bundle"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
