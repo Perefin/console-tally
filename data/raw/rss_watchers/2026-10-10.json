@@ -1,0 +1,45 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-10-10T14:15:14Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/gardens-interactive-founded-by-veterans-behind-journey-and-sky-children-of-the-light-raise-over-35m-in-series-b-funding-round",
+      "published": "Thu, 08 Oct 2026 09:58:52 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/gardens-interactive.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Gardens Interactive has raised over $35 million in a Series B funding round led by Lightspeed Venture Partners, bringing its <a href=\"https://www.linkedin.com/posts/moritzbaierlentz_game-studio-funding-is-back-gardens-interactive-share-7513608118791196673-sNWA/\"> total funding",
+      "title": "Gardens Interactive, founded by veterans behind Journey and Sky: Children of the Light, raises over $35m in Series B funding round"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/discord-protection-bot-double-counter-hit-by-breach-exposing-around-1-million-email-addresses",
+      "published": "Wed, 07 Oct 2026 19:15:58 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/discord_ciKWt0v.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Double Counter, a service that protects Discord servers from raids and alt accounts, has suffered a data breach that exposed about 1 million email addresses, as well as Discord IDs and IP addresses for millions more users.</p> <p><a href=\"https://www.gamesindustry.biz/discord-prot",
+      "title": "Discord protection bot Double Counter hit by breach exposing around 1 million email addresses"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/south-australian-government-makes-largest-investment-in-game-development-by-doubling-its-digital-games-fund-to-1m",
+      "published": "Tue, 06 Oct 2026 11:11:16 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/Peppermint-(1).png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>The South Australian Film Corporation (SAFC) has doubled its Digital Games Fund (DGF) funding to $1 million to support local developers.</p> <p><a href=\"https://www.gamesindustry.biz/south-australian-government-makes-largest-investment-in-game-development-by-doubling-its-digital-ga",
+      "title": "South Australian government makes largest investment in game development by doubling its Digital Games Fund to $1m"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/10/best-buy-to-offer-additional-switch-2-zelda-units-in-store-at-midnight-launch",
+      "published": "Fri, 09 Oct 2026 02:30:00 GMT",
+      "summary": "<p><strong>Available in limited supply.</strong></p><p></p><p>If you've been unable to secure a <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/legend_of_zelda_ocarina_of_time\">Zelda</a>-themed Switch 2 or Pro Controller and happen to live in the US, Best Buy will be offering limited stock at its <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/legend_of_zelda_ocarina_of",
+      "title": "Best Buy To Offer Additional Switch 2 Zelda Units In-Store At Midnight Launch"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
