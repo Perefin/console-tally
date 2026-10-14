@@ -1,0 +1,24 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-10-14T13:19:38Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/gardens-interactive-founded-by-veterans-behind-journey-and-sky-children-of-the-light-raise-over-35m-in-series-b-funding-round",
+      "published": "Thu, 08 Oct 2026 09:58:52 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/gardens-interactive.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Gardens Interactive has raised over $35 million in a Series B funding round led by Lightspeed Venture Partners, bringing its <a href=\"https://www.linkedin.com/posts/moritzbaierlentz_game-studio-funding-is-back-gardens-interactive-share-7513608118791196673-sNWA/\"> total funding",
+      "title": "Gardens Interactive, founded by veterans behind Journey and Sky: Children of the Light, raises over $35m in Series B funding round"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
