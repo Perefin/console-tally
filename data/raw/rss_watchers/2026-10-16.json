@@ -1,0 +1,24 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-10-16T13:01:35Z",
+  "matches": [
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/10/japanese-charts-kingdom-hearts-collection-grabs-the-top-spot-despite-a-slow-start",
+      "published": "Thu, 15 Oct 2026 15:00:00 GMT",
+      "summary": "<p><strong>Taking the Mickey.</strong></p><p><a href=\"https://www.famitsu.com/article/202610/91095\">Famitsu</a> has shared the latest look at the Japanese physical gaming charts, and there's another newbie on the podium.</p><p>Despite not even <a href=\"https://www.nintendolife.com/news/2026/10/uk-charts-kingdom-hearts-collection-performs-well-but-its-missing-the-keys-to-the-podium\">reaching the po",
+      "title": "Japanese Charts: Kingdom Hearts Collection Grabs The Top Spot, Despite A Slow Start"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
