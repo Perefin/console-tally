@@ -1,0 +1,31 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-10-17T11:59:11Z",
+  "matches": [
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/10/the-cosy-coastal-farming-sim-coral-island-is-officially-on-its-way-to-switch-2-this-winter",
+      "published": "Sat, 17 Oct 2026 04:05:00 GMT",
+      "summary": "<p><strong>Releasing alongside a major update.</strong></p><p>Here on Nintendo Life, we first heard about the laid-back co-op farming sim <a href=\"https://www.nintendolife.com/games/switch-eshop/coral_island\">Coral Island</a> back in 2021, when it <a href=\"https://www.nintendolife.com/news/2021/03/stardew-like_coral_island_wraps_up_successful_kickstarter_with_usd1_6_million_raised\">successfully hi",
+      "title": "The Cosy Coastal Farming Sim Coral Island Is Officially On Its Way To Switch 2 This Winter"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/10/japanese-charts-kingdom-hearts-collection-grabs-the-top-spot-despite-a-slow-start",
+      "published": "Thu, 15 Oct 2026 15:00:00 GMT",
+      "summary": "<p><strong>Taking the Mickey.</strong></p><p><a href=\"https://www.famitsu.com/article/202610/91095\">Famitsu</a> has shared the latest look at the Japanese physical gaming charts, and there's another newbie on the podium.</p><p>Despite not even <a href=\"https://www.nintendolife.com/news/2026/10/uk-charts-kingdom-hearts-collection-performs-well-but-its-missing-the-keys-to-the-podium\">reaching the po",
+      "title": "Japanese Charts: Kingdom Hearts Collection Grabs The Top Spot, Despite A Slow Start"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
