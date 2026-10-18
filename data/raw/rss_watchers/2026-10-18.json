@@ -1,0 +1,24 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-10-18T12:27:18Z",
+  "matches": [
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/10/the-cosy-coastal-farming-sim-coral-island-is-officially-on-its-way-to-switch-2-this-winter",
+      "published": "Sat, 17 Oct 2026 04:05:00 GMT",
+      "summary": "<p><strong>Releasing alongside a major update.</strong></p><p>Here on Nintendo Life, we first heard about the laid-back co-op farming sim <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/coral-island\">Coral Island</a> back in 2021, when it <a href=\"https://www.nintendolife.com/news/2021/03/stardew-like_coral_island_wraps_up_successful_kickstarter_with_usd1_6_million_raised\">successful",
+      "title": "The Cosy Coastal Farming Sim Coral Island Is Officially On Its Way To Switch 2 This Winter"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
