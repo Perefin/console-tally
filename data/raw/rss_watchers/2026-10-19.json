@@ -1,0 +1,38 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-10-19T15:17:43Z",
+  "matches": [
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/10/uk-charts-castlevania-belmonts-curse-whips-up-a-fine-debut-but-its-not-king-of-the-castle",
+      "published": "Mon, 19 Oct 2026 14:15:00 GMT",
+      "summary": "<p><strong>Roses are... bronze?</strong></p><p>The October releases keep coming thick and fast, and the latest UK charts once again sees a handful of newbies in the top 10.</p><p>Nothing performed well enough to kick <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/ea-sports-fc-27\">EA Sports FC 27</a> from the top spot, unfortunately, but <a href=\"https://www.pushsquare.com/games/ps5/",
+      "title": "UK Charts: Castlevania: Belmont's Curse Whips Up A Fine Debut, But It's Not King Of The Castle"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/10/nintendo-underestimated-zelda-switch-2-console-sales-but-promises-restocks-are-on-the-way",
+      "published": "Mon, 19 Oct 2026 12:00:00 GMT",
+      "summary": "<p><strong>\"Please be patient\".</strong></p><p>If you are anything like us, the reveal of the special edition Zelda 40th Anniversary Switch 2 console last month was quickly followed by the dreaded realisation of \"oh no, I need this\". Alas, for many, this need has not been fulfilled, with supply shortages making those all-important pre-orders far rarer than we'd like them to be.</p><p>In a recent i",
+      "title": "Nintendo \"Underestimated\" Zelda Switch 2 Console Sales, But Promises Restocks Are On The Way"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/10/the-cosy-coastal-farming-sim-coral-island-is-officially-on-its-way-to-switch-2-this-winter",
+      "published": "Sat, 17 Oct 2026 04:05:00 GMT",
+      "summary": "<p><strong>Releasing alongside a major update.</strong></p><p>Here on Nintendo Life, we first heard about the laid-back co-op farming sim <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/coral-island\">Coral Island</a> back in 2021, when it <a href=\"https://www.nintendolife.com/news/2021/03/stardew-like_coral_island_wraps_up_successful_kickstarter_with_usd1_6_million_raised\">successful",
+      "title": "The Cosy Coastal Farming Sim Coral Island Is Officially On Its Way To Switch 2 This Winter"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
