@@ -1,0 +1,38 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-10-20T13:21:24Z",
+  "matches": [
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-the-street-fighter-movie-are-in",
+      "published": "Tue, 20 Oct 2026 01:30:00 GMT",
+      "summary": "<p><strong>Here's what the critics think.</strong></p><p>The new live-action <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/street-fighter-6-years-1-2-fighters-edition\">Street Fighter</a> movie made its debut in cinemas last week, and the critic reviews are now rolling in.</p><p>The first global box office update has also been shared, <a href=\"https://www.ign.com/articles/street-fig",
+      "title": "Round Up: The Reviews For The Street Fighter Movie Are In"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/10/uk-charts-castlevania-belmonts-curse-whips-up-a-fine-debut-but-its-not-king-of-the-castle",
+      "published": "Mon, 19 Oct 2026 14:15:00 GMT",
+      "summary": "<p><strong>Roses are... bronze?</strong></p><p>The October releases keep coming thick and fast, and the latest UK charts once again sees a handful of newbies in the top 10.</p><p>Nothing performed well enough to kick <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/ea-sports-fc-27\">EA Sports FC 27</a> from the top spot, unfortunately, but <a href=\"https://www.pushsquare.com/games/ps5/",
+      "title": "UK Charts: Castlevania: Belmont's Curse Whips Up A Fine Debut, But It's Not King Of The Castle"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/10/nintendo-underestimated-zelda-switch-2-console-sales-but-promises-restocks-are-on-the-way",
+      "published": "Mon, 19 Oct 2026 12:00:00 GMT",
+      "summary": "<p><strong>\"Please be patient\".</strong></p><p>If you are anything like us, the reveal of the special edition Zelda 40th Anniversary Switch 2 console last month was quickly followed by the dreaded realisation of \"oh no, I need this\". Alas, for many, this need has not been fulfilled, with supply shortages making those all-important pre-orders far rarer than we'd like them to be.</p><p>In a recent i",
+      "title": "Nintendo \"Underestimated\" Zelda Switch 2 Console Sales, But Promises Restocks Are On The Way"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
