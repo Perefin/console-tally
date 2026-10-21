@@ -1,0 +1,38 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-10-21T13:27:48Z",
+  "matches": [
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/10/award-winning-indie-horror-mouthwashing-finally-arrives-on-switch-this-month",
+      "published": "Wed, 21 Oct 2026 11:15:00 GMT",
+      "summary": "<p><strong>Eye spy.</strong></p><p>Creepy space horror <a href=\"https://www.nintendolife.com/games/switch-eshop/mouthwashing\">Mouthwashing</a> became something of an indie sensation when it launched back in 2024. After racking up over 500,000 Steam sales, publisher Critical Reflex announced that a Switch version was in the works and now (a year on from that announcement), we finally have a release",
+      "title": "Award-Winning Indie Horror 'Mouthwashing' Finally Arrives On Switch This Month"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/10/the-legend-of-zelda-ocarina-of-time-switch-2-estimated-file-size-revealed",
+      "published": "Wed, 21 Oct 2026 03:30:00 GMT",
+      "summary": "<p><strong>Update: File size spotted on download card.</strong></p><p><strong>:</strong></p><p>The digital listing for the Switch 2 version of <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/legend_of_zelda_ocarina_of_time\">The Legend of Zelda: Ocarina of Time</a> is now live on the eShop and it includes the game's estimated file size.</p><p>Read the <a href=\"https://www.nintendolife",
+      "title": "The Legend Of Zelda: Ocarina Of Time Switch 2 Estimated File Size Revealed"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-the-street-fighter-movie-are-in",
+      "published": "Tue, 20 Oct 2026 01:30:00 GMT",
+      "summary": "<p><strong>Here's what the critics think.</strong></p><p>The new live-action <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/street-fighter-6-years-1-2-fighters-edition\">Street Fighter</a> movie made its debut in cinemas last week, and the critic reviews are now rolling in.</p><p>The first global box office update has also been shared, <a href=\"https://www.ign.com/articles/street-fig",
+      "title": "Round Up: The Reviews For The Street Fighter Movie Are In"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
