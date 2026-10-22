@@ -1,0 +1,38 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-10-22T13:29:07Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/marvels-wolverine-leads-us-september-charts-achieves-highest-monthly-dollar-sales-for-a-sony-published-title-since-helldivers-2",
+      "published": "Thu, 22 Oct 2026 13:00:08 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/marvels-wolverine.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Marvel's Wolverine led US game sales in September, achieving the highest monthly dollar sales for a Sony-published title since Helldivers 2.</p> <p><a href=\"https://www.gamesindustry.biz/marvels-wolverine-leads-us-september-charts-achieves-highest-monthly-dollar-sales-for-a-son",
+      "title": "Marvel's Wolverine leads US September charts, achieves highest monthly dollar sales for a Sony-published title since Helldivers 2"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/10/award-winning-indie-horror-mouthwashing-finally-arrives-on-switch-this-month",
+      "published": "Wed, 21 Oct 2026 11:15:00 GMT",
+      "summary": "<p><strong>Eye spy.</strong></p><p>Creepy space horror <a href=\"https://www.nintendolife.com/games/switch-eshop/mouthwashing\">Mouthwashing</a> became something of an indie sensation when it launched back in 2024. After racking up over 500,000 Steam sales, publisher Critical Reflex announced that a Switch version was in the works and now (a year on from that announcement), we finally have a release",
+      "title": "Award-Winning Indie Horror 'Mouthwashing' Finally Arrives On Switch This Month"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/10/the-legend-of-zelda-ocarina-of-time-switch-2-estimated-file-size-revealed",
+      "published": "Wed, 21 Oct 2026 03:30:00 GMT",
+      "summary": "<p><strong>Update: File size spotted on download card.</strong></p><p><strong>:</strong></p><p>The digital listing for the Switch 2 version of <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/legend_of_zelda_ocarina_of_time\">The Legend of Zelda: Ocarina of Time</a> is now live on the eShop and it includes the game's estimated file size.</p><p>Read the <a href=\"https://www.nintendolife",
+      "title": "The Legend Of Zelda: Ocarina Of Time Switch 2 Estimated File Size Revealed"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
