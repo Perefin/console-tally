@@ -1,0 +1,52 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-10-25T12:58:07Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/capcom-affected-by-data-breach-over-117m-capcom-id-accounts-compromised",
+      "published": "Fri, 23 Oct 2026 11:05:20 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/monster-hunter_YYPxbEk.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Capcom has been hit by a data breach that affected over 11.7 million Capcom ID accounts.</p> <p><a href=\"https://www.gamesindustry.biz/capcom-affected-by-data-breach-over-117m-capcom-id-accounts-compromised\">Read more</a></p>",
+      "title": "Capcom affected by data breach, over 11.7m Capcom ID accounts compromised"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/marvels-wolverine-leads-us-september-charts-achieves-highest-monthly-dollar-sales-for-a-sony-published-title-since-helldivers-2",
+      "published": "Thu, 22 Oct 2026 13:00:08 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/marvels-wolverine.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Marvel's Wolverine led US game sales in September, achieving the highest monthly dollar sales for a Sony-published title since Helldivers 2.</p> <p><a href=\"https://www.gamesindustry.biz/marvels-wolverine-leads-us-september-charts-achieves-highest-monthly-dollar-sales-for-a-son",
+      "title": "Marvel's Wolverine leads US September charts, achieves highest monthly dollar sales for a Sony-published title since Helldivers 2"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-switch-2-update-now-live-here-are-the-details",
+      "published": "Sun, 25 Oct 2026 05:55:00 GMT",
+      "summary": "<p><strong>Get downloading.</strong></p><p>If you're playing <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/call-of-duty-modern-warfare-4\">Call of Duty: Modern Warfare 4</a> on Switch 2 this weekend, you might need to update the game since your last session.</p><p>Activision hasn't shared any official notice about this at the time of writing, but a new patch for this version of the ",
+      "title": "PSA: Call Of Duty: Modern Warfare 4 Switch 2 Update Now Live, Here Are The Details"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/10/shigeru-miyamoto-becomes-first-game-dev-to-receive-japans-prestigious-culture-award",
+      "published": "Fri, 23 Oct 2026 12:30:00 GMT",
+      "summary": "<p><strong>Onward and upward!</strong></p><p>Adding to what is surely the most stacked roster of lifetime achievements, Shigeru Miyamoto is set to be awarded the prestigious Order of Culture award next month.</p><p>The award, which first began way back in the 1930s, will be given by the Emperor of Japan on the nation's Culture Day (3rd November), and is awarded to those who have gone above and bey",
+      "title": "Shigeru Miyamoto Becomes First Game Dev To Receive Japan's Prestigious Culture Award"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/10/capcom-data-breach-results-in-unauthorised-access-to-more-than-11-7-million-capcom-id-accounts",
+      "published": "Fri, 23 Oct 2026 03:55:00 GMT",
+      "summary": "<p><strong>\"We would like to sincerely apologize\".</strong></p><p>Third-party video game giant Capcom has suffered a major data breach recently, exposing the personal information of more than <strong>11.7 million</strong> customer \"CAPCOM ID\" accounts around the world.</p><p>The data leak includes emails, client IP addresses used during the last login, and other details such as account creation da",
+      "title": "Capcom Data Breach Results In Unauthorised Access To More Than 11.7 Million 'CAPCOM ID' Accounts"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
