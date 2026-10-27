@@ -1,0 +1,80 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-10-27T13:59:41Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/netflix-reportedly-offered-500m-to-microsoft-to-license-xbox-ip-for-seven-years",
+      "published": "Mon, 26 Oct 2026 13:02:57 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/xbox_EP1Js03.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Netflix reportedly offered Microsoft $500 million over seven years to license Xbox IP for film and television adaptations.</p> <p><a href=\"https://www.gamesindustry.biz/netflix-reportedly-offered-500m-to-microsoft-to-license-xbox-ip-for-seven-years\">Read more</a></p>",
+      "title": "Netflix reportedly offered $500m to Microsoft to license Xbox IP for seven years"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/capcom-affected-by-data-breach-over-117m-capcom-id-accounts-compromised",
+      "published": "Fri, 23 Oct 2026 11:05:20 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/monster-hunter_YYPxbEk.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Capcom has been hit by a data breach that affected over 11.7 million Capcom ID accounts.</p> <p><a href=\"https://www.gamesindustry.biz/capcom-affected-by-data-breach-over-117m-capcom-id-accounts-compromised\">Read more</a></p>",
+      "title": "Capcom affected by data breach, over 11.7m Capcom ID accounts compromised"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/marvels-wolverine-leads-us-september-charts-achieves-highest-monthly-dollar-sales-for-a-sony-published-title-since-helldivers-2",
+      "published": "Thu, 22 Oct 2026 13:00:08 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/marvels-wolverine.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Marvel's Wolverine led US game sales in September, achieving the highest monthly dollar sales for a Sony-published title since Helldivers 2.</p> <p><a href=\"https://www.gamesindustry.biz/marvels-wolverine-leads-us-september-charts-achieves-highest-monthly-dollar-sales-for-a-son",
+      "title": "Marvel's Wolverine leads US September charts, achieves highest monthly dollar sales for a Sony-published title since Helldivers 2"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/10/capcoms-2026-bangers-continue-to-shine-in-latest-financial-report",
+      "published": "Tue, 27 Oct 2026 12:15:00 GMT",
+      "summary": "<p><strong>First numbers for Onimusha.</strong></p><p>Capcom has shared its <a href=\"https://www.capcom.co.jp/ir/english/data/pdf/explanation/2026/2nd/explanation_2026_2nd_01.pdf\">latest financial report</a> for Q2 FY2026, and what do you know, the studio's stream of quality releases so far this year continue to sell well.</p><p><a href=\"https://www.nintendolife.com/games/nintendo-switch-2/onimush",
+      "title": "Capcom's 2026 Bangers Continue To Shine In Latest Financial Report"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/10/zelda-ocarina-of-time-midnight-launches-announced-for-nintendo-new-york-and-san-francisco-stores",
+      "published": "Tue, 27 Oct 2026 00:55:00 GMT",
+      "summary": "<p><strong>Both events have already \"sold out\".</strong></p><p></p><p>Ahead of the launch of <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/legend-of-zelda-ocarina-of-time\">Zelda: Ocarina of Time</a> on the Switch 2 next week, Nintendo has officially revealed its midnight launch plans for the <a class=\"external\" href=\"https://experience.nintendo.com/?_gl=1*1arr1ur*_gcl_au*ODQ2MjUzMT",
+      "title": "Zelda: Ocarina Of Time Midnight Launches Announced For Nintendo New York And San Francisco Stores"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/10/we-couldnt-believe-it-mans-forgotten-pokemon-collection-sells-for-usd2-million",
+      "published": "Mon, 26 Oct 2026 16:45:00 GMT",
+      "summary": "<p><strong>Money where your Meowth is.</strong></p><p>We've heard all kinds of wild Pokémon resale stories over the years, but this one might just be the craziest of the bunch and has left us ringing our parents telling them to get up in the loft and look for our old collections again.</p><p>Last week, we heard that a man from Woking, UK, had received an eye-watering £1.56 million (a little over $",
+      "title": "\"We Couldn't Believe It\" - Man's Forgotten Pokémon Collection Sells For $2 Million"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/10/uk-charts-switch-sports-resort-and-call-of-duty-are-fast-off-the-start-line",
+      "published": "Mon, 26 Oct 2026 10:30:00 GMT",
+      "summary": "<p><strong>Modern Thumb Warfare.</strong></p><p>We made it to the final week of October, and the new releases show no sign of slowing down.</p><p><a href=\"https://www.nintendolife.com/games/nintendo-switch-2/nintendo-switch-sports-resort\">Nintendo Switch Sports Resort</a> and <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/call-of-duty-modern-warfare-4\">Call of Duty: Modern Warfare 4",
+      "title": "UK Charts: Switch Sports Resort And Call Of Duty Are Fast Off The Start Line"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/features/30-years-later-im-finally-learning-to-play-the-ocarina-and-you-should-too",
+      "published": "Sun, 25 Oct 2026 16:00:00 GMT",
+      "summary": "<p><strong>Ocarina of Mine.</strong></p><p>My first ocarina was from a hippy shop in Birmingham that also sold dreamcatchers. It was a circular brick-coloured one with zig-zag patterns, probably meant to look ‘ethnic’?</p><p>A few years later I found some charcoal-dark, pebble-smooth pendant Ocarinas whilst backpacking in China. They look and feel almost naturally formed, weather-hewn, <em>igneous",
+      "title": "Feature: 30 Years Later, I'm Finally Learning To Play The Ocarina (And You Should Too)"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-switch-2-update-now-live-here-are-the-details",
+      "published": "Sun, 25 Oct 2026 05:55:00 GMT",
+      "summary": "<p><strong>Get downloading.</strong></p><p>If you're playing <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/call-of-duty-modern-warfare-4\">Call of Duty: Modern Warfare 4</a> on Switch 2 this weekend, you might need to update the game since your last session.</p><p>Activision hasn't shared any official notice about this at the time of writing, but a new patch for this version of the ",
+      "title": "PSA: Call Of Duty: Modern Warfare 4 Switch 2 Update Now Live, Here Are The Details"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
