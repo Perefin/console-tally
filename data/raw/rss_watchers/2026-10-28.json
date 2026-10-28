@@ -1,0 +1,52 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-10-28T14:52:13Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/netflix-reportedly-offered-500m-to-microsoft-to-license-xbox-ip-for-seven-years",
+      "published": "Mon, 26 Oct 2026 13:02:57 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/xbox_EP1Js03.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Netflix reportedly offered Microsoft $500 million over seven years to license Xbox IP for film and television adaptations.</p> <p><a href=\"https://www.gamesindustry.biz/netflix-reportedly-offered-500m-to-microsoft-to-license-xbox-ip-for-seven-years\">Read more</a></p>",
+      "title": "Netflix reportedly offered $500m to Microsoft to license Xbox IP for seven years"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/capcom-affected-by-data-breach-over-117m-capcom-id-accounts-compromised",
+      "published": "Fri, 23 Oct 2026 11:05:20 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/monster-hunter_YYPxbEk.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Capcom has been hit by a data breach that affected over 11.7 million Capcom ID accounts.</p> <p><a href=\"https://www.gamesindustry.biz/capcom-affected-by-data-breach-over-117m-capcom-id-accounts-compromised\">Read more</a></p>",
+      "title": "Capcom affected by data breach, over 11.7m Capcom ID accounts compromised"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/marvels-wolverine-leads-us-september-charts-achieves-highest-monthly-dollar-sales-for-a-sony-published-title-since-helldivers-2",
+      "published": "Thu, 22 Oct 2026 13:00:08 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/marvels-wolverine.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Marvel's Wolverine led US game sales in September, achieving the highest monthly dollar sales for a Sony-published title since Helldivers 2.</p> <p><a href=\"https://www.gamesindustry.biz/marvels-wolverine-leads-us-september-charts-achieves-highest-monthly-dollar-sales-for-a-son",
+      "title": "Marvel's Wolverine leads US September charts, achieves highest monthly dollar sales for a Sony-published title since Helldivers 2"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/10/capcoms-2026-bangers-continue-to-shine-in-latest-financial-report",
+      "published": "Tue, 27 Oct 2026 12:15:00 GMT",
+      "summary": "<p><strong>First numbers for Onimusha.</strong></p><p>Capcom has shared its <a href=\"https://www.capcom.co.jp/ir/english/data/pdf/explanation/2026/2nd/explanation_2026_2nd_01.pdf\">latest financial report</a> for Q2 FY2026, and what do you know, the studio's stream of quality releases so far this year continue to sell well.</p><p><a href=\"https://www.nintendolife.com/games/nintendo-switch-2/onimush",
+      "title": "Capcom's 2026 Bangers Continue To Shine In Latest Financial Report"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/10/zelda-ocarina-of-time-midnight-launches-announced-for-nintendo-new-york-and-san-francisco-stores",
+      "published": "Tue, 27 Oct 2026 00:55:00 GMT",
+      "summary": "<p><strong>Both events have already \"sold out\".</strong></p><p></p><p>Ahead of the launch of <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/legend-of-zelda-ocarina-of-time\">Zelda: Ocarina of Time</a> on the Switch 2 next week, Nintendo has officially revealed its midnight launch plans for the <a class=\"external\" href=\"https://experience.nintendo.com/?_gl=1*1arr1ur*_gcl_au*ODQ2MjUzMT",
+      "title": "Zelda: Ocarina Of Time Midnight Launches Announced For Nintendo New York And San Francisco Stores"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
