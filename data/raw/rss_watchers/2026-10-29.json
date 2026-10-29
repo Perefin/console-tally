@@ -1,0 +1,52 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-10-29T14:57:27Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/onimusha-resident-evil-pragmata-and-monster-hunter-franchises-boost-capcom-h1-results",
+      "published": "Thu, 29 Oct 2026 12:57:05 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/onimusha-way-of-the-sword-is-the-best-game-i-played-at-summe_2j2m.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Capcom published its financial results for the six months ended September 30, 2026, and reported increases across the board, including a 67.5% rise in ordinary profit to &yen;61.2 billion ($387.2 million).</p> <p><a href=\"https://w",
+      "title": "Onimusha, Resident Evil, Pragmata, and Monster Hunter franchises boost Capcom H1 results"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/netflix-reportedly-offered-500m-to-microsoft-to-license-xbox-ip-for-seven-years",
+      "published": "Mon, 26 Oct 2026 13:02:57 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/xbox_EP1Js03.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Netflix reportedly offered Microsoft $500 million over seven years to license Xbox IP for film and television adaptations.</p> <p><a href=\"https://www.gamesindustry.biz/netflix-reportedly-offered-500m-to-microsoft-to-license-xbox-ip-for-seven-years\">Read more</a></p>",
+      "title": "Netflix reportedly offered $500m to Microsoft to license Xbox IP for seven years"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/capcom-affected-by-data-breach-over-117m-capcom-id-accounts-compromised",
+      "published": "Fri, 23 Oct 2026 11:05:20 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/monster-hunter_YYPxbEk.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Capcom has been hit by a data breach that affected over 11.7 million Capcom ID accounts.</p> <p><a href=\"https://www.gamesindustry.biz/capcom-affected-by-data-breach-over-117m-capcom-id-accounts-compromised\">Read more</a></p>",
+      "title": "Capcom affected by data breach, over 11.7m Capcom ID accounts compromised"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/marvels-wolverine-leads-us-september-charts-achieves-highest-monthly-dollar-sales-for-a-sony-published-title-since-helldivers-2",
+      "published": "Thu, 22 Oct 2026 13:00:08 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/marvels-wolverine.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Marvel's Wolverine led US game sales in September, achieving the highest monthly dollar sales for a Sony-published title since Helldivers 2.</p> <p><a href=\"https://www.gamesindustry.biz/marvels-wolverine-leads-us-september-charts-achieves-highest-monthly-dollar-sales-for-a-son",
+      "title": "Marvel's Wolverine leads US September charts, achieves highest monthly dollar sales for a Sony-published title since Helldivers 2"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/10/walmart-cancels-zelda-switch-2-pre-orders-a-day-before-release",
+      "published": "Thu, 29 Oct 2026 01:30:00 GMT",
+      "summary": "<p><strong>The retailer reportedly \"oversold\" orders.</strong></p><p>The <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/legend-of-zelda-ocarina-of-time\">Zelda</a>-themed Switch 2 is out this week, and Walmart has reportedly cancelled some pre-orders at the last minute.</p><p>As <a class=\"external\" href=\"https://kotaku.com/fans-cant-believe-walmart-canceled-zelda-ocarina-of-time-swit",
+      "title": "Walmart Cancels Zelda Switch 2 Pre-Orders A Day Before Release"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
