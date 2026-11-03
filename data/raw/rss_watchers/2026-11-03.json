@@ -1,0 +1,38 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-11-03T15:50:49Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/ci-games-secures-32-million-loan-to-finish-and-self-publish-lords-of-the-fallen-2",
+      "published": "Mon, 02 Nov 2026 21:28:03 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/ss_6e300b19df2d25ee2435c848dca5da277ce7ebff.1920x1080.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>CI Games has signed a $32 million (&euro;28.6 million) syndicated credit facility to fund the completion and launch of Lords of the Fallen II.</p> <p><a href=\"https://www.gamesindustry.biz/ci-games-secures-32-million-loan-to-finish-and-self-pu",
+      "title": "CI Games secures $32 million loan to finish and self-publish Lords of the Fallen 2"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/onimusha-resident-evil-pragmata-and-monster-hunter-franchises-boost-capcom-h1-results",
+      "published": "Thu, 29 Oct 2026 12:57:05 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/onimusha-way-of-the-sword-is-the-best-game-i-played-at-summe_2j2m.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Capcom published its financial results for the six months ended September 30, 2026, and reported increases across the board, including a 67.5% rise in ordinary profit to &yen;61.2 billion ($387.2 million).</p> <p><a href=\"https://w",
+      "title": "Onimusha, Resident Evil, Pragmata, and Monster Hunter franchises boost Capcom H1 results"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/11/after-cancelling-zelda-switch-2-pre-orders-walmart-is-now-supposedly-sending-out-usd519-gift-cards",
+      "published": "Tue, 03 Nov 2026 03:30:00 GMT",
+      "summary": "<p><strong>Some customers also claim they've been able to \"reorder\" the system.</strong></p><p>Last week, Walmart reportedly cancelled <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/legend-of-zelda-ocarina-of-time\">Zelda</a> Switch 2 pre-orders a day before the launch after it \"oversold\" the consoles.</p><p>In an update, the retailer is apparently giving out vouchers in response to ",
+      "title": "After Cancelling Zelda Switch 2 Pre-Orders, Walmart Is Now Supposedly Sending Out $519 Gift Cards"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
