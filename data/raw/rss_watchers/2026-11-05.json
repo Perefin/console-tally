@@ -1,0 +1,80 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-11-05T16:09:56Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/investment-firm-denmu-closes-oversubscribed-debut-fund-surpassing-50-million-target",
+      "published": "Thu, 05 Nov 2026 16:00:00 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/galactic-racer.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Earlier this year, <a href=\"https://www.gamesindustry.biz/why-new-investment-house-denmu-has-50m-to-give-to-auteur-developers\"> Denmu launched its debut fund with a $50 million target</a>. The firm has now closed the oversubscribed fund, surpassing its initial goal.</p> <p><a href",
+      "title": "Investment firm Denmu closes oversubscribed debut fund, surpassing $50 million target"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-almost-reach-8m-74-bought-on-playstation-5",
+      "published": "Thu, 05 Nov 2026 14:13:50 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/gta-6-lucia-jason_Eos2shf.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Grand Theft Auto 6 is two weeks away, and the highly anticipated title has nearly reached eight million pre-orders, according to recent data.</p> <p><a href=\"https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-almost-reach-8m-74-bought-on-playstation-5\">Read more",
+      "title": "Sensor Tower: GTA 6 pre-orders almost reach 8m, 74% bought on PlayStation 5"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/playstation-raises-full-year-forecast-after-revenue-growth-in-network-services-and-first-party-software",
+      "published": "Thu, 05 Nov 2026 11:55:30 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/wolverine_LMSehZh.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Sony has raised its full-year forecast for its games segment after higher net sales and operating income in the second quarter.</p> <p><a href=\"https://www.gamesindustry.biz/playstation-raises-full-year-forecast-after-revenue-growth-in-network-services-and-first-party-software\"",
+      "title": "PlayStation raises full-year forecast after revenue growth in network services and first-party software"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/nintendo-h1-operating-profit-rises-491-supported-by-new-titles-including-splatoon-raiders",
+      "published": "Thu, 05 Nov 2026 09:57:30 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/splatoon-raiders_nMrGrDb.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Nintendo reported a 12.1% decrease in net sales for the six months ended September 30, 2026, primarily due to reduced hardware sales.</p> <p><a href=\"https://www.gamesindustry.biz/nintendo-h1-operating-profit-rises-491-supported-by-new-titles-including-splatoon-raiders\">R",
+      "title": "Nintendo H1 operating profit rises 49.1% supported by new titles including Splatoon Raiders"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/ci-games-secures-32-million-loan-to-finish-and-self-publish-lords-of-the-fallen-2",
+      "published": "Mon, 02 Nov 2026 21:28:03 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/ss_6e300b19df2d25ee2435c848dca5da277ce7ebff.1920x1080.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>CI Games has signed a $32 million (&euro;28.6 million) syndicated credit facility to fund the completion and launch of Lords of the Fallen II.</p> <p><a href=\"https://www.gamesindustry.biz/ci-games-secures-32-million-loan-to-finish-and-self-pu",
+      "title": "CI Games secures $32 million loan to finish and self-publish Lords of the Fallen 2"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/onimusha-resident-evil-pragmata-and-monster-hunter-franchises-boost-capcom-h1-results",
+      "published": "Thu, 29 Oct 2026 12:57:05 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/onimusha-way-of-the-sword-is-the-best-game-i-played-at-summe_2j2m.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Capcom published its financial results for the six months ended September 30, 2026, and reported increases across the board, including a 67.5% rise in ordinary profit to &yen;61.2 billion ($387.2 million).</p> <p><a href=\"https://w",
+      "title": "Onimusha, Resident Evil, Pragmata, and Monster Hunter franchises boost Capcom H1 results"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/11/here-are-the-best-selling-switch-1-and-2-games-as-of-september-2026",
+      "published": "Thu, 05 Nov 2026 09:30:00 GMT",
+      "summary": "<p><strong>Good on you, Star Fox!</strong></p><p>Nintendo's released its latest financial data, so it's time for an updated look at the <a href=\"https://www.nintendo.co.jp/ir/en/finance/software/switch.html\">best-selling first-party games</a> on Switch 1 and 2.</p><p>Starting with the Switch 1, there really isn't that much to talk about here. The numbers are going up, albeit pretty slowly these da",
+      "title": "Here Are The Best-Selling Switch 1 & 2 Games As Of September 2026"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/11/switch-2-surpasses-26-million-units-sold-hardware-sales-down-by-37-4percent",
+      "published": "Thu, 05 Nov 2026 08:45:00 GMT",
+      "summary": "<p><strong>This is really no surprise, though.</strong></p><p>Nintendo has released its latest <a href=\"https://www.nintendo.co.jp/ir/pdf/2026/261105_3e.pdf\">financial report</a>, confirming that the Switch 2 has now sold over 26 million units since its launch last year.</p><p>Coming in at more accurate 26.35 million, unit sales for the first half of the current fiscal year totalled 6.49 million. ",
+      "title": "Switch 2 Surpasses 26 Million Units Sold, Hardware Sales Down By 37.4%"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-walkthrough-switch-2-remake",
+      "published": "Thu, 05 Nov 2026 05:00:00 GMT",
+      "summary": "<p><strong>Your companion to a huge adventure.</strong></p><p><strong>Zelda: Ocarina of Time</strong> is a dense adventure with many secrets to find, and while the critical path is fairly linear, it's rarely straightforward - asking you to pick up select items and upgrades before you can start exploring its many dungeons.</p><p>That's why a <strong>Zelda: Ocarina of Time walkthrough</strong> comes",
+      "title": "Guide: Zelda: Ocarina Of Time Walkthrough (Switch 2 Remake): Guide To The Main Quest, Side Quests & Collectables"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
