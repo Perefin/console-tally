@@ -1,0 +1,73 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-11-11T15:52:31Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/krafton-q3-revenue-rises-116-despite-decreases-in-pc-and-console-segments",
+      "published": "Tue, 10 Nov 2026 14:27:40 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/Image1_KRAFTON-CI-scaled.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Krafton has reported a 35.5% drop in operating profit to ₩225 billion ($168.1 million) for its third quarter, which it attributed to costs \"associated with participation in Gamescom and other activities.</p> <p><a href=\"https://www.gamesindustry.biz/krafton-q3-revenue-ris",
+      "title": "Krafton Q3 revenue rises 11.6% despite decreases in PC and console segments"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/investment-firm-denmu-closes-oversubscribed-debut-fund-surpassing-50-million-target",
+      "published": "Thu, 05 Nov 2026 16:00:00 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/galactic-racer.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Earlier this year, <a href=\"https://www.gamesindustry.biz/why-new-investment-house-denmu-has-50m-to-give-to-auteur-developers\"> Denmu launched its debut fund with a $50 million target</a>. The firm has now closed the oversubscribed fund, surpassing its initial goal.</p> <p><a href",
+      "title": "Investment firm Denmu closes oversubscribed debut fund, surpassing $50 million target"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-almost-reach-8m-74-bought-on-playstation-5",
+      "published": "Thu, 05 Nov 2026 14:13:50 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/gta-6-lucia-jason_Eos2shf.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Grand Theft Auto 6 is two weeks away, and the highly anticipated title has nearly reached eight million pre-orders, according to recent data.</p> <p><a href=\"https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-almost-reach-8m-74-bought-on-playstation-5\">Read more",
+      "title": "Sensor Tower: GTA 6 pre-orders almost reach 8m, 74% bought on PlayStation 5"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/playstation-raises-full-year-forecast-after-revenue-growth-in-network-services-and-first-party-software",
+      "published": "Thu, 05 Nov 2026 11:55:30 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/wolverine_LMSehZh.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Sony has raised its full-year forecast for its games segment after higher net sales and operating income in the second quarter.</p> <p><a href=\"https://www.gamesindustry.biz/playstation-raises-full-year-forecast-after-revenue-growth-in-network-services-and-first-party-software\"",
+      "title": "PlayStation raises full-year forecast after revenue growth in network services and first-party software"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/nintendo-h1-operating-profit-rises-491-supported-by-new-titles-including-splatoon-raiders",
+      "published": "Thu, 05 Nov 2026 09:57:30 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/splatoon-raiders_nMrGrDb.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Nintendo reported a 12.1% decrease in net sales for the six months ended September 30, 2026, primarily due to reduced hardware sales.</p> <p><a href=\"https://www.gamesindustry.biz/nintendo-h1-operating-profit-rises-491-supported-by-new-titles-including-splatoon-raiders\">R",
+      "title": "Nintendo H1 operating profit rises 49.1% supported by new titles including Splatoon Raiders"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/11/square-enixs-big-reset-is-working-as-it-increases-its-full-year-forecast",
+      "published": "Wed, 11 Nov 2026 14:45:00 GMT",
+      "summary": "<p><strong>Publisher reports \"solid performance\" for FF7 Rebirth.</strong></p><p>Square Enix has released its latest <a href=\"https://www.hd.square-enix.com/eng/ir/pdf/27q2slides.pdf\">financial data</a> for the six-month period ending 30th September 2026.</p><p>In short, it looks like the company's efforts to reset its business is working. It reported increased sales compared to the same period in",
+      "title": "Square Enix's Big Reset Is Working As It Increases Its Full-Year Forecast"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/11/its-official-zelda-ocarina-of-time-has-sold-over-5-million-copies-in-4-days",
+      "published": "Wed, 11 Nov 2026 09:30:00 GMT",
+      "summary": "<p><strong>It's the fastest-selling Switch 2 game.</strong></p><p>Nintendo <a href=\"https://www.nintendo.co.jp/corporate/release/en/2026/261111.html\">has announced</a> that <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/legend-of-zelda-ocarina-of-time\">The Legend of Zelda: Ocarina of Time</a> has sold a total of <strong>5.2 million units</strong> in just four days.</p><p>This number",
+      "title": "It's Official, Zelda: Ocarina Of Time Has Sold Over 5 Million Copies In 4 Days"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/11/zelda-ocarina-of-time-off-to-a-great-start-says-nintendo",
+      "published": "Tue, 10 Nov 2026 10:45:00 GMT",
+      "summary": "<p><strong>No specific numbers yet, though.</strong></p><p>Nintendo has released the <a href=\"https://www.nintendo.co.jp/ir/pdf/2026/261106_2e.pdf\">Q&amp;A translation</a> from its latest financial briefing, with president Shuntaro Furukawa stating that <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/legend-of-zelda-ocarina-of-time\">Zelda: Ocarina of Time</a> is \"off to a great start",
+      "title": "Zelda: Ocarina Of Time \"Off To A Great Start\", Says Nintendo"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
