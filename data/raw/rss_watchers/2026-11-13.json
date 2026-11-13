@@ -1,0 +1,52 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-11-13T15:55:42Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/krafton-q3-revenue-rises-116-despite-decreases-in-pc-and-console-segments",
+      "published": "Tue, 10 Nov 2026 14:27:40 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/Image1_KRAFTON-CI-scaled.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Krafton has reported a 35.5% drop in operating profit to ₩225 billion ($168.1 million) for its third quarter, which it attributed to costs \"associated with participation in Gamescom and other activities.</p> <p><a href=\"https://www.gamesindustry.biz/krafton-q3-revenue-ris",
+      "title": "Krafton Q3 revenue rises 11.6% despite decreases in PC and console segments"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/11/the-series-was-in-dire-straits-kit-and-krysta-recall-zeldas-pre-botw-dark-times",
+      "published": "Fri, 13 Nov 2026 13:30:00 GMT",
+      "summary": "<p><strong>\"We are losing this\".</strong></p><p>While many of us can now look back on the <a href=\"https://www.nintendolife.com/games/wii/legend_of_zelda_skyward_sword\">Skyward Sword</a>s of the Zelda series with fondness, those who were in the trenches at the time might recall that things were starting to feel stagnant.</p><p>The later games of the 'traditional' Zelda formula were well received c",
+      "title": "\"The Series Was In Dire Straits\" - Kit & Krysta Recall Zelda's Pre-BOTW Dark Times"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-walkthrough-switch-2-remake",
+      "published": "Fri, 13 Nov 2026 05:00:00 GMT",
+      "summary": "<p><strong>Your companion to a huge adventure.</strong></p><p><strong>Zelda: Ocarina of Time</strong> is a dense adventure with many secrets to find, and while the critical path is fairly linear, it's rarely straightforward - asking you to pick up select items and upgrades before you can start exploring its many dungeons.</p><p>That's why a <strong>Zelda: Ocarina of Time walkthrough</strong> comes",
+      "title": "Guide: Zelda: Ocarina Of Time Walkthrough (Switch 2 Remake): Guide To The Main Quest, Side Quests & Collectables"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/11/nintendo-reveals-switch-2-black-friday-deals-us",
+      "published": "Thu, 12 Nov 2026 15:15:00 GMT",
+      "summary": "<p><strong>The dis-countdown begins.</strong></p><p>Nintendo has revealed a bunch of offers in the US for this year's Black Friday in a hope to boost its sales ahead of the holiday season.</p><p>The headline here is a Switch 2 hardware bundle, which contains the console, a digital copy of <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/mario-kart-world\">Mario Kart World</a>, and a 3-",
+      "title": "Nintendo Reveals Switch 2 Black Friday Deals (US)"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/11/japanese-charts-zelda-ocarina-of-time-physical-takes-the-lions-share-of-its-japanese-sales",
+      "published": "Thu, 12 Nov 2026 14:45:00 GMT",
+      "summary": "<p><strong>Physical is dead, eh?</strong></p><p>After Nintendo's reveal this week that <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/legend-of-zelda-ocarina-of-time\">The Legend of Zelda: Ocarina of Time</a> had shifted <a href=\"https://www.nintendolife.com/news/2026/11/its-official-zelda-ocarina-of-time-has-sold-over-5-million-copies-in-4-days\">5.2 million units</a> in its first fo",
+      "title": "Japanese Charts: Zelda: Ocarina Of Time Physical Takes The Lion's Share Of Its Japanese Sales"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
