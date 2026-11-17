@@ -1,0 +1,38 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-11-17T17:23:45Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-exceed-14bn-with-87-for-the-ultimate-edition",
+      "published": "Tue, 17 Nov 2026 01:00:00 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/gta-6-headline-launch-gallery-30.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Sensor Tower estimates <a href=\"https://sensortower.com/grand-theft-auto-VI/sales-tracker\"> Grand Theft Auto 6 has generated over $1.4 billion in pre-order revenue</a>, with 87% of orders for the Ultimate Edition.</p> <p><a href=\"https://www.gamesindustry.biz/sens",
+      "title": "Sensor Tower: GTA 6 pre-orders exceed $1.4bn, with 87% for the Ultimate Edition"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/monster-hunter-outlanders-passes-102-million-in-iap-revenue-in-two-weeks",
+      "published": "Mon, 16 Nov 2026 20:05:40 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/Ruger-Aidal-with-logo.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Monster Hunter Outlanders has earned more than $10.2 million in in-app purchase revenue in just over two weeks.</p> <p><a href=\"https://www.gamesindustry.biz/monster-hunter-outlanders-passes-102-million-in-iap-revenue-in-two-weeks\">Read more</a></p>",
+      "title": "Monster Hunter Outlanders passes $10.2 million in IAP revenue in two weeks"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/11/zelda-ocarina-of-time-remake-crowned-2026s-best-selling-physical-video-game-in-the-us",
+      "published": "Tue, 17 Nov 2026 00:55:00 GMT",
+      "summary": "<p><strong>\"After just one week\".</strong></p><p>The <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/legend-of-zelda-ocarina-of-time\">Zelda: Ocarina of Time</a> remake for Switch 2 got off to an <em>outstanding</em> start, selling over five million copies (approx <strong>5.2 million</strong> units) in just four days. Sales in the <a href=\"https://www.nintendolife.com/news/2026/11/uk-",
+      "title": "Zelda: Ocarina Of Time Remake Crowned 2026's \"Best-Selling Physical Video Game In The US\""
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
