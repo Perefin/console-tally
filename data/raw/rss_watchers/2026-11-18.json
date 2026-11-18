@@ -1,0 +1,45 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-11-18T16:57:19Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/build-a-rocket-boy-pursuing-litigation-against-alleged-saboteurs-to-repay-617m-in-debt",
+      "published": "Wed, 18 Nov 2026 14:56:40 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/MindsEye_ZlzwQNY.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>MindsEye developer Build a Rocket Boy owes &pound;61.7 million in debt, which it plans to recoup by pursuing litigation against alleged \"saboteurs\".</p> <p><a href=\"https://www.gamesindustry.biz/build-a-rocket-boy-pursuing-litigation-against-alleged-saboteurs-to-repay-617m-in-deb",
+      "title": "Build a Rocket Boy pursuing litigation against alleged \"saboteurs\" to repay £61.7m in debt"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/analyst-console-shipments-drop-365-to-64m-units-during-q3-on-run-up-to-major-releases",
+      "published": "Wed, 18 Nov 2026 10:58:50 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/gta-6-zelda.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Console shipments fell 36.5% year-on-year to 6.4 million units during the third quarter, according to S&amp;P Global Market Intelligence Kagan.</p> <p><a href=\"https://www.gamesindustry.biz/analyst-console-shipments-drop-365-to-64m-units-during-q3-on-run-up-to-major-releases\">Read mor",
+      "title": "Analyst: Console shipments drop 36.5% to 6.4m units during Q3 on run-up to major releases"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-exceed-14bn-with-87-for-the-ultimate-edition",
+      "published": "Tue, 17 Nov 2026 01:00:00 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/gta-6-headline-launch-gallery-30.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Sensor Tower estimates <a href=\"https://sensortower.com/grand-theft-auto-VI/sales-tracker\"> Grand Theft Auto 6 has generated over $1.4 billion in pre-order revenue</a>, with 87% of orders for the Ultimate Edition.</p> <p><a href=\"https://www.gamesindustry.biz/sens",
+      "title": "Sensor Tower: GTA 6 pre-orders exceed $1.4bn, with 87% for the Ultimate Edition"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/monster-hunter-outlanders-passes-102-million-in-iap-revenue-in-two-weeks",
+      "published": "Mon, 16 Nov 2026 20:05:40 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/Ruger-Aidal-with-logo.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Monster Hunter Outlanders has earned more than $10.2 million in in-app purchase revenue in just over two weeks.</p> <p><a href=\"https://www.gamesindustry.biz/monster-hunter-outlanders-passes-102-million-in-iap-revenue-in-two-weeks\">Read more</a></p>",
+      "title": "Monster Hunter Outlanders passes $10.2 million in IAP revenue in two weeks"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
