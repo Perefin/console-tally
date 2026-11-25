@@ -1,0 +1,80 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-11-25T18:26:25Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/gaming-sector-to-benefit-from-funding-package-of-over-45m-as-part-of-creative-industries-sector-plan",
+      "published": "Wed, 25 Nov 2026 14:55:50 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/nathaniel-cherian-2Z9isw4Pamk-unsplash.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Eight games studios will share over &pound;45 million in a government funding package with other creative sectors as part of a wider &pound;500 million investment by UK Research and Innovation (UKRI) in <a href=\"https://www.gamesindustry.biz/ukie-on-what-the",
+      "title": "Gaming sector to benefit from funding package of over £45m as part of Creative Industries Sector Plan"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/uk-mobile-developers-can-now-apply-for-their-share-of-a-260-million-google-settlement",
+      "published": "Tue, 24 Nov 2026 10:50:00 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/google-play.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>UK developers who released games, apps or content on the Google Play Store between August 2018 and July 2026 can now claim for their share of a &pound;260 million settlement agreed in a class action suit earlier this year.</p> <p><a href=\"https://www.gamesindustry.biz/uk-mobile-develo",
+      "title": "UK mobile developers can now apply for their share of a £260 million Google settlement"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/gta-6-hits-379-billion-in-its-first-day-on-sale-becoming-the-biggest-entertainment-launch-in-history",
+      "published": "Fri, 20 Nov 2026 20:24:00 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/Raul_Bautista_02_RUnoiiq.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Rockstar has announced that GTA 6 achieved $3.79 billion in retail sales in its first day on sale, \"setting a new record for entertainment across any medium, and becoming the biggest entertainment launch in history.\"</p> <p><a href=\"https://www.gamesindustry.biz/gta-6-hit",
+      "title": "GTA 6 hits $3.79 billion in its first day on sale, becoming \"the biggest entertainment launch in history\""
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/ampere-analysis-over-1m-uk-and-us-xbox-players-accessed-gta-6-before-official-launch-by-switching-location-to-new-zealand",
+      "published": "Fri, 20 Nov 2026 15:21:00 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/love-magazine-jason-and-lucia-motorcycle.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Over two million Xbox players in the UK and US accessed Grand Theft Auto 6 before its official launch by changing their location to New Zealand, according to Ampere Analysis.</p> <p><a href=\"https://www.gamesindustry.biz/ampere-analysis-over-1m-uk-and-us-x",
+      "title": "Ampere Analysis: Over 2m UK and US Xbox players accessed GTA 6 before official launch by switching location to New Zealand"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/sensor-tower-estimates-gta-6-generated-236bn-in-pre-order-and-launch-day-sales",
+      "published": "Fri, 20 Nov 2026 14:07:30 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/Lucia_Caminos_07.0.c7un8ro7_p2.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Sensor Tower estimates Grand Theft Auto 6 sold over 24.5 million copies through pre-orders and on launch day, generating approximately $2.36 billion in revenue.</p> <p><a href=\"https://www.gamesindustry.biz/sensor-tower-estimates-gta-6-generated-236bn-in-pre-order-",
+      "title": "Sensor Tower estimates GTA 6 generated $2.36bn in pre-order and launch-day sales"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/assassins-creed-black-flag-resynced-drives-ubisoft-q2-net-bookings-above-guidance-h1-results-decline-165-to-6447m",
+      "published": "Fri, 20 Nov 2026 11:43:40 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/black-flag-resynced.jpeg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Assassin's Creed Black Flag Resynced increased Ubisoft's Q2 net bookings to &euro;389 million, exceeding the estimated guidance of &euro;370 million.</p> <p><a href=\"https://www.gamesindustry.biz/assassins-creed-black-flag-resynced-drives-ubisoft-q2-net-bookings-above-guidanc",
+      "title": "Ubisoft merges two Creative Houses as H1 results decline 16.5%; Q2 net bookings above guidance thanks to Assassin's Creed Black Flag remake"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/the-creator-of-et-on-the-atari-2600-likens-the-deluge-of-ai-made-games-to-the-glut-of-poor-quality-titles-released-ahead-of-the-us-video-game-crash-of-1983",
+      "published": "Fri, 20 Nov 2026 11:13:00 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/IMG_8185.jpeg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>At the DevGAMM Lisbon conference this week, veteran game designer Howard Scott Warshaw gave a talk called \"From Atari to AI\". Warshaw was behind a number of famous titles for the Atari 2600, including the classic Yars' Revenge, but infamously he also designed the game E.T. the Extra-Ter",
+      "title": "The creator of E.T. on the Atari 2600 likens the deluge of AI-made games to the glut of poor-quality titles released ahead of the US video game crash of 1983"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/11/tiny-bookshop-sells-1-million-copies-new-dlc-expansion-announced",
+      "published": "Tue, 24 Nov 2026 11:00:00 GMT",
+      "summary": "<p><strong>Launching next month.</strong></p><p><a href=\"https://www.nintendolife.com/games/switch-eshop/tiny_bookshop\">Tiny Bookshop</a>, the charming indie title in which you take on the role of bookseller in a quaint seaside resort, has officially sold surpassed 1 million copies sold across PC, Switch, PS5, Xbox, iOS, and Android since its launch in August 2025.</p><p>To celebrate, publisher Sk",
+      "title": "Tiny Bookshop Sells 1 Million Copies, New DLC Expansion Announced"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/11/uk-charts-no-disc-no-problem-gta-6-shoves-zelda-further-down-the-ranking",
+      "published": "Tue, 24 Nov 2026 10:15:00 GMT",
+      "summary": "<p><strong>Disc/Reward.</strong></p><p>The latest physical sales chart for the UK is in, and in perhaps the most unsurprising bit of news in <em>yonks</em>, <a href=\"https://www.pushsquare.com/games/ps5/grand_theft_auto_6\">Grand Theft Auto 6</a> is quite the hit.</p><p>Yes, the lack of a disc in the game's 'physical' release wasn't enough of a deterrent for many picking up Rockstar's latest, as it",
+      "title": "UK Charts: No Disc, No Problem - GTA 6 Shoves Zelda Further Down The Ranking"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
