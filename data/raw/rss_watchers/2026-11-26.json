@@ -1,0 +1,80 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-11-26T18:08:29Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/nielseniq-gta-6-boosts-uk-games-retail-revenue-by-99-to-142m-during-launch-period",
+      "published": "Thu, 26 Nov 2026 11:55:50 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/jason-lucia-bank.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>UK games retail revenue increased 99% week-on-week to &pound;142 million during Grand Theft Auto 6's three-day launch period.</p> <p><a href=\"https://www.gamesindustry.biz/nielseniq-gta-6-boosts-uk-games-retail-revenue-by-99-to-142m-during-launch-period\">Read more</a></p>",
+      "title": "NielsenIQ: GTA 6 boosts UK games retail revenue by 99% to £142m during launch period"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/gta-6-launch-drives-combined-23m-downloads-of-franchises-mobile-ports-according-to-appmagic",
+      "published": "Thu, 26 Nov 2026 10:07:50 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/android-gta-vc-mobile-2.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>The <a href=\"https://www.gamesindustry.biz/gta-6-hits-379-billion-in-its-first-day-on-sale-becoming-the-biggest-entertainment-launch-in-history\"> record-breaking launch of Grand Theft Auto 6</a> drove a combined 2.3 million downloads of the franchise's mobile ports in its ",
+      "title": "GTA 6 launch drives combined 2.3m downloads of franchise's mobile ports, according to AppMagic"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/gaming-sector-to-benefit-from-funding-package-of-over-45m-as-part-of-creative-industries-sector-plan",
+      "published": "Wed, 25 Nov 2026 14:55:50 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/nathaniel-cherian-2Z9isw4Pamk-unsplash.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Eight games studios will share over &pound;45 million in a government funding package with other creative sectors as part of a wider &pound;500 million investment by UK Research and Innovation (UKRI) in <a href=\"https://www.gamesindustry.biz/ukie-on-what-the",
+      "title": "Gaming sector to benefit from funding package of over £45m as part of Creative Industries Sector Plan"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/uk-mobile-developers-can-now-apply-for-their-share-of-a-260-million-google-settlement",
+      "published": "Tue, 24 Nov 2026 10:50:00 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/google-play.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>UK developers who released games, apps or content on the Google Play Store between August 2018 and July 2026 can now claim for their share of a &pound;260 million settlement agreed in a class action suit earlier this year.</p> <p><a href=\"https://www.gamesindustry.biz/uk-mobile-develo",
+      "title": "UK mobile developers can now apply for their share of a £260 million Google settlement"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/gta-6-hits-379-billion-in-its-first-day-on-sale-becoming-the-biggest-entertainment-launch-in-history",
+      "published": "Fri, 20 Nov 2026 20:24:00 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/Raul_Bautista_02_RUnoiiq.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Rockstar has announced that GTA 6 achieved $3.79 billion in retail sales in its first day on sale, \"setting a new record for entertainment across any medium, and becoming the biggest entertainment launch in history.\"</p> <p><a href=\"https://www.gamesindustry.biz/gta-6-hit",
+      "title": "GTA 6 hits $3.79 billion in its first day on sale, becoming \"the biggest entertainment launch in history\""
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/ampere-analysis-over-1m-uk-and-us-xbox-players-accessed-gta-6-before-official-launch-by-switching-location-to-new-zealand",
+      "published": "Fri, 20 Nov 2026 15:21:00 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/love-magazine-jason-and-lucia-motorcycle.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Over two million Xbox players in the UK and US accessed Grand Theft Auto 6 before its official launch by changing their location to New Zealand, according to Ampere Analysis.</p> <p><a href=\"https://www.gamesindustry.biz/ampere-analysis-over-1m-uk-and-us-x",
+      "title": "Ampere Analysis: Over 2m UK and US Xbox players accessed GTA 6 before official launch by switching location to New Zealand"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/11/japanese-charts-no-prizes-for-guessing-what-has-overtaken-zelda-and-switch-2-this-week",
+      "published": "Thu, 26 Nov 2026 17:00:00 GMT",
+      "summary": "<p><strong>Saria, not sorry.</strong></p><p>The latest Japanese charts are in from <a href=\"https://www.famitsu.com/article/202611/95209\">Famitsu</a>, and in perhaps the least surprising debut in recent memory, <a href=\"https://www.pushsquare.com/games/ps5/grand_theft_auto_6\">Grand Theft Auto VI</a> is a hit.</p><p>Rockstar's code-in-a-box release had a staggering debut week in Japan, pulling in o",
+      "title": "Japanese Charts: No Prizes For Guessing What Has Overtaken Zelda & Switch 2 This Week"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/11/gta-6s-physical-launch-has-been-an-astronomical-success-despite-no-discs",
+      "published": "Thu, 26 Nov 2026 16:30:00 GMT",
+      "summary": "<p><strong>The biggest physical launch since 2019.</strong></p><p>All eyes have been on the launch of <a href=\"https://www.pushsquare.com/games/ps5/grand_theft_auto_6\">GTA 6</a> this month, with the game's so-called physical launch being a particularly interesting litmus test for the future of the industry.</p><p>It turns out that even without any discs, GTA 6 has proven to be a monumental success",
+      "title": "GTA 6's Physical Launch Has Been An Astronomical Success, Despite No Discs"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/11/nintendo-restocks-metroid-dread-physical-copies-ahead-of-metroid-ravenous-launch",
+      "published": "Thu, 26 Nov 2026 00:45:00 GMT",
+      "summary": "<p><strong>Demand for Dread.</strong></p><p></p><p>When Nintendo announced <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/metroid_ravenous\">Metroid Ravenous</a> for the Switch 2, there was a reported increase in <a href=\"https://www.nintendolife.com/games/nintendo-switch/metroid_dread\">Metroid Dread</a> sales. This also led to a supposed boost in physical sales of the \"out-of-print\"",
+      "title": "Nintendo Restocks Metroid Dread Physical Copies Ahead Of Metroid Ravenous Launch"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
