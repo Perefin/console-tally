@@ -1,0 +1,87 @@
+{
+  "feeds": [
+    {
+      "label": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed/news"
+    },
+    {
+      "label": "Nintendo Life hardware",
+      "url": "https://www.nintendolife.com/feeds/news"
+    }
+  ],
+  "fetched_at": "2026-11-27T17:51:17Z",
+  "matches": [
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/nielseniq-gta-6-boosts-uk-games-retail-revenue-by-99-to-142m-during-launch-period",
+      "published": "Thu, 26 Nov 2026 11:55:50 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/jason-lucia-bank.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>UK games retail revenue increased 99% week-on-week to &pound;142 million during Grand Theft Auto 6's three-day launch period.</p> <p><a href=\"https://www.gamesindustry.biz/nielseniq-gta-6-boosts-uk-games-retail-revenue-by-99-to-142m-during-launch-period\">Read more</a></p>",
+      "title": "NielsenIQ: GTA 6 boosts UK games retail revenue by 99% to £142m during launch period"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/gta-6-launch-drives-combined-23m-downloads-of-franchises-mobile-ports-according-to-appmagic",
+      "published": "Thu, 26 Nov 2026 10:07:50 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/android-gta-vc-mobile-2.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>The <a href=\"https://www.gamesindustry.biz/gta-6-hits-379-billion-in-its-first-day-on-sale-becoming-the-biggest-entertainment-launch-in-history\"> record-breaking launch of Grand Theft Auto 6</a> drove a combined 2.3 million downloads of the franchise's mobile ports in its ",
+      "title": "GTA 6 launch drives combined 2.3m downloads of franchise's mobile ports, according to AppMagic"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/gaming-sector-to-benefit-from-funding-package-of-over-45m-as-part-of-creative-industries-sector-plan",
+      "published": "Wed, 25 Nov 2026 14:55:50 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/nathaniel-cherian-2Z9isw4Pamk-unsplash.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>Eight games studios will share over &pound;45 million in a government funding package with other creative sectors as part of a wider &pound;500 million investment by UK Research and Innovation (UKRI) in <a href=\"https://www.gamesindustry.biz/ukie-on-what-the",
+      "title": "Gaming sector to benefit from funding package of over £45m as part of Creative Industries Sector Plan"
+    },
+    {
+      "feed": "GamesIndustry.biz",
+      "link": "https://www.gamesindustry.biz/uk-mobile-developers-can-now-apply-for-their-share-of-a-260-million-google-settlement",
+      "published": "Tue, 24 Nov 2026 10:50:00 +0000",
+      "summary": "<img src=\"https://assetsio.gnwcdn.com/google-play.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp\" /> <p>UK developers who released games, apps or content on the Google Play Store between August 2018 and July 2026 can now claim for their share of a &pound;260 million settlement agreed in a class action suit earlier this year.</p> <p><a href=\"https://www.gamesindustry.biz/uk-mobile-develo",
+      "title": "UK mobile developers can now apply for their share of a £260 million Google settlement"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-walkthrough-switch-2-remake",
+      "published": "Fri, 27 Nov 2026 06:00:00 GMT",
+      "summary": "<p><strong>Your companion to a huge adventure.</strong></p><p><strong><a href=\"https://www.nintendolife.com/games/nintendo-switch-2/legend-of-zelda-ocarina-of-time\">Zelda: Ocarina of Time</a></strong> is a dense adventure with many secrets to find, and while the critical path is fairly linear, it's rarely straightforward - asking you to pick up select items and upgrades before you can start explor",
+      "title": "Guide: Zelda: Ocarina Of Time Walkthrough (Switch 2 Remake): Guide To The Main Quest, Side Quests & Collectables"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/11/jupiters-picross-series-for-switch-has-officially-surpassed-one-million-sales",
+      "published": "Fri, 27 Nov 2026 04:30:00 GMT",
+      "summary": "<p><strong>The first title released on the eShop in 2017.</strong></p><p>If you've ever bought one of Jupiter Corporation's <a href=\"https://www.nintendolife.com/games/switch-eshop/picross_s_konami_antiques_edition\">Picross</a> games on the Switch, you've helped the series reach a major milestone.</p><p>The Kyoto-based developer has this week announced its Picross series for Switch has now surpass",
+      "title": "Jupiter's Picross Series For Switch Has Officially Surpassed One Million Sales"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/11/square-enix-says-its-efforts-supporting-switch-2-have-contributed-to-its-strong-financial-results",
+      "published": "Fri, 27 Nov 2026 02:55:00 GMT",
+      "summary": "<p><strong>It's one of the platform's biggest third-party supporters.</strong></p><p>Square Enix has been one of the biggest third-party supporters of the Nintendo Switch 2, and it seems it's already paying off.</p><p>In the Japanese <a class=\"external\" href=\"https://www.hd.square-enix.com/eng/ir/pdf/27q2outline.pdf\">company's latest financial report</a>, Square Enix president Takashi Kiryu has cr",
+      "title": "Square Enix Says Its Efforts Supporting Switch 2 Have Contributed To Its Strong Financial Results"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/11/gallery-get-a-closer-look-at-nintendos-playable-ocarina-of-time",
+      "published": "Thu, 26 Nov 2026 18:30:00 GMT",
+      "summary": "<p><strong>Give us a tune.</strong></p><p>Just last week, Nintendo announced that the upcoming playable and electric ocarinas, launching in conjunction with <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/legend-of-zelda-ocarina-of-time\">Ocarina of Time</a>, will initially be sold on an <a href=\"https://www.nintendolife.com/news/2026/11/zelda-playable-and-electric-ocarinas-will-initi",
+      "title": "Gallery: Get A Closer Look At Nintendo's Playable Ocarina Of Time"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/11/japanese-charts-no-prizes-for-guessing-what-has-overtaken-zelda-and-switch-2-this-week",
+      "published": "Thu, 26 Nov 2026 17:00:00 GMT",
+      "summary": "<p><strong>Saria, not sorry.</strong></p><p>The latest Japanese charts are in from <a href=\"https://www.famitsu.com/article/202611/95209\">Famitsu</a>, and in perhaps the least surprising debut in recent memory, <a href=\"https://www.pushsquare.com/games/ps5/grand_theft_auto_6\">Grand Theft Auto VI</a> is a hit.</p><p>Rockstar's code-in-a-box release had a staggering debut week in Japan, pulling in o",
+      "title": "Japanese Charts: No Prizes For Guessing What Has Overtaken Zelda & Switch 2 This Week"
+    },
+    {
+      "feed": "Nintendo Life hardware",
+      "link": "https://www.nintendolife.com/news/2026/11/gta-6s-physical-launch-has-been-an-astronomical-success-despite-no-discs",
+      "published": "Thu, 26 Nov 2026 16:30:00 GMT",
+      "summary": "<p><strong>The biggest physical launch since 2019.</strong></p><p>All eyes have been on the launch of <a href=\"https://www.pushsquare.com/games/ps5/grand_theft_auto_6\">GTA 6</a> this month, with the game's so-called physical launch being a particularly interesting litmus test for the future of the industry.</p><p>It turns out that even without any discs, GTA 6 has proven to be a monumental success",
+      "title": "GTA 6's Physical Launch Has Been An Astronomical Success, Despite No Discs"
+    }
+  ],
+  "note": "Items flagged for manual review. No automatic fact emission.",
+  "source_key": "rss_watchers"
+}
